@@ -1,144 +1,64 @@
-name: Product Hunt Scraper
+name: Product Hunt Crawler
 
 on:
   schedule:
-    # Run every 3 days at midnight UTC
-    - cron: '0 0 */3 * *'
+    # Run every 3 days at 2:00 UTC
+    - cron: '0 2 */3 * *'
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  scrape:
+  crawl:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        
-      - name: Restore database from cache
-        uses: actions/cache@v3
-        with:
-          path: |
-            processed_urls.db
-            product_hunt_metadata/
-          key: ${{ runner.os }}-ph-database-${{ github.run_id }}
-          restore-keys: |
-            ${{ runner.os }}-ph-database-
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4 nest_asyncio sentence-transformers tldextract numpy scipy
+        pip install crawl4ai  # Install the crawl4ai package
+
+    - name: Install Playwright
+      run: |
+        pip install playwright
+        playwright install chromium 
+
+    - name: Download database from previous run
+      uses: actions/cache@v3
+      with:
+        path: processed_urls.db
+        key: database-${{ github.run_id }}
+        restore-keys: |
+          database-
+
+    - name: Run crawler
+      run: python scraper.py
       
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-          
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          
-      - name: Install Playwright
-        run: |
-          pip install playwright
-          playwright install chromium
-      
-      - name: Create script patcher
-        run: |
-          cat > patch_script.py << 'EOF'
-          #!/usr/bin/env python3
-          
-          import re
-          
-          # Read the scraper file
-          with open('scraper.py', 'r') as f:
-              content = f.read()
-          
-          # Set MAX_URLS to process fewer URLs per run and use lower concurrency
-          content = re.sub(r'MAX_URLS = \d+', 'MAX_URLS = 5', content)
-          content = re.sub(r'MAX_CONCURRENT = \d+', 'MAX_CONCURRENT = 1', content)
-          
-          # Add robust error handling around the crawl_parallel function
-          # This is a simplified approach that will retry up to 3 times for each batch
-          crawler_pattern = r'async def crawl_parallel\(urls, conn, cursor, max_concurrent=1\):.*?try:.*?finally:.*?logger\.info\("Crawler successfully closed"\)'
-          
-          # Add batch-level error handling
-          modified_content = re.sub(
-              r'for i in range\(0, len\(urls\), max_concurrent\):',
-              '''# Add batch-level error handling
-          for i in range(0, len(urls), max_concurrent):
-              retry_count = 0
-              max_retries = 3
-              batch_success = False
-              
-              while not batch_success and retry_count < max_retries:
-                  try:''', 
-              content, 
-              flags=re.DOTALL
-          )
-          
-          # Add retry logic for batch failures
-          modified_content = re.sub(
-              r'await asyncio\.sleep\(5\)',
-              '''            batch_success = True  # If we get here, the batch was successful
-                  except Exception as batch_error:
-                      retry_count += 1
-                      logger.error(f"Batch {i//max_concurrent + 1} failed (attempt {retry_count}/{max_retries}): {batch_error}")
-                      
-                      # Force close and recreate crawler on retry
-                      try:
-                          await crawler.close()
-                      except Exception:
-                          pass
-                          
-                      # Garbage collect
-                      gc.collect()
-                      
-                      # Wait longer between retries
-                      await asyncio.sleep(10)
-                      
-                      # Create a new crawler
-                      logger.info(f"Recreating crawler for retry {retry_count}")
-                      try:
-                          crawler = AsyncWebCrawler(config=browser_config)
-                          await crawler.start()
-                      except Exception as e:
-                          logger.error(f"Failed to create new crawler: {e}")
-                          continue
-              
-              # Skip to next batch if this one completely failed after retries
-              if not batch_success:
-                  logger.error(f"Skipping batch {i//max_concurrent + 1} after {max_retries} failed attempts")
-                  continue
-                  
-              # Add delay between batches
-              await asyncio.sleep(5)''',
-              modified_content, 
-              flags=re.DOTALL
-          )
-          
-          # Disable browser restart between batches
-          modified_content = re.sub(
-              r'if \(i \+ max_concurrent\) < len\(urls\):.*?logger\.error\(f"Error restarting crawler: {e}"\)',
-              '# Browser restart disabled to prevent errors',
-              modified_content, 
-              flags=re.DOTALL
-          )
-          
-          # Write the modified content back
-          with open('scraper.py', 'w') as f:
-              f.write(modified_content)
-              
-          print("Script successfully patched")
-          EOF
-          
-          # Make executable and run
-          chmod +x patch_script.py
-          python patch_script.py
-          
-      - name: Run scraper
-        run: python scraper.py
+    - name: Upload metadata
+      uses: actions/upload-artifact@v3
+      with:
+        name: product-hunt-metadata-${{ github.run_id }}
+        path: product_hunt_metadata/
         
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
-          git add processed_urls.db product_hunt_metadata/ product_urls.txt scraper.log
-          git diff --staged --quiet || git commit -m "Update data from scraper run on $(date)"
-          git push
+    - name: Upload logs
+      uses: actions/upload-artifact@v3
+      with:
+        name: logs-${{ github.run_id }}
+        path: |
+          crawler.log
+          last_run_*.txt
+          
+    - name: Commit and push if there are changes
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "actions@github.com"
+        git add product_hunt_metadata processed_urls.db
+        git commit -m "Update product metadata [skip ci]" || echo "No changes to commit"
+        git push
