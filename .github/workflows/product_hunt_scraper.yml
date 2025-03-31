@@ -38,6 +38,13 @@ jobs:
         run: |
           pip install playwright
           playwright install chromium
+      
+      - name: Modify scraper for stability
+        run: |
+          # Adjust MAX_URLS to process 10 at a time and disable browser restart
+          sed -i 's/MAX_URLS = 1/MAX_URLS = 10/' scraper.py
+          # Comment out browser restart code to prevent errors
+          sed -i '/if (i + max_concurrent) < len(urls):/,/logger.error(f"Error restarting crawler: {e}")/s/^/# /' scraper.py
           
       - name: Run scraper
         run: python scraper.py
