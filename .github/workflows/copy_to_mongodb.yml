@@ -29,6 +29,6 @@ jobs:
 
     - name: Run copy script
       env:
-        # GITHUB_TOKEN is already provided by GitHub Actions
+        GITHUB_TOKEN: ${{ github.token }}
         MONGODB_URI: ${{ secrets.MONGODB_URI }}
       run: python copyAgents.py
