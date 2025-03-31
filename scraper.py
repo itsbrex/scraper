@@ -509,15 +509,6 @@ async def crawl_parallel(urls, conn, cursor, max_concurrent=3):
                 else:
                     logger.warning(f"⚠️ Failed to scrape Product Hunt page {url}")
             
-            # Restart crawler every few batches to free memory
-            if (i + max_concurrent) < len(urls) and (i // max_concurrent) % 5 == 0:
-                logger.info("Restarting crawler to free up memory...")
-                await crawler.close()
-                gc.collect()
-                crawler = AsyncWebCrawler(config=browser_config)
-                await crawler.start()
-                logger.info("Crawler restarted successfully")
-                
             # Add a short delay between batches to avoid rate limiting
             await asyncio.sleep(5)
 
