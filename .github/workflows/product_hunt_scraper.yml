@@ -39,12 +39,98 @@ jobs:
           pip install playwright
           playwright install chromium
       
-      - name: Modify scraper for stability
+      - name: Create script patcher
         run: |
-          # Adjust MAX_URLS to process 10 at a time and disable browser restart
-          sed -i 's/MAX_URLS = 1/MAX_URLS = 10/' scraper.py
-          # Comment out browser restart code to prevent errors
-          sed -i '/if (i + max_concurrent) < len(urls):/,/logger.error(f"Error restarting crawler: {e}")/s/^/# /' scraper.py
+          cat > patch_script.py << 'EOF'
+          #!/usr/bin/env python3
+          
+          import re
+          
+          # Read the scraper file
+          with open('scraper.py', 'r') as f:
+              content = f.read()
+          
+          # Set MAX_URLS to process fewer URLs per run and use lower concurrency
+          content = re.sub(r'MAX_URLS = \d+', 'MAX_URLS = 5', content)
+          content = re.sub(r'MAX_CONCURRENT = \d+', 'MAX_CONCURRENT = 1', content)
+          
+          # Add robust error handling around the crawl_parallel function
+          # This is a simplified approach that will retry up to 3 times for each batch
+          crawler_pattern = r'async def crawl_parallel\(urls, conn, cursor, max_concurrent=1\):.*?try:.*?finally:.*?logger\.info\("Crawler successfully closed"\)'
+          
+          # Add batch-level error handling
+          modified_content = re.sub(
+              r'for i in range\(0, len\(urls\), max_concurrent\):',
+              '''# Add batch-level error handling
+          for i in range(0, len(urls), max_concurrent):
+              retry_count = 0
+              max_retries = 3
+              batch_success = False
+              
+              while not batch_success and retry_count < max_retries:
+                  try:''', 
+              content, 
+              flags=re.DOTALL
+          )
+          
+          # Add retry logic for batch failures
+          modified_content = re.sub(
+              r'await asyncio\.sleep\(5\)',
+              '''            batch_success = True  # If we get here, the batch was successful
+                  except Exception as batch_error:
+                      retry_count += 1
+                      logger.error(f"Batch {i//max_concurrent + 1} failed (attempt {retry_count}/{max_retries}): {batch_error}")
+                      
+                      # Force close and recreate crawler on retry
+                      try:
+                          await crawler.close()
+                      except Exception:
+                          pass
+                          
+                      # Garbage collect
+                      gc.collect()
+                      
+                      # Wait longer between retries
+                      await asyncio.sleep(10)
+                      
+                      # Create a new crawler
+                      logger.info(f"Recreating crawler for retry {retry_count}")
+                      try:
+                          crawler = AsyncWebCrawler(config=browser_config)
+                          await crawler.start()
+                      except Exception as e:
+                          logger.error(f"Failed to create new crawler: {e}")
+                          continue
+              
+              # Skip to next batch if this one completely failed after retries
+              if not batch_success:
+                  logger.error(f"Skipping batch {i//max_concurrent + 1} after {max_retries} failed attempts")
+                  continue
+                  
+              # Add delay between batches
+              await asyncio.sleep(5)''',
+              modified_content, 
+              flags=re.DOTALL
+          )
+          
+          # Disable browser restart between batches
+          modified_content = re.sub(
+              r'if \(i \+ max_concurrent\) < len\(urls\):.*?logger\.error\(f"Error restarting crawler: {e}"\)',
+              '# Browser restart disabled to prevent errors',
+              modified_content, 
+              flags=re.DOTALL
+          )
+          
+          # Write the modified content back
+          with open('scraper.py', 'w') as f:
+              f.write(modified_content)
+              
+          print("Script successfully patched")
+          EOF
+          
+          # Make executable and run
+          chmod +x patch_script.py
+          python patch_script.py
           
       - name: Run scraper
         run: python scraper.py
