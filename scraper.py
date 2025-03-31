@@ -53,8 +53,8 @@ SITEMAP_PATH = os.path.join(BASE_DIR, "product_imported_sitemap.xml")
 MODEL = None
 
 # Number of URLs to process in a single run (0 = all)
-MAX_URLS = 2000  # Limit to 100 per run for GitHub Actions
-MAX_CONCURRENT = 3  # Default concurrency for GitHub Actions
+MAX_URLS = 4500  # Limit to 100 per run for GitHub Actions
+MAX_CONCURRENT = 5  # Default concurrency for GitHub Actions
 
 # Function to download and extract sitemap
 def download_and_extract_sitemap():
