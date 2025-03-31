@@ -53,11 +53,14 @@ SITEMAP_PATH = os.path.join(BASE_DIR, "product_imported_sitemap.xml")
 MODEL = None
 
 # Number of URLs to process in a single run (0 = all)
-MAX_URLS = 100  # Limit to 100 per run for GitHub Actions
+MAX_URLS = 10  # Limit to 100 per run for GitHub Actions
 MAX_CONCURRENT = 3  # Default concurrency for GitHub Actions
 
 # Function to download and extract sitemap
 def download_and_extract_sitemap():
+    """
+    Download and extract the sitemap file automatically
+    """
     try:
         logger.info(f"Downloading sitemap from {SITEMAP_URL}")
         
@@ -67,22 +70,39 @@ def download_and_extract_sitemap():
         if os.path.exists(SITEMAP_PATH):
             os.remove(SITEMAP_PATH)
         
-        # Download using requests instead of curl for better compatibility
-        response = requests.get(SITEMAP_URL, stream=True)
-        if response.status_code != 200:
-            logger.error(f"Failed to download sitemap: HTTP {response.status_code}")
-            return False
-            
-        # Save the compressed file
-        with open(SITEMAP_GZ_PATH, 'wb') as f:
-            f.write(response.content)
-        logger.info(f"Downloaded sitemap.xml.gz")
+        # Download the sitemap file
+        try:
+            # First try using curl for reliability with redirects
+            curl_cmd = ["curl", "-L", "--connect-timeout", "30", "-m", "120", "-o", SITEMAP_GZ_PATH, SITEMAP_URL]
+            result = subprocess.run(curl_cmd, check=True, capture_output=True, text=True)
+            logger.info(f"Downloaded sitemap.xml.gz with curl")
+        except (subprocess.SubprocessError, FileNotFoundError) as e:
+            # Fall back to requests if curl fails or isn't available
+            logger.info(f"Curl failed or not available, using requests instead: {e}")
+            response = requests.get(SITEMAP_URL, stream=True, timeout=60)
+            response.raise_for_status()
+            with open(SITEMAP_GZ_PATH, 'wb') as f:
+                for chunk in response.iter_content(chunk_size=8192):
+                    f.write(chunk)
+            logger.info(f"Downloaded sitemap.xml.gz with requests")
         
-        # Extract using gzip
-        with gzip.open(SITEMAP_GZ_PATH, "rb") as f_in:
-            with open(SITEMAP_PATH, "wb") as f_out:
-                shutil.copyfileobj(f_in, f_out)
-        logger.info(f"Extracted sitemap.xml")
+        # Extract the gzip file
+        try:
+            # First try using gzip command
+            gzip_cmd = ["gzip", "-d", "-f", SITEMAP_GZ_PATH]
+            result = subprocess.run(gzip_cmd, check=True, capture_output=True, text=True)
+            logger.info(f"Extracted sitemap.xml with gzip command")
+            
+            # Rename the extracted file if needed
+            if os.path.exists(SITEMAP_GZ_PATH[:-3]):  # Removes .gz extension
+                shutil.move(SITEMAP_GZ_PATH[:-3], SITEMAP_PATH)
+        except (subprocess.SubprocessError, FileNotFoundError) as e:
+            # Fall back to Python's gzip module
+            logger.info(f"Gzip command failed or not available, using Python's gzip module: {e}")
+            with gzip.open(SITEMAP_GZ_PATH, 'rb') as f_in:
+                with open(SITEMAP_PATH, 'wb') as f_out:
+                    shutil.copyfileobj(f_in, f_out)
+            logger.info(f"Extracted sitemap.xml with Python's gzip module")
         
         # Check if extraction produced the expected file
         if not os.path.exists(SITEMAP_PATH):
@@ -93,6 +113,7 @@ def download_and_extract_sitemap():
     except Exception as e:
         logger.error(f"Error downloading or extracting sitemap: {e}")
         return False
+
 
 # Initialize SentenceTransformer model
 def get_sentence_transformer():
