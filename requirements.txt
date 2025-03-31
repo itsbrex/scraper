@@ -1,0 +1,11 @@
+gzip-reader
+beautifulsoup4
+requests
+nest_asyncio
+crawl4ai
+sqlite3
+tldextract
+numpy
+psutil
+sentence-transformers
+scipy
