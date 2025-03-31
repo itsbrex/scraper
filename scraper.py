@@ -46,8 +46,8 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__)) # absolute path to the dir
 SITEMAP_PATH = os.path.join(BASE_DIR, "product_imported_sitemap.xml") 
 METADATA_OUTPUT_DIR = os.path.join(BASE_DIR, "product_hunt_metadata") # defines where to save the metadata JSON files 
 OUTPUT_URLS_FILE = os.path.join(BASE_DIR, "product_urls.txt") # a raw list of all URLs extracted from the sitemap
-MAX_CONCURRENT = 1  # Default concurrency 
-MAX_URLS = 1  # 0 means crawl all URLs in the sitemap.
+MAX_CONCURRENT = 4  # Default concurrency 
+MAX_URLS = 10  # 0 means crawl all URLs in the sitemap.
 SITEMAP_URL = "https://www.producthunt.com/sitemaps_v3/product_imported_sitemap.xml.gz"
 SITEMAP_GZ_PATH = os.path.join(BASE_DIR, "product_imported_sitemap.xml.gz")
 MODEL = None
@@ -311,7 +311,7 @@ def extract_product_info(producthunt_url, html_content):
 
 
 # Define the crawling function (metadata only)
-async def crawl_parallel(urls, conn, cursor, max_concurrent=1):
+async def crawl_parallel(urls, conn, cursor, max_concurrent=4):
     logger.info("\nCrawling Product Hunt Pages for Metadata ===")
 
     logger.info(f"Setting up browser config with headless={True}")
