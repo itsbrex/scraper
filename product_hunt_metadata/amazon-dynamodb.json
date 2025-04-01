@@ -1,0 +1,7 @@
+{
+  "title": "Amazon DynamoDB",
+  "product_url": "https://aws.amazon.com/dynamodb",
+  "description": "Amazon DynamoDB is a fully managed, serverless, key-value NoSQL database designed to run high-performance applications at any scale. DynamoDB offers built-in security, continuous backups, automated multi-Region replication, in-memory caching, and data import and export tools.",
+  "producthunt_url": "https://www.producthunt.com/products/amazon-dynamodb",
+  "crawl_timestamp": "2025-04-01T01:48:04.853565"
+}

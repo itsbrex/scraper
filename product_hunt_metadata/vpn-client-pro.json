@@ -1,0 +1,7 @@
+{
+  "title": "VPN Client Pro",
+  "product_url": "https://play.google.com/store/apps/details",
+  "description": "With this app you will able to connect to any OpenVPN (TUN/TAP), SSTP, WireGuard, SoftEther, OpenConnect (ocserv) servers and Cisco AnyConnect SSL gateways.\n\nThe basic OpenVPN feature is free for all. To use other protocols and features you need to buy a subscription.\n\nYou don't need to have root access, because the VPN tun device is handled with the VpnService API introduced with Android 4.0 (ICS).",
+  "producthunt_url": "https://www.producthunt.com/products/vpn-client-pro",
+  "crawl_timestamp": "2025-04-01T02:28:09.858026"
+}

@@ -1,7 +1,7 @@
 {
   "title": "Gartner",
-  "product_url": "https://www.gartner.com/en/information-technology/glossary/information-platform-as-a-service-ipaas",
-  "description": "Integration Platform as a Service (iPaaS) is a suite of cloud services enabling development, execution and governance of integration flows connecting any combination of on premises and cloud-based processes, services, applications and data within individual or across multiple organizations.",
-  "producthunt_url": "https://www.producthunt.com/products/gartner",
-  "crawl_timestamp": "2025-03-31T19:08:07.999897"
+  "product_url": "https://www.gartner.com/en/information-technology/glossary/customer-communications-management-ccm",
+  "description": "Customer communications management (CCM) is defined as the strategy to improve the creation, delivery, storage and retrieval of outbound communications, including those for marketing, new product introductions, renewal notifications, claims correspondence and documentation, and bill and payment notifications.",
+  "producthunt_url": "https://www.producthunt.com/products/gartner-5",
+  "crawl_timestamp": "2025-04-01T02:37:18.973101"
 }

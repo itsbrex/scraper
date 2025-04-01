@@ -1,0 +1,7 @@
+{
+  "title": "Apigee Edge",
+  "product_url": "https://docs.apigee.com/",
+  "description": "Apigee Edge is a platform for developing and managing API proxies.\nAn API proxy is your interface to developers that want to use your backend services. Rather than having them consume those services directly, they access an Edge API proxy that you create.",
+  "producthunt_url": "https://www.producthunt.com/products/apigee-edge",
+  "crawl_timestamp": "2025-04-01T00:49:17.508577"
+}

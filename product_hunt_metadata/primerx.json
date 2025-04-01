@@ -1,0 +1,7 @@
+{
+  "title": "PrimeRx",
+  "product_url": "https://www.bioinformatics.org/primerx",
+  "description": "PrimerX is a web-based program written to automate the design of mutagenic PCR primers for site-directed mutagenesis. Based on your input, PrimerX compares a template DNA sequence with a DNA or protein sequence that already incorporates the desired mutation. It then generates forward primer sequences by computing for all possible oligonucleotide sequences of appropriate length that encode this mutation and follow your specified constraints. Finally, PrimerX generates corresponding reverse primer sequences, and computes for other necessary information such as melting temperature and GC content for each primer pair.",
+  "producthunt_url": "https://www.producthunt.com/products/primerx",
+  "crawl_timestamp": "2025-04-01T02:14:54.987543"
+}

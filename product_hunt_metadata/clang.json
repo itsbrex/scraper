@@ -1,0 +1,7 @@
+{
+  "title": "Clang",
+  "product_url": "https://clang.llvm.org/",
+  "description": "Clang is a compiler front end for the C, C++, Objective-C, and Objective-C++ programming languages, as well as the OpenMP, OpenCL, RenderScript, CUDA, and HIP frameworks. It acts as a drop-in replacement for the GNU Compiler Collection, supporting most of its compilation flags and unofficial language extensions.",
+  "producthunt_url": "https://www.producthunt.com/products/clang",
+  "crawl_timestamp": "2025-04-01T00:30:08.755978"
+}

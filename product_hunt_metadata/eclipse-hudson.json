@@ -1,0 +1,7 @@
+{
+  "title": "Eclipse Hudson",
+  "product_url": "https://projects.eclipse.org/projects/technology.hudson",
+  "description": "Eclipse Hudson is a continuous integration (CI) tool written in Java, which runs in a servlet container, such as Apache Tomcat or the GlassFish application server.",
+  "producthunt_url": "https://www.producthunt.com/products/eclipse-hudson",
+  "crawl_timestamp": "2025-04-01T02:35:58.218684"
+}

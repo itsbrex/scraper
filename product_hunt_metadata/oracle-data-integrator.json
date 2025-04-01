@@ -1,0 +1,7 @@
+{
+  "title": "Oracle Data Integrator",
+  "product_url": "https://www.oracle.com/integration/data-integrator-enterprise-edition",
+  "description": "Oracle Data Integrator (ODI) loads and transforms data faster into data warehouses by leveraging the power of the target database instead of relying on a conventional ETL server. Pre-built connectors simplify integration by automating manual integration tasks needed to connect databases and big data.",
+  "producthunt_url": "https://www.producthunt.com/products/oracle-data-integrator",
+  "crawl_timestamp": "2025-04-01T02:32:39.793619"
+}

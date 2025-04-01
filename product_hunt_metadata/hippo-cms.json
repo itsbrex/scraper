@@ -1,0 +1,7 @@
+{
+  "title": "Hippo CMS",
+  "product_url": "https://xmdocumentation.bloomreach.com/11/library/about/introduction-hippo.html",
+  "description": "Hippo CMS is an open source Java CMS for creating personalized experiences across all channels. Hippo\u2019s clean, modular architecture and support for open standards make it the ideal solution for agile development and open integration. Hippo's emphasis on the separation of the content from the presentation logic enables content editors to create content once, and then publish it to web sites, mobile sites, Facebook, REST services, digital magazines, mobile apps, and so on. Hippo enables webmasters to create new channels or configure existing page templates using its Channel Manager and Template Composer. Using the Relevance Module, specific content can be targeted at specific visitors based on the visitor\u2019s current context, past personal history and matching personas created by the marketing team.",
+  "producthunt_url": "https://www.producthunt.com/products/hippo-cms",
+  "crawl_timestamp": "2025-04-01T00:12:33.193691"
+}

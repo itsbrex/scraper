@@ -1,0 +1,7 @@
+{
+  "title": "PHP: Magic Methods",
+  "product_url": "https://www.php.net/manual/en/language.oop5.magic.php",
+  "description": "Magic methods are special methods which override PHP's default's action when certain actions are performed on an object.",
+  "producthunt_url": "https://www.producthunt.com/products/php-magic-methods",
+  "crawl_timestamp": "2025-04-01T00:58:51.729984"
+}
