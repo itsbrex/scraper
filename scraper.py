@@ -47,13 +47,13 @@ os.makedirs(os.path.join(BASE_DIR, "sitemaps"), exist_ok=True)
 METADATA_OUTPUT_DIR = os.path.join(BASE_DIR, "product_hunt_metadata")
 os.makedirs(METADATA_OUTPUT_DIR, exist_ok=True)
 OUTPUT_URLS_FILE = os.path.join(BASE_DIR, "product_urls.txt")
-SITEMAP_URL = "https://www.producthunt.com/sitemaps_v3/posts_all_sitemap.xml.gz"
-SITEMAP_GZ_PATH = os.path.join(BASE_DIR, "posts_all_sitemap.xml.gz")
-SITEMAP_PATH = os.path.join(BASE_DIR, "posts_all_sitemap.xml")
+SITEMAP_URL = "https://www.producthunt.com/sitemaps_v3/product_about_sitemap1.xml.gz"
+SITEMAP_GZ_PATH = os.path.join(BASE_DIR, "product_about_sitemap1.xml.gz")
+SITEMAP_PATH = os.path.join(BASE_DIR, "product_about_sitemap1.xml")
 MODEL = None
 
 # Number of URLs to process in a single run (0 = all)
-MAX_URLS = 4500  # Limit to 100 per run for GitHub Actions
+MAX_URLS = 5  # Limit to 100 per run for GitHub Actions
 MAX_CONCURRENT = 5  # Default concurrency for GitHub Actions
 
 # Function to download and extract sitemap
