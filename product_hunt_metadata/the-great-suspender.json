@@ -1,0 +1,7 @@
+{
+  "title": "The Great Suspender",
+  "product_url": "https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg",
+  "description": "A lightweight extension to reduce chrome's memory footprint. Perfect if you have a lot of tabs open at the same time. Tabs that have not been viewed after a configurable length of time will be automagically suspended in the background, freeing up the memory and CPU being consumed by that tab.",
+  "producthunt_url": "https://www.producthunt.com/products/the-great-suspender",
+  "crawl_timestamp": "2025-04-02T07:19:57.599459"
+}

@@ -1,7 +1,7 @@
 {
   "title": "Git",
-  "product_url": "https://git-scm.com/",
-  "description": "Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.",
-  "producthunt_url": "https://www.producthunt.com/products/git-2",
-  "crawl_timestamp": "2025-03-31T18:32:14.120322"
+  "product_url": "https://git-scm.com/book/en/v2",
+  "description": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
+  "producthunt_url": "https://www.producthunt.com/products/git",
+  "crawl_timestamp": "2025-04-02T07:55:55.314883"
 }

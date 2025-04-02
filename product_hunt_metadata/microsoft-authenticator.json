@@ -1,7 +1,7 @@
 {
   "title": "Microsoft Authenticator",
-  "product_url": "https://www.microsoft.com/en-us/security/mobile-authenticator-app",
-  "description": "Protect your personal and business data from outside breaches by securely logging into your organization's applications with Microsoft's mobile authenticator app.",
-  "producthunt_url": "https://www.producthunt.com/products/microsoft-authenticator-2",
-  "crawl_timestamp": "2025-03-31T18:14:06.411218"
+  "product_url": "http://go.microsoft.com/fwlink/",
+  "description": "Microsoft Authenticator is a multifactor app for mobile devices that generates time-based codes used during the Two-Step Verification process. Please note that one-tap push notification and 6-digit SMS code authentication options are not supported when using this mobile authenticator.",
+  "producthunt_url": "https://www.producthunt.com/products/microsoft-authenticator",
+  "crawl_timestamp": "2025-04-02T04:03:49.181554"
 }

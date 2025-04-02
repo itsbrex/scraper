@@ -1,0 +1,7 @@
+{
+  "title": "Postman Interceptor",
+  "product_url": "https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo",
+  "description": "Postman Interceptor helps you send requests which use browser cookies through the Postman app. \nIt can also send headers which are normally restricted by Chrome but are critical for testing APIs. The Interceptor makes this process painless. Something that would have required a proxy earlier can now be achieved without any installation steps or extra configuration.",
+  "producthunt_url": "https://www.producthunt.com/products/postman-interceptor",
+  "crawl_timestamp": "2025-04-02T08:05:20.755107"
+}

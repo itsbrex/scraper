@@ -1,0 +1,7 @@
+{
+  "title": "Preact",
+  "product_url": "https://preactjs.com/",
+  "description": "Thinnest possible Virtual DOM abstraction on top of the DOM. It builds on stable platform features, registers real event handlers and plays nicely with other libraries.",
+  "producthunt_url": "https://www.producthunt.com/products/preact",
+  "crawl_timestamp": "2025-04-02T04:40:58.278510"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "WebGazer",
+  "product_url": "https://www.webgazer.io/",
+  "description": "WebGazer is a monitoring and analytics platform that offers uptime monitoring, cron job monitoring, and public status page services. WebGazer tracks the uptime and availability of websites, APIs, and cron jobs, by checking the monitored target's status by connecting periodically, and alerting users in real-time through various channels like e-mail, Slack, PagerDuty and more, when downtime or performance issues are detected.",
+  "producthunt_url": "https://www.producthunt.com/products/webgazer",
+  "crawl_timestamp": "2025-04-02T03:29:27.910101"
+}

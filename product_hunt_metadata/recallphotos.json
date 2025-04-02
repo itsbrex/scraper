@@ -1,0 +1,7 @@
+{
+  "title": "Recall.Photos",
+  "product_url": "https://recall.photos/",
+  "description": "\ud83d\udcf8 Drowning in photos? This app lets you search & chat with your image folders using LLMs \u2014 all locally.\n\ud83d\uddc2\ufe0f Just select a folder, spin up Ollama, and it processes your images (only needed once).\n\ud83d\udcac Then ask: \u201csunset at the beach\u201d or \u201cphotos with my dog\u201d\n\ud83d\udd12 100% offline. No cloud. No signup. Your photos stay yours.\n\u2699\ufe0f No Ollama? No problem \u2014 it can fall back to running in-browser models.\n\nI was looking for such a tool online but couldn't find it, so I built it. Please share your feedback!",
+  "producthunt_url": "https://www.producthunt.com/products/recall",
+  "crawl_timestamp": "2025-04-02T04:08:45.183254"
+}

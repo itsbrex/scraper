@@ -1,0 +1,7 @@
+{
+  "title": "Snap Kit",
+  "product_url": "https://kit.snapchat.com/",
+  "description": "SnapKit is a DSL to make Auto Layout easy on both iOS and OS X. Simple & Expressive chaining DSL allows building constraints with minimal amounts of code while ensuring they are easy to read and understand. Compatible for both iOS and OS X apps installable through Cocoapods or Carthage.",
+  "producthunt_url": "https://www.producthunt.com/products/snap-kit",
+  "crawl_timestamp": "2025-04-02T05:49:35.270332"
+}

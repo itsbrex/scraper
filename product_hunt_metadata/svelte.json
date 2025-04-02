@@ -1,0 +1,7 @@
+{
+  "title": "Svelte",
+  "product_url": "https://svelte.dev/",
+  "description": "A compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.",
+  "producthunt_url": "https://www.producthunt.com/products/svelte",
+  "crawl_timestamp": "2025-04-02T03:36:42.457974"
+}

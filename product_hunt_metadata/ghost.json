@@ -1,7 +1,7 @@
 {
   "title": "Ghost",
-  "product_url": "https://ghost-official.com/",
-  "description": "Ghost records and performs pop hymns that glorify and glamorise the disgusting and sacrilegious.",
-  "producthunt_url": "https://www.producthunt.com/products/ghost-4",
-  "crawl_timestamp": "2025-03-31T19:13:37.531321"
+  "product_url": "http://ghost.org/",
+  "description": "The world's most popular modern open source publishing platform. A headless Node.js CMS used by Apple, Sky News, Tinder and thousands more. MIT licensed, with 30k+ stars on Github.",
+  "producthunt_url": "https://www.producthunt.com/products/ghost",
+  "crawl_timestamp": "2025-04-02T05:38:50.190913"
 }

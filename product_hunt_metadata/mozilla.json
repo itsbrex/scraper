@@ -1,7 +1,7 @@
 {
   "title": "Mozilla",
-  "product_url": "https://www.mozilla.org/en-US/firefox/new",
-  "description": "Get Firefox, a free web browser backed by Mozilla, a non-profit dedicated to internet health and privacy. Available now on Windows, Mac, Linux, Android and iOS.",
-  "producthunt_url": "https://www.producthunt.com/products/mozilla-2",
-  "crawl_timestamp": "2025-03-31T18:06:27.996905"
+  "product_url": "http://mozilla.org/",
+  "description": "At Mozilla, we\u2019re a global community of technologists, thinkers and builders working together to keep the Internet alive and accessible, so people worldwide can be informed contributors and creators of the Web. We believe this act of human collaboration across an open platform is essential to individual growth and our collective future.",
+  "producthunt_url": "https://www.producthunt.com/products/mozilla",
+  "crawl_timestamp": "2025-04-02T07:43:57.021456"
 }

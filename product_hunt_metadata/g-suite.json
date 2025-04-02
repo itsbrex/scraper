@@ -1,7 +1,7 @@
 {
   "title": "G Suite",
-  "product_url": "https://workspace.google.com/",
-  "description": "Try Google Workspace's (formerly G Suite) secure collaboration and productivity apps for businesses of all sizes. Includes Gmail, Drive, Meet and more",
-  "producthunt_url": "https://www.producthunt.com/products/g-suite-2",
-  "crawl_timestamp": "2025-03-31T18:50:41.746910"
+  "product_url": "http://gsuite.google.com/",
+  "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware.",
+  "producthunt_url": "https://www.producthunt.com/products/g-suite",
+  "crawl_timestamp": "2025-04-02T08:21:55.433244"
 }

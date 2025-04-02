@@ -1,0 +1,7 @@
+{
+  "title": "CodeFactor",
+  "product_url": "https://www.codefactor.io/",
+  "description": "CodeFactor will track new and fixed issues for every commit and pull request. CodeFactor will try to show the most critical issues first based on issue code size, file change frequency and file size so you can start fixing only what's important. CodeFactor will update status for GitHub or Bitbucket Pull Requests as well.",
+  "producthunt_url": "https://www.producthunt.com/products/codefactor",
+  "crawl_timestamp": "2025-04-02T08:18:39.091956"
+}

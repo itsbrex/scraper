@@ -1,0 +1,7 @@
+{
+  "title": "Magic Spreadsheet",
+  "product_url": "https://magicspreadsheet.com/",
+  "description": "Use the side-bar to configure exactly how and where to get each piece of information. Have at least one column with some \u2018anchor\u2019 data that you already have.\nThis is the data that will seed everything else on the sheet. Each cell will be sent to a different worker to be filled.",
+  "producthunt_url": "https://www.producthunt.com/products/magic-spreadsheet",
+  "crawl_timestamp": "2025-04-02T07:40:42.073371"
+}
