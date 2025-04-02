@@ -368,9 +368,9 @@ def extract_product_info(producthunt_url, html_content):
                     break
 
         return {
-            'title': title,
-            'product_url': product_url,
-            'description': description,
+            'displayName': title,
+            'linkToAgent': product_url,
+            'blurb': description,
             'producthunt_url': producthunt_url
         }
 
