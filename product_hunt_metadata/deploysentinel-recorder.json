@@ -1,0 +1,7 @@
+{
+  "title": "DeploySentinel Recorder",
+  "product_url": "https://deploysentinel.com/recorder",
+  "description": "No more manually written browser automation scripts \u2013 DeploySentinel Recorder automatically generates Playwright and Puppeteer scripts directly from your browser interactions (ex. click, type, scroll). Fully open source, available for Chrome or Firefox.",
+  "producthunt_url": "https://www.producthunt.com/products/deploysentinel-recorder",
+  "crawl_timestamp": "2025-04-02T18:37:38.037785"
+}

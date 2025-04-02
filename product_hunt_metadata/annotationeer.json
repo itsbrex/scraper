@@ -1,0 +1,7 @@
+{
+  "title": "Annotationeer",
+  "product_url": "https://www.youtube.com/watch",
+  "description": "My implementation of creating annotations in PDF.JS with more features like arrow, free hand drawing, free text, text selection highlight/underline/strike-through, measurement, circle and stamp using plain Javascript and the right sidebar list linking the annotations in the canvas using Angular JS.",
+  "producthunt_url": "https://www.producthunt.com/products/annotationeer-2",
+  "crawl_timestamp": "2025-04-02T20:55:47.631407"
+}

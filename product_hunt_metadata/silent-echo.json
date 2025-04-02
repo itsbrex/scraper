@@ -1,0 +1,7 @@
+{
+  "title": "Silent Echo",
+  "product_url": "https://silentecho.bespoken.io/",
+  "description": "Bespoken CLI is a collection of tools designed to make it easy for you to code, debug and test your voice apps.\n* Execute/debug your voice app locally with \"bst proxy\"\n* Interact with it without speaking with \"utter\" or \"speak\" commands* Run simple yet thorough unit or end-to-end tests with \"bst test\" and ensure the quality of your voice app",
+  "producthunt_url": "https://www.producthunt.com/products/silent-echo",
+  "crawl_timestamp": "2025-04-02T18:42:33.772815"
+}

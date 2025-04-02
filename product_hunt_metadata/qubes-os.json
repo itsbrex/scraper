@@ -1,0 +1,7 @@
+{
+  "title": "Qubes OS",
+  "product_url": "https://www.qubes-os.org/",
+  "description": "Qubes OS is a free and open-source, security-oriented operating system for single-user desktop computing. Qubes OS leverages Xen-based virtualization to allow for the creation and management of isolated compartments called qubes.",
+  "producthunt_url": "https://www.producthunt.com/products/qubes-os",
+  "crawl_timestamp": "2025-04-02T19:17:58.386088"
+}

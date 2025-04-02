@@ -1,0 +1,7 @@
+{
+  "title": "Alternativeto Net",
+  "product_url": "https://alternativeto.net/",
+  "description": "ArchiveBox is a powerful, self-hosted internet archiving solution to collect, save, and view sites you want to preserve offline.\n\nYou can set it up as a command-line tool, web app, and desktop app (alpha), on Linux, macOS, and Windows. You can feed it URLs one at a time, or schedule regular imports from browser bookmarks or history, feeds like RSS, bookmark services like Pocket/Pinboard, and more. See input formats for a full list.\n\nIt saves snapshots of the URLs you feed it in several formats: HTML, PDF, PNG screenshots, WARC, and more out-of-the-box, with a wide variety of content extracted and preserved automatically (article text, audio/video, git repos, etc.). See output formats for a full list.\n\nThe goal is to sleep soundly knowing the part of the internet you care about will be automatically preserved in durable, easily accessible formats for decades after it goes down.",
+  "producthunt_url": "https://www.producthunt.com/products/alternativeto-net",
+  "crawl_timestamp": "2025-04-02T17:24:04.508582"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "CrimsonQ",
+  "product_url": "https://www.crimsonq.io/",
+  "description": "In the age of pub/sub, sometimes you need a message to be distributed to multiple consumers based on topics but yet need the message to be treated with persistence and statuses (pending, active, delayed, failed & completed). This gave rise to CrimsonQ!",
+  "producthunt_url": "https://www.producthunt.com/products/crimsonq",
+  "crawl_timestamp": "2025-04-02T19:21:27.711318"
+}

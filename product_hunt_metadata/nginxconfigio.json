@@ -1,0 +1,7 @@
+{
+  "title": "nginxconfig.io",
+  "product_url": "https://nginxconfig.io/",
+  "description": "nginxconfig.io is an online configuration generator for nginx. Features: - HTTPS - HTTP/2 (Let's Encrypt, Mozilla SSL config generator) - CDN - www / non-www - PHP (TCP, socket) - pass to index.php (Laravel, Symfony, CodeIgniter...) - pass to index.html (Angular, React, Vue.js...) - WordPress security - security headers - rate limiting - expiration",
+  "producthunt_url": "https://www.producthunt.com/products/nginxconfig-io",
+  "crawl_timestamp": "2025-04-02T18:43:08.051497"
+}

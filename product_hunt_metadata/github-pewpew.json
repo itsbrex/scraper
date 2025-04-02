@@ -1,0 +1,7 @@
+{
+  "title": "github-pewpew",
+  "product_url": "https://adrianmato.com/pewpew",
+  "description": "Have you ever had too much fun with the GitHub API and ended up creating too many dummy repos? Me too \ud83d\ude05! I made this little CLI tool to clean up repositories quickly. I'm planning to add some flags and regexp to delete in bulk in the future.",
+  "producthunt_url": "https://www.producthunt.com/products/github-pewpew",
+  "crawl_timestamp": "2025-04-02T20:42:05.799602"
+}

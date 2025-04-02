@@ -1,0 +1,7 @@
+{
+  "title": "Visualize your real-time streams",
+  "product_url": "https://github.com/varchar-io/nebula",
+  "description": "Connect to your source (Kafka or cloud storage) using simple YAML configs, right away you interactively search, query, and visualize. Nebula is a super lightweight distributed engine to run - no dependency, just run its binaries on a single node or a cluster.",
+  "producthunt_url": "https://www.producthunt.com/products/visualize-your-real-time-streams",
+  "crawl_timestamp": "2025-04-02T20:09:23.990076"
+}

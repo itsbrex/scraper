@@ -1,0 +1,7 @@
+{
+  "title": "iOS background removal library",
+  "product_url": "https://github.com/Ezaldeen99/BackgroundRemoval",
+  "description": "Background Removal written with swift using u2net model, can give you two different outputs Mask Image: The mask for your input image (black & white) Output image: ( default case) your output image without its background",
+  "producthunt_url": "https://www.producthunt.com/products/ios-background-removal-library",
+  "crawl_timestamp": "2025-04-02T19:52:05.195667"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Midarr",
+  "product_url": "https://github.com/midarrlabs/midarr-server",
+  "description": "Midarr is a lightweight (albeit companion) media server to the likes of Radarr and Sonarr. It relies on the integration with these services to serve your MP4 format media untouched and unscathed.",
+  "producthunt_url": "https://www.producthunt.com/products/midarr",
+  "crawl_timestamp": "2025-04-02T20:54:03.309680"
+}

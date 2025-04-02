@@ -1,0 +1,7 @@
+{
+  "title": "Uptrace",
+  "product_url": "https://uptrace.dev/",
+  "description": "Uptrace is an open source distributed tracing tool. We help developers pinpoint failures and find performance bottlenecks. Uptrace can process billions of spans on a single server and allows to monitor your software at 10x lower cost.",
+  "producthunt_url": "https://www.producthunt.com/products/uptrace",
+  "crawl_timestamp": "2025-04-02T20:50:01.811469"
+}

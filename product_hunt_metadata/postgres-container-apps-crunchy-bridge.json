@@ -1,0 +1,7 @@
+{
+  "title": "Postgres Container Apps \u2013 Crunchy Bridge",
+  "product_url": "https://docs.crunchybridge.com/container-apps/getting-started",
+  "description": "Postgres Container Apps on Crunchy Bridge allow you to seamlessly launch a container from inside Postgres with a single command. Examples include: * Turnkey APIs * Sidecar monitoring agents * Database admin tooling",
+  "producthunt_url": "https://www.producthunt.com/products/postgres-container-apps-crunchy-bridge",
+  "crawl_timestamp": "2025-04-02T20:25:45.738234"
+}

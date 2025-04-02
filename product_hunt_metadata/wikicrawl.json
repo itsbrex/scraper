@@ -1,0 +1,7 @@
+{
+  "title": "WikiCrawl",
+  "product_url": "https://wikicrawl.xyz/",
+  "description": "WikiCrawl is a pet project that attempts to describe how any two Wikipedia articles are related to one another by crawling through wiki links towards each other and extracting snippets surrounding the links in articles.",
+  "producthunt_url": "https://www.producthunt.com/products/wikicrawl",
+  "crawl_timestamp": "2025-04-02T20:52:37.533069"
+}

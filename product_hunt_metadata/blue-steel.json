@@ -1,0 +1,7 @@
+{
+  "title": "Blue Steel",
+  "product_url": "https://github.com/subzerocloud/blue-steel",
+  "description": "A standalone web server that turns your database directly into a REST/GraphQL api. You can use it as binary (or docker image) or as a library dependence in your Rust code to bootstrap 90% of your backend.",
+  "producthunt_url": "https://www.producthunt.com/products/blue-steel",
+  "crawl_timestamp": "2025-04-02T20:24:00.346011"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "News App",
+  "product_url": "https://news.abipravi.live/",
+  "description": "It is a react js application built to get the news for the user with google login by using the API called abipravi-newsapi. It will get news from several websites and then convert them into an API, Then serves to the user as a clean Web Application.",
+  "producthunt_url": "https://www.producthunt.com/products/news-app-2",
+  "crawl_timestamp": "2025-04-02T19:40:59.243565"
+}

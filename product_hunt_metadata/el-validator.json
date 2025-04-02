@@ -1,0 +1,7 @@
+{
+  "title": "El Validator",
+  "product_url": "https://github.com/ybouane/elvalidator",
+  "description": "El Validator is a JSON Object validator and sanitizer. It's a great little tool for validating user input and sanitizing. Define a schema and validate it against the user input. It's inspired from the familiar Mongoose schema format with a few more features.",
+  "producthunt_url": "https://www.producthunt.com/products/el-validator",
+  "crawl_timestamp": "2025-04-02T19:08:16.296747"
+}

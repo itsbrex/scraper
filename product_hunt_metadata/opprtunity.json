@@ -1,0 +1,7 @@
+{
+  "title": "Opprtunity",
+  "product_url": "http://www.opprtunity.com/",
+  "description": "Reaction AI is an artificial intelligence API for the Unity 3D Game Engine.  It uses a base algorithm for determining the NPC move, then trains a Machine Learning Model using a Multiclass maximum entropy algorithm to predict the next best move for the NPC.",
+  "producthunt_url": "https://www.producthunt.com/products/opprtunity",
+  "crawl_timestamp": "2025-04-02T22:06:36.384040"
+}

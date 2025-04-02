@@ -1,0 +1,7 @@
+{
+  "title": "Dakka",
+  "product_url": "https://www.dakka.dev/",
+  "description": "Dakka is a Chrome extension for generating end-to-end tests for Cypress, Playwright and Puppeteer. Dakka records user events and suggests the best possible selectors for the elements on the page. Dakka supports assertions and pre-generates assertion logic.",
+  "producthunt_url": "https://www.producthunt.com/products/dakka",
+  "crawl_timestamp": "2025-04-02T20:03:18.466545"
+}

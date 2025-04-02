@@ -1,0 +1,7 @@
+{
+  "title": "GlassX",
+  "product_url": "https://github.com/mychidarko/glassx",
+  "description": "GlassX is a simple context-based global state management library for React and React Native. It provides simple hooks and classes to get you started right away. No need for initializing a context or any such thing. Just start writing and reading your state.",
+  "producthunt_url": "https://www.producthunt.com/products/glassx",
+  "crawl_timestamp": "2025-04-02T20:56:39.980586"
+}

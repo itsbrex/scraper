@@ -1,0 +1,7 @@
+{
+  "title": "Snapshot",
+  "product_url": "https://tools.roland.xyz/snapshot",
+  "description": "The easiest way to take a snapshot of all NFT holders in a collection, for free. Just enter contract address, timestamp, and collection size, and the tool spits out a CSV with all token IDs and their owners' wallet addresses. Works for any ERC-721 based NFT.",
+  "producthunt_url": "https://www.producthunt.com/products/snapshot",
+  "crawl_timestamp": "2025-04-02T19:53:33.023695"
+}

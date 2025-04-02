@@ -1,7 +1,7 @@
 {
   "title": "GitBook",
-  "product_url": "https://www.gitbook.com/",
-  "description": "GitBook began in mid-2014 as an open-source tool for developers to build documentation. Today we empower teams of all sizes to share knowledge and build great internal & external docs.",
-  "producthunt_url": "https://www.producthunt.com/products/gitbookio",
-  "crawl_timestamp": "2025-04-02T07:55:56.014061"
+  "product_url": "https://www.gitbook.io/",
+  "description": "voici.js (speak: /vwasi/) is an open source Node.js library written in TypeScript for beautifully displaying datasets in tabular form on the terminal including features like:\n\n- Styling\n- Column sizing\n- Accumulation\n- Data import & export\n- & many more",
+  "producthunt_url": "https://www.producthunt.com/products/gitbook",
+  "crawl_timestamp": "2025-04-02T18:37:55.885522"
 }
