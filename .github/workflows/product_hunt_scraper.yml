@@ -1,0 +1,64 @@
+name: Product Hunt Crawler
+ 
+ on:
+   schedule:
+     # Run every day at 2:00 UTC
+     - cron: '0 2 * * *'
+   workflow_dispatch:  # Allows manual triggering
+ 
+ jobs:
+   crawl:
+     runs-on: ubuntu-latest
+ 
+     steps:
+     - name: Checkout repository
+       uses: actions/checkout@v4
+ 
+     - name: Set up Python
+       uses: actions/setup-python@v4
+       with:
+         python-version: '3.10'
+ 
+     - name: Install dependencies
+       run: |
+         python -m pip install --upgrade pip
+         pip install requests beautifulsoup4 nest_asyncio sentence-transformers tldextract numpy scipy
+         pip install crawl4ai  # Install the crawl4ai package
+ 
+     - name: Install Playwright
+       run: |
+         pip install playwright
+         playwright install chromium 
+ 
+     - name: Download database from previous run
+       uses: actions/cache@v3
+       with:
+         path: processed_urls.db
+         key: database-${{ github.run_id }}
+         restore-keys: |
+           database-
+ 
+     - name: Run crawler
+       run: python scraper.py
+       
+     - name: Upload metadata
+       uses: actions/upload-artifact@v4
+       with:
+         name: product-hunt-metadata-${{ github.run_id }}
+         path: product_hunt_metadata/
+         
+     - name: Upload logs
+       uses: actions/upload-artifact@v4
+       with:
+         name: logs-${{ github.run_id }}
+         path: |
+           crawler.log
+           last_run_*.txt
+           
+     - name: Commit and push if there are changes
+       run: |
+         git config --global user.name "GitHub Actions Bot"
+         git config --global user.email "actions@github.com"
+         git add product_hunt_metadata processed_urls.db
+         git commit -m "Update product metadata [skip ci]" || echo "No changes to commit"
+         git push
