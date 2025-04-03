@@ -47,9 +47,9 @@ os.makedirs(os.path.join(BASE_DIR, "sitemaps"), exist_ok=True)
 METADATA_OUTPUT_DIR = os.path.join(BASE_DIR, "product_hunt_metadata")
 os.makedirs(METADATA_OUTPUT_DIR, exist_ok=True)
 OUTPUT_URLS_FILE = os.path.join(BASE_DIR, "product_urls.txt")
-SITEMAP_URL = "https://www.producthunt.com/sitemaps_v3/product_about_sitemap1.xml.gz"
-SITEMAP_GZ_PATH = os.path.join(BASE_DIR, "product_about_sitemap1.xml.gz")
-SITEMAP_PATH = os.path.join(BASE_DIR, "product_about_sitemap1.xml")
+SITEMAP_URL = "https://www.producthunt.com/sitemaps_v3/product_about_sitemap6.xml.gz"
+SITEMAP_GZ_PATH = os.path.join(BASE_DIR, "product_about_sitemap6.xml.gz")
+SITEMAP_PATH = os.path.join(BASE_DIR, "product_about_sitemap6.xml")
 MODEL = None
 
 # Number of URLs to process in a single run (0 = all)
