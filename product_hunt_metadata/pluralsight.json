@@ -1,7 +1,7 @@
 {
   "title": "Pluralsight",
-  "product_url": "https://www.pluralsight.com/",
-  "description": "At Pluralsight, we\u2019re advancing the world\u2019s tech workforce, and that starts with making your teams more proficient, your work more efficient and effective\u2014and giving you more to celebrate.",
-  "producthunt_url": "https://www.producthunt.com/products/pluralsight-2",
-  "crawl_timestamp": "2025-03-31T23:57:24.101579"
+  "product_url": "http://beta.pluralsight.com/",
+  "description": "In as little as five minutes and 20 questions, you can identify your knowledge gaps and strengths with our skill assessments. Your results tell you where to start within a learning path, so you can develop the skills you need most and not waste time on what you already know.",
+  "producthunt_url": "https://www.producthunt.com/products/pluralsight",
+  "crawl_timestamp": "2025-04-03T02:26:25.696943"
 }

@@ -1,0 +1,7 @@
+{
+  "title": "Cloudtunes",
+  "product_url": "https://github.com/jakubroztocil/cloudtunes",
+  "description": "CloudTunes is an open source webapp that with a unified UI for music stored in the cloud (YouTube, DropBox, etc.) and integrates with Last.fm, Facebook, and Musicbrainz for metadata, discovery, and social experience. It's similar to Spotify, but instead of local tracks and the fixed catalog, CloudTunes uses your files and YouTube music videos.",
+  "producthunt_url": "https://www.producthunt.com/products/cloudtunes",
+  "crawl_timestamp": "2025-04-03T02:45:49.673155"
+}

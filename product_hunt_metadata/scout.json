@@ -1,0 +1,7 @@
+{
+  "title": "Scout",
+  "product_url": "http://www.scout.me/app",
+  "description": "Telegram bot + Product Hunt v2 API = Maker Goal Telegram Bot.It's pretty common in Makerlog & WIP Maker community to manage the tasks with telegram bot, that's why I build one to access Product Hunt Maker Goal",
+  "producthunt_url": "https://www.producthunt.com/products/scout",
+  "crawl_timestamp": "2025-04-02T23:49:46.979495"
+}
