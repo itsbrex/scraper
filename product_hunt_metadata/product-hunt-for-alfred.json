@@ -1,7 +1,7 @@
 {
-  "title": "Product Hunt for Alfred",
-  "product_url": "https://github.com/loris/alfred-producthunt-workflow",
-  "description": null,
-  "producthunt_url": "https://www.producthunt.com/products/product-hunt-for-alfred",
-  "crawl_timestamp": "2025-04-03T02:10:13.370605"
+  "title": "Product Hunt For Alfred",
+  "product_url": "http://www.packal.org/workflow/producthunt",
+  "description": "Interact with the chat service Slack via Alfred (multi-org supported).",
+  "producthunt_url": "https://www.producthunt.com/products/product-hunt-for-alfred-2",
+  "crawl_timestamp": "2025-04-03T13:53:33.719745"
 }

@@ -1,0 +1,7 @@
+{
+  "title": "JPEGmini",
+  "product_url": "http://www.jpegmini.com/",
+  "description": "The Windows software works well. Sadly, 2 blocking issues:\n\n1) Although they've actually gone to the trouble of building a Linux version, they refuse to sell it to anyone but large enterprises. So if you're a Linux user, you literally have to launch a Windows VM to use the software, despite the fact that they *have* a Linux-native version. Quite weird.\n\n2) On the Windows version, even after you've bought & registered it, it keeps wanting to phone home to check its license over & over. This renders it unusable on an offline PC.\n\nIt's unfortunate because what it does is great & useful, but their strange licensing decisions make it unusable in many scenarios.",
+  "producthunt_url": "https://www.producthunt.com/products/jpegmini",
+  "crawl_timestamp": "2025-04-03T10:48:48.692541"
+}

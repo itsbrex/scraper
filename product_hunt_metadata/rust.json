@@ -1,7 +1,7 @@
 {
   "title": "Rust",
-  "product_url": "https://store.steampowered.com/app/252490/Rust",
-  "description": "Rust is a multiplayer-only survival video game developed by Facepunch Studios. Rust was first released in early access in December 2013 and received its full release in February 2018. Rust is available on Microsoft Windows and macOS.",
-  "producthunt_url": "https://www.producthunt.com/products/rust-game",
-  "crawl_timestamp": "2025-04-02T17:53:01.726569"
+  "product_url": "https://www.rust-lang.org/",
+  "description": "A blazingly fast and memory-efficient programming language with no runtime or garbage collector. It can power performance-critical services, run on embedded devices, and easily integrate with other languages.",
+  "producthunt_url": "https://www.producthunt.com/products/rust",
+  "crawl_timestamp": "2025-04-03T12:58:36.490799"
 }

@@ -1,7 +1,7 @@
 {
   "title": "Grafana",
-  "product_url": "http://grafana.com/",
-  "description": "Grafana is the open source analytics & monitoring solution for every database",
-  "producthunt_url": "https://www.producthunt.com/products/grafana",
-  "crawl_timestamp": "2025-04-02T05:14:33.193770"
+  "product_url": "http://grafana.org/",
+  "description": "Allows us to have a cool dashboard to making sure our servers are holding up.",
+  "producthunt_url": "https://www.producthunt.com/products/grafana-2",
+  "crawl_timestamp": "2025-04-03T10:51:58.662969"
 }

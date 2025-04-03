@@ -1,7 +1,7 @@
 {
   "title": "Flarum",
-  "product_url": "http://flarum.org/",
-  "description": "Simple, fast and free. We empower people and companies to connect intellectually and emotionally through online communities, by providing a technically excellent, open and extensible discussion platform.",
-  "producthunt_url": "https://www.producthunt.com/products/flarum",
-  "crawl_timestamp": "2025-04-02T03:31:12.992922"
+  "product_url": "https://github.com/flarum/core",
+  "description": "A modern, open forum app built for vibrant communities",
+  "producthunt_url": "https://www.producthunt.com/products/flarum-2",
+  "crawl_timestamp": "2025-04-03T10:37:54.564296"
 }

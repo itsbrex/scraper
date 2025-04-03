@@ -1,7 +1,7 @@
 {
   "title": "Travis CI",
-  "product_url": "https://www.travis-ci.com/",
-  "description": "Travis CI is a continuous integration tool that test and deploy your projects with ease. Sync your build projects with Travis CI in minutes!",
-  "producthunt_url": "https://www.producthunt.com/products/travis-ci-2",
-  "crawl_timestamp": "2025-04-01T02:21:47.643090"
+  "product_url": "https://travis-ci.org/",
+  "description": null,
+  "producthunt_url": "https://www.producthunt.com/products/travis-ci",
+  "crawl_timestamp": "2025-04-03T12:59:10.521023"
 }

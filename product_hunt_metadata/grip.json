@@ -1,7 +1,7 @@
 {
   "title": "Grip",
-  "product_url": "https://gripgrpc.dev/",
-  "description": "Grip is a native macOS application for interacting with gRPC services. Unlike other clients, Grip doesn\u2019t just show you a text field where you enter JSON. Instead, it parsesproto files and renders rich forms for composing requests.",
-  "producthunt_url": "https://www.producthunt.com/products/grip-macos-client-for-grpc",
-  "crawl_timestamp": "2025-04-02T19:43:17.801083"
+  "product_url": "http://www.getgrip.io/",
+  "description": null,
+  "producthunt_url": "https://www.producthunt.com/products/grip",
+  "crawl_timestamp": "2025-04-03T10:40:38.678504"
 }
