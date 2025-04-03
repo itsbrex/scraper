@@ -1,0 +1,7 @@
+{
+  "title": "Nexmo",
+  "product_url": "https://www.nexmo.com/",
+  "description": "There are many social channels you can use to engage with your customers - Facebook Messenger, Viber Service Messages etc. Although these channels provide a more personal touch, they are not the most reliable.Enters the Nexmo Workflows API - it allows you to utilize these social channels, but if message delivery fails, it'll fallback to SMS.",
+  "producthunt_url": "https://www.producthunt.com/products/nexmo",
+  "crawl_timestamp": "2025-04-03T07:16:41.656895"
+}

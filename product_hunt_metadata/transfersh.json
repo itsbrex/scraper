@@ -1,0 +1,7 @@
+{
+  "title": "transfer.sh",
+  "product_url": "https://transfer.sh/",
+  "description": "Easy and fast file sharing from the command-line. Transfer.sh currently supports the s3 (Amazon S3), gdrive (Google Drive), storj (Storj) providers, and local file system (local).",
+  "producthunt_url": "https://www.producthunt.com/products/transfer-sh",
+  "crawl_timestamp": "2025-04-03T05:26:49.717932"
+}

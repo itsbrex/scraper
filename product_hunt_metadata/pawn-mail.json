@@ -1,0 +1,7 @@
+{
+  "title": "Pawn Mail",
+  "product_url": "https://pawnmail.com/",
+  "description": "Ever since Google dropped the free version of Google Apps for Business (now known as GSuite), I've been on the hunt for a simple, easy to set up service that won't charge me for a simple mail server. For about a year, I've been using Pawnmail for my silly, prospective, and low-traffic domains.The service is run by donations, and I love how the maintainer is upfront about how many days of runway are left. It's unclear what happens when you hit the 2GB limit -- but in my case if I'm using that much mail, I'll move to something with some semblance of a reliability promise.For the many domains I have bought for small projects or laughs, it's great to be able to set up emails without the ceremony of the other free email servers I've found.While I wouldn't rely on Pawnmail for business-critical emails, it does a fantastic job of being a bare-minimum, totally transparent service.In a time where every \"feature\" startup seems to be trying to pivot to SaaS or Freemium, it's refreshing to see a service that is content doing one thing well and providing a truly free (as in beer) service.",
+  "producthunt_url": "https://www.producthunt.com/products/pawn-mail",
+  "crawl_timestamp": "2025-04-03T04:32:55.080624"
+}

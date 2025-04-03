@@ -1,0 +1,7 @@
+{
+  "title": "Nibbler",
+  "product_url": "http://nibbler.silktide.com/",
+  "description": "The code quality check states 370+ errors, and show invalid attributes for HTML5. Yet these are valid attributes in the ever evolving spec. They also incorrectly bundle this into accessibility, while not actually running and real accessibility check.Additionally, they tracked Facebook likes, but could not report a connection to facebook. Overall the product does not seem be accurate.",
+  "producthunt_url": "https://www.producthunt.com/products/nibbler",
+  "crawl_timestamp": "2025-04-03T04:54:36.796379"
+}

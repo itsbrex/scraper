@@ -1,0 +1,7 @@
+{
+  "title": "GraphicsJS",
+  "product_url": "http://www.graphicsjs.org/",
+  "description": "GraphicsJS is a free open-source JavaScript library for easily drawing any HTML5 graphics & animation from scratch. It is lightweight and more powerful in terms of out-of-the-box features than the existing SVG/VML based components on the market, including the former leaders, Rapha\u00ebl & Bonsai.\n\n* Powerful line drawing\n* Virtual DOM\n* Smart layering system\n* Rich text features\n* Own transformation engine\n* Support for legacy browsers\n* Convenient JS API with chaining\n* Accessibility (Section 508)",
+  "producthunt_url": "https://www.producthunt.com/products/metricsgraphics-js",
+  "crawl_timestamp": "2025-04-03T04:55:44.819696"
+}
