@@ -1,0 +1,7 @@
+{
+  "title": "Ragie",
+  "product_url": "https://www.ragie.ai/",
+  "description": "Ragie is a RAG-as-a-Service platform that helps developers seamlessly integrate RAG into their applications. Ragie Connect takes it a step further by handling user authentication, permissions, and automatic data syncing from sources like Google Drive, Salesforce, and more, enabling effortless user-facing integration of RAG. Our intuitive developer experience with simple APIs & SDKs and built-in advanced features like Hybrid Search helps your application deliver state-of-the-art generative AI.",
+  "producthunt_url": "https://www.producthunt.com/products/ragie",
+  "crawl_timestamp": "2025-04-04T06:50:17.202039"
+}

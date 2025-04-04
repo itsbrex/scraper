@@ -1,0 +1,7 @@
+{
+  "title": "MarkDown Translation Tool",
+  "product_url": "https://i18n.site/",
+  "description": "We offer two command-line tools:\ni18, a MarkDown command-line translation tool & i18n.site, a multi-language static document site generator optimized for reading experience.\nThe translation perfectly maintains the format of Markdown.\nIt can identify file modifications and only translates the changed files.\nThe translated content is editable;If modify original text and perform machine translation again, the manually edited translations will not be overwritten.",
+  "producthunt_url": "https://www.producthunt.com/products/markdown-translation-tool",
+  "crawl_timestamp": "2025-04-04T06:07:15.259868"
+}

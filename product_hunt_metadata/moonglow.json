@@ -1,0 +1,7 @@
+{
+  "title": "Moonglow",
+  "product_url": "https://moonglow.ai/",
+  "description": "Moonglow connects local Jupyter notebooks to remote GPUs, letting ML researchers scale up experiments instantly. No more converting notebooks to scripts or dealing with SSH: with Moonglow, you can move your notebook from a CPU to H100 in under a minute.",
+  "producthunt_url": "https://www.producthunt.com/products/moonglow",
+  "crawl_timestamp": "2025-04-04T03:55:50.896577"
+}

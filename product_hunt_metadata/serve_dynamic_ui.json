@@ -1,0 +1,7 @@
+{
+  "title": "serve_dynamic_ui",
+  "product_url": "https://pub.dev/packages/serve_dynamic_ui",
+  "description": "A Flutter package to render dynamic widgets. This package will help flutter apps UI to be driven by server and make changes in dynamic widgets without publishing the app by just updating in the server and you can see your changes in app.",
+  "producthunt_url": "https://www.producthunt.com/products/serve_dynamic_ui-2",
+  "crawl_timestamp": "2025-04-04T02:43:47.338627"
+}

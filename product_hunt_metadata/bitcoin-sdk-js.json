@@ -1,0 +1,7 @@
+{
+  "title": "bitcoin-sdk-js",
+  "product_url": "https://github.com/ChrisCho-H/bitcoin-sdk-js",
+  "description": "bitcoin-sdk-js provides various features which help to create various type of bitcoin transaction so easily\ud83d\ude80, including smart contract like multisig, hashlock, timelock, combination of them, and even your own smart contract. Segwit & Taproot are all suppoted!",
+  "producthunt_url": "https://www.producthunt.com/products/bitcoin-sdk-js",
+  "crawl_timestamp": "2025-04-04T03:27:04.443882"
+}

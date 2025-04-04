@@ -1,7 +1,7 @@
 {
   "title": "Briefly",
-  "product_url": "http://www.briefly.rocks/",
-  "description": null,
-  "producthunt_url": "https://www.producthunt.com/products/briefly",
-  "crawl_timestamp": "2025-04-03T09:41:28.487229"
+  "product_url": "https://brieflyai.vercel.app/",
+  "description": "Summarize your articles and blogs for free with briefly.",
+  "producthunt_url": "https://www.producthunt.com/products/briefly-5",
+  "crawl_timestamp": "2025-04-04T02:14:14.609767"
 }

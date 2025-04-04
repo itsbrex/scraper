@@ -1,0 +1,7 @@
+{
+  "title": "Construction-Hazard-Detection",
+  "product_url": "https://github.com/yihong1120/Construction-Hazard-Detection",
+  "description": "Enhance construction site safety with our advanced AI system. Using YOLOv8, it detects workers without helmets or vests and those near machinery or vehicles. Safety cone clustering creates monitored zones, while post-processing ensures high detection accuracy.",
+  "producthunt_url": "https://www.producthunt.com/products/construction-hazard-detection",
+  "crawl_timestamp": "2025-04-04T04:55:04.662143"
+}

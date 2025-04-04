@@ -1,7 +1,7 @@
 {
   "title": "Reader Mode",
-  "product_url": "https://readermode.io/",
-  "description": "Reader Mode is a Chrome reading extension and web app that removes clutter, ads and distractions, while also includes dyslexia support, bookmarking, annotating, highlighting, text-to-speech and many other features all in one tool.",
-  "producthunt_url": "https://www.producthunt.com/products/reader-mode",
-  "crawl_timestamp": "2025-04-02T18:08:26.809202"
+  "product_url": "https://chromewebstore.google.com/detail/reader-mode-simple-websit/fbmlcbhdmilaggedifpihjgkkmdgeljh",
+  "description": "The neat and minimalistic reader mode extension with good tech under the hood. It cleans out content from all the visual noise like ads, and banners, providing users with a super clean layout.",
+  "producthunt_url": "https://www.producthunt.com/products/reader-mode-2",
+  "crawl_timestamp": "2025-04-04T03:54:56.731808"
 }

@@ -1,0 +1,7 @@
+{
+  "title": "Vectara Ingest",
+  "product_url": "https://github.com/vectara/vectara-ingest",
+  "description": "vectara-ingest demonstrates how to crawl datasets and ingest them into Vectara. Includes several types of crawlers like website, RSS, Jira, Notion, or Docusarurus, and you can add your own crawler very easily to handle other data sources.",
+  "producthunt_url": "https://www.producthunt.com/products/vectara-ingest",
+  "crawl_timestamp": "2025-04-04T06:52:43.008818"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "DjangoShip",
+  "product_url": "https://www.djangoship.com/",
+  "description": "The boilerplate is a readymade template with integrations with stripe, Google authentication, and tailwind components. The goal of this product is to get ai developers to build apps fast in Django, so their ideas could be validated ASAP.",
+  "producthunt_url": "https://www.producthunt.com/products/djangoship",
+  "crawl_timestamp": "2025-04-04T03:15:29.324363"
+}

@@ -1,7 +1,7 @@
 {
   "title": "Instashot",
-  "product_url": "https://www.instashot.com/",
-  "description": "Instashot is an iOS tool to help you access text from any image instantly.",
-  "producthunt_url": "https://www.producthunt.com/products/instashot",
-  "crawl_timestamp": "2025-04-02T06:30:18.785129"
+  "product_url": "https://instashot.io/",
+  "description": "Submit your photos, and get your first AI portraits with the highest face resemblance in less than a minute. Instashot is a Telegram bot-based service. So you can easily train/generate without having to install an app or visit clunky websites.",
+  "producthunt_url": "https://www.producthunt.com/products/instashot-2",
+  "crawl_timestamp": "2025-04-04T02:18:06.302616"
 }

@@ -1,0 +1,7 @@
+{
+  "title": "Startup Kit",
+  "product_url": "https://djangoreactkit.com/",
+  "description": "A starter kit built to minimize bloat and maximize speed to market. \n- authentication (social auth, 2fa, recovery codes, security emails) \n- stripe (checkout, subscriptions, one-time payments, webhooks) \n- a static marketing site / markdown blog with DaisyUI \n- docker / traefik - automatic SSL when deploying to prod.",
+  "producthunt_url": "https://www.producthunt.com/products/startup-kit-4",
+  "crawl_timestamp": "2025-04-04T04:47:02.356461"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "rencfs",
+  "product_url": "https://radumarias.github.io/rencfs",
+  "description": "An encrypted file system that is mounted with FUSE on Linux. It can be used to create encrypted directories. You can then safely backup the encrypted directory to an untrusted server without worrying about the data being exposed. You can also sync it.",
+  "producthunt_url": "https://www.producthunt.com/products/rencfs",
+  "crawl_timestamp": "2025-04-04T03:25:53.997051"
+}

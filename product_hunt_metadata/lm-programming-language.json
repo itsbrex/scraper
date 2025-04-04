@@ -1,0 +1,7 @@
+{
+  "title": "LM Programming Language",
+  "product_url": "https://github.com/andrew-johnson-4/lambda-mountain",
+  "description": "\u03bb\u2636 (pronounced Lambda Mountain) is a compiler backend that provides a relatively clean implementation of System F<: with Specialization. The whole compiler is only 5000 lines of code.",
+  "producthunt_url": "https://www.producthunt.com/products/lm-programming-language",
+  "crawl_timestamp": "2025-04-04T02:45:35.106734"
+}

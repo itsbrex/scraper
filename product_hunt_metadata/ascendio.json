@@ -1,0 +1,7 @@
+{
+  "title": "Ascendio",
+  "product_url": "https://ascendio.dev/",
+  "description": "Ascendio is a powerful CLI tool that simplifies the setup of monorepo projects by automating the configuration of essential tools and libraries. With integrated support for ESLint, Prettier, TypeScript, TailwindCSS, shad-ch/ui and Turborepo.",
+  "producthunt_url": "https://www.producthunt.com/products/ascendio",
+  "crawl_timestamp": "2025-04-04T04:56:52.893930"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "pippy",
+  "product_url": "https://pippy.dev/",
+  "description": "pippy allows you to create configurable pipelines using Github Action workflows. pippy optionally integrates with external monitoring like datadog to automatically rollback to the last known working state.",
+  "producthunt_url": "https://www.producthunt.com/products/pippy",
+  "crawl_timestamp": "2025-04-04T02:32:06.856309"
+}

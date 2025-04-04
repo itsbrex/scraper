@@ -1,0 +1,7 @@
+{
+  "title": "live-html",
+  "product_url": "https://www.npmjs.com/package/@abenezer-daniel/live-html",
+  "description": "A CLI tool to serve your HTML files locally with hot reload. It's like the Live Server extension for VS code but for the terminal. If you don't use VS code this is for you since other text editors might not have an extension to serve your HTML.",
+  "producthunt_url": "https://www.producthunt.com/products/live-html",
+  "crawl_timestamp": "2025-04-04T06:46:34.999835"
+}

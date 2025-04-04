@@ -1,0 +1,7 @@
+{
+  "title": "Typr Editor",
+  "product_url": "https://typr.dev/",
+  "description": "Typr is a Medium-like editor for React that integrates with your user system and CMS. Provide your user and database calls as React props, and it'll handle content loading, publishing, and auto-saving out of the box.",
+  "producthunt_url": "https://www.producthunt.com/products/typr-editor",
+  "crawl_timestamp": "2025-04-04T06:51:49.754729"
+}

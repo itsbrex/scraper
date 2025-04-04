@@ -1,0 +1,7 @@
+{
+  "title": "Schema-to-Code (S2C)",
+  "product_url": "https://schematocode-yashbrid03.vercel.app/",
+  "description": "Create and manage database schemas effortlessly with a drag-and-drop interface. Automatically handle primary and foreign keys, define relationships, and generate MySQL code. Export your schema as an image or download the code in sql format all with few clicks.",
+  "producthunt_url": "https://www.producthunt.com/products/schema-to-code-s2c",
+  "crawl_timestamp": "2025-04-04T05:53:05.062735"
+}

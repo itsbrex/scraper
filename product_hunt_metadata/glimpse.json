@@ -1,7 +1,7 @@
 {
   "title": "Glimpse",
-  "product_url": "https://chrome.google.com/webstore/detail/glimpse/mlkphfapecjniljjgjbcbopfgcjdmche",
-  "description": null,
-  "producthunt_url": "https://www.producthunt.com/products/glimpse-4",
-  "crawl_timestamp": "2025-04-03T13:06:04.301949"
+  "product_url": "https://glimpse.sh/",
+  "description": "Glimpse automatically deploys GitHub pull requests to preview environments using Laravel Forge, enabling Laravel developers to quickly and easily see how changes will look and function before merging them into a main branch.",
+  "producthunt_url": "https://www.producthunt.com/products/glimpse-9",
+  "crawl_timestamp": "2025-04-04T03:57:55.417249"
 }

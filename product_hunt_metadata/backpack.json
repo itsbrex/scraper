@@ -1,7 +1,7 @@
 {
-  "title": "Backpack",
-  "product_url": "https://backpackbang.com/",
-  "description": null,
-  "producthunt_url": "https://www.producthunt.com/products/backpack",
-  "crawl_timestamp": "2025-04-03T02:14:50.829818"
+  "title": "BackPack",
+  "product_url": "https://backpackbot.ai/",
+  "description": "BackPack is a Discord bot that transforms images and videos into songs. It creates songs about what it sees in an image or a video you send to it. You can customize the songs by mentioning a genre, vibe (e.g funny, calm) and details about the image/video.",
+  "producthunt_url": "https://www.producthunt.com/products/backpack-463caca1-78c8-4c75-a04c-bd882369a83e",
+  "crawl_timestamp": "2025-04-04T04:14:56.542827"
 }

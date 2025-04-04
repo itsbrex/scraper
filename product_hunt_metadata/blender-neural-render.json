@@ -1,0 +1,7 @@
+{
+  "title": "Blender Neural Render",
+  "product_url": "https://github.com/n1x-ax/Neural-Render",
+  "description": "Neural Render is a Blender addon that integrates the Clarity Upscaler AI model from Replicate into your Blender workflow. It allows you to process rendered images with AI, enhancing their quality and resolution directly within Blender.",
+  "producthunt_url": "https://www.producthunt.com/products/blender-neural-render",
+  "crawl_timestamp": "2025-04-04T06:57:33.699175"
+}

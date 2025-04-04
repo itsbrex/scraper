@@ -1,0 +1,7 @@
+{
+  "title": "One Line LLM Tuner",
+  "product_url": "https://github.com/metriccoders/one-line-llm-tuner",
+  "description": "This PyPI fine tunes your LLM in one line.! Install the PyPI package: pip install one-line-llm-tuner And voila! start fine-tuning in an instant. You can fine-tune any hugging face model that's available for free.",
+  "producthunt_url": "https://www.producthunt.com/products/one-line-llm-tuner",
+  "crawl_timestamp": "2025-04-04T04:49:08.130478"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "StorageFlow",
+  "product_url": "https://www.npmjs.com/package/storageflow",
+  "description": "StorageFlow is a TypeScript library designed for efficient and flexible file management. It currently supports a NextJS adapter and an AWS S3 provider, with plans for additional adapters and providers in the future.",
+  "producthunt_url": "https://www.producthunt.com/products/storageflow",
+  "crawl_timestamp": "2025-04-04T04:27:33.142022"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "m-todo",
+  "product_url": "https://todo.maliksvd.ca/",
+  "description": "A simple todo app built with Next.js and localStorage. \u25b2 storage: localStorage \u25b2 ui: shadcn-ui \u25b2 animation: framer-motion \u25b2 technology: next.js \u25b2 others: zod, umami",
+  "producthunt_url": "https://www.producthunt.com/products/m-todo",
+  "crawl_timestamp": "2025-04-04T05:41:02.037037"
+}

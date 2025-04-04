@@ -1,0 +1,7 @@
+{
+  "title": "EasyRLS",
+  "product_url": "https://easy-rls.vercel.app/",
+  "description": "EasyRls is an open-source tool for managing Row Level Security (RLS) policies in PostgreSQL. It features an intuitive interface for connecting to instances, managing schemas/tables, and creating/editing/deleting policies.",
+  "producthunt_url": "https://www.producthunt.com/products/easyrls",
+  "crawl_timestamp": "2025-04-04T04:37:05.575004"
+}

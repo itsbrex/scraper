@@ -1,0 +1,7 @@
+{
+  "title": "Jukebox",
+  "product_url": "https://openai.com/blog/jukebox",
+  "description": "Jukebox is a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. OpenAI has released the model weights and code, along with a tool to explore the generated samples.",
+  "producthunt_url": "https://www.producthunt.com/products/jukebox-5",
+  "crawl_timestamp": "2025-04-04T06:42:54.245250"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Anyquery",
+  "product_url": "https://anyquery.dev/",
+  "description": "Anyquery is a SQL query engine to run SQL queries on anything. It supports querying JSON, CSV, Parquet, Airtable, Google Sheets, Notion databases, Gmail and much more It uses SQLite under the hood and can act as a MySQL server so that you can connect BI tools.",
+  "producthunt_url": "https://www.producthunt.com/products/anyquery",
+  "crawl_timestamp": "2025-04-04T04:57:10.982894"
+}

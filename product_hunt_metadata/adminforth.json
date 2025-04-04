@@ -1,0 +1,7 @@
+{
+  "title": "AdminForth",
+  "product_url": "https://adminforth.dev/",
+  "description": "OpenSource Tailwind Admin Panel framework to quickly spawn up a backoffice for your app. You can easily add your pages and components using Vue3 and add your APIs using Node.js Typescript. It includes plugins like 2FA, AI-completion, and Audit-Log.",
+  "producthunt_url": "https://www.producthunt.com/products/adminforth",
+  "crawl_timestamp": "2025-04-04T05:04:42.387832"
+}

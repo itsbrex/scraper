@@ -1,0 +1,7 @@
+{
+  "title": "Ellipsis (YC W24)",
+  "product_url": "https://ellipsis.dev/",
+  "description": "Ellipsis is a GitHub app that automatically reviews code and fixes bugs on pull requests. It catches logical bugs, enforces your team's style guide, and can even generate working, tested code to address comments like \"@ellipsis-dev fix this unit test\"",
+  "producthunt_url": "https://www.producthunt.com/products/ellipsis-2",
+  "crawl_timestamp": "2025-04-04T04:03:22.765046"
+}

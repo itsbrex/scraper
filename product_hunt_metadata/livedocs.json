@@ -1,7 +1,7 @@
 {
   "title": "LiveDocs",
-  "product_url": "https://livedocs.com/templates",
-  "description": "Livedocs lets you bring live data from your existing tools into your documents, so anybody on your team can track vital metrics like retention, MRR, and web traffic in under 90 seconds \u2014 no code or database-schema-knowledge required!",
-  "producthunt_url": "https://www.producthunt.com/products/livedocs-2",
-  "crawl_timestamp": "2025-04-02T19:34:34.418329"
+  "product_url": "https://epic-editor-sigma.vercel.app/",
+  "description": "LiveDocs is a real-time, collaborative note-taking app with built-in authentication. Create, share, and control your notes effortlessly. Decide who can view or edit your notes, all while staying secure and in sync.",
+  "producthunt_url": "https://www.producthunt.com/products/livedocs-3",
+  "crawl_timestamp": "2025-04-04T05:12:12.812255"
 }

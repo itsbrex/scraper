@@ -1,0 +1,7 @@
+{
+  "title": "Vector Cache",
+  "product_url": "https://github.com/shivendrasoni/semantic-cache",
+  "description": "As AI applications gain traction, the costs and latency of using large language models (LLMs) can escalate. VectorCache addresses these issues by caching LLM responses based on semantic similarity, thereby reducing both costs and response times.",
+  "producthunt_url": "https://www.producthunt.com/products/vector-cache",
+  "crawl_timestamp": "2025-04-04T05:42:28.995605"
+}

@@ -1,7 +1,7 @@
 {
   "title": "Lotus",
-  "product_url": "http://lotusrb.org/",
-  "description": null,
-  "producthunt_url": "https://www.producthunt.com/products/lotus",
-  "crawl_timestamp": "2025-04-03T10:47:57.115930"
+  "product_url": "https://lotus-weld.vercel.app/",
+  "description": "Lotus is a website that allows you to create texts. You can encrypt as much text as you want. In future updates, I will explore ways to do more advanced encryption.",
+  "producthunt_url": "https://www.producthunt.com/products/lotus-5",
+  "crawl_timestamp": "2025-04-04T03:09:32.205583"
 }

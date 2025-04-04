@@ -1,7 +1,7 @@
 {
-  "title": "Watchtower",
-  "product_url": "http://www.gowatchtower.com/",
-  "description": null,
-  "producthunt_url": "https://www.producthunt.com/products/watchtower",
-  "crawl_timestamp": "2025-04-02T21:47:35.343951"
+  "title": "WatchTower",
+  "product_url": "https://watch-tower.co/",
+  "description": "Developers often struggle with the complexities of existing monitoring tools when analyzing DynamoDB provisioning metrics. WatchTower centralizes this data, allowing you to generate and visualize metric data from DynamoDB usage effortlessly.",
+  "producthunt_url": "https://www.producthunt.com/products/watchtower-3",
+  "crawl_timestamp": "2025-04-04T03:30:24.037306"
 }

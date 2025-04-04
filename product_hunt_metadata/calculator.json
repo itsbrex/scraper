@@ -1,7 +1,7 @@
 {
   "title": "Calculator",
-  "product_url": "https://whowideweb.com/",
-  "description": "* Make a DMG * Add optional icon before creation * Disk images made easy!",
-  "producthunt_url": "https://www.producthunt.com/products/calculator-3",
-  "crawl_timestamp": "2025-04-02T20:08:33.411463"
+  "product_url": "https://web-calculator-tau.vercel.app/",
+  "description": "This is a new word in calculator design and customization. And, how to customize? Press ^ button, and after using 0123 you can make your own style. Also for pc version (GitHub) you can increase and reduce window size by scrolling or pressing -+ with ^ button.",
+  "producthunt_url": "https://www.producthunt.com/products/calculator-4",
+  "crawl_timestamp": "2025-04-04T03:04:48.453980"
 }

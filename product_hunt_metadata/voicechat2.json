@@ -1,0 +1,7 @@
+{
+  "title": "voicechat2",
+  "product_url": "https://github.com/lhl/voicechat2",
+  "description": "AI voice chat infrastructure that uses WebSockets. It can achieve voice-to-voice latency as low as 300ms (what GPT-4o does) without a unified voice codec. Everything runs on a single high-end consumer GPU.",
+  "producthunt_url": "https://www.producthunt.com/products/voicechat2",
+  "crawl_timestamp": "2025-04-04T04:35:17.711102"
+}

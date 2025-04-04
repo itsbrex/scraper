@@ -1,0 +1,7 @@
+{
+  "title": "Msgdrop",
+  "product_url": "https://msgdrop.io/",
+  "description": "Msgdrop is a RESTful API which provides several key features: - Disposable email addresses from an API - Accessing inboxes through an API - Webhook URLs for testing - Enrol and generate 2FA codes from an API No fake SMTP servers, just one simple API.",
+  "producthunt_url": "https://www.producthunt.com/products/msgdrop",
+  "crawl_timestamp": "2025-04-04T03:56:43.672093"
+}

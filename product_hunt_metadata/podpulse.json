@@ -1,0 +1,7 @@
+{
+  "title": "PodPulse",
+  "product_url": "https://podpulse.tech/",
+  "description": "PodPulse is a proof of concept project aimed at providing a more intuitive way to log and track container restarts in Kubernetes clusters. Unlike pricey third-party apps, PodPulse is open-source and works natively with the Kubernetes API to monitors restarts.",
+  "producthunt_url": "https://www.producthunt.com/products/podpulse",
+  "crawl_timestamp": "2025-04-04T04:57:29.202872"
+}

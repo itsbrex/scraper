@@ -1,0 +1,7 @@
+{
+  "title": "Street View Analyzer",
+  "product_url": "https://streetviewanalyzer.streamlit.app/",
+  "description": "Takes a street and a range of numbers/addresses. Calculates the optimal route and sets intermediate points every X meters. Processes each point by downloading street captures from both the left and right sidewalks. Performs a visual analysis of each image.",
+  "producthunt_url": "https://www.producthunt.com/products/street-view-analyzer",
+  "crawl_timestamp": "2025-04-04T05:27:38.507230"
+}

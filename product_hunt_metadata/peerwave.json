@@ -1,0 +1,7 @@
+{
+  "title": "PeerWave",
+  "product_url": "https://peerwave.org/",
+  "description": "In the current version, you can share your screen, window, tab, or files using Socket.io for metadata. Data is shared directly between peers via WebRTC. You can create also rooms for meetings where participants can join and share screens.",
+  "producthunt_url": "https://www.producthunt.com/products/peerwave",
+  "crawl_timestamp": "2025-04-04T03:06:18.033242"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Sagoo IoT System",
+  "product_url": "https://iotdoc.sagoo.cn/",
+  "description": "SagooIOT is an open-source enterprise IoT platform based on Golang, which supports cross platform IoT integration while managing devices and protocols. The supported protocols include TCP MQTT\u3001UDP\u3001CoAP\u3001HTTP\u3002",
+  "producthunt_url": "https://www.producthunt.com/products/sagoo-iot-system",
+  "crawl_timestamp": "2025-04-04T06:00:55.957904"
+}

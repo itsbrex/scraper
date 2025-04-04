@@ -1,0 +1,7 @@
+{
+  "title": "Translatez",
+  "product_url": "https://translatez.dev/",
+  "description": "Effortlessly extract strings from your code by dragging files or syncing with GitHub and use LLM for translations. Translatez then injects translations via react-i18next into your code, and outputs the injected file. It can even push changes to your repo.",
+  "producthunt_url": "https://www.producthunt.com/products/translatez",
+  "crawl_timestamp": "2025-04-04T03:07:10.635628"
+}
