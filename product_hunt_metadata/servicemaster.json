@@ -1,0 +1,7 @@
+{
+  "title": "ServiceMaster",
+  "product_url": "https://github.com/Lennart1978/servicemaster",
+  "description": "ServiceMaster is a powerful terminal-based tool for managing systemd units on Linux systems. It provides an intuitive interface for viewing and controlling system and user units, making it easier to manage your units without leaving the command line.",
+  "producthunt_url": "https://www.producthunt.com/products/servicemaster",
+  "crawl_timestamp": "2025-04-04T09:26:54.972611"
+}

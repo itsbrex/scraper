@@ -1,0 +1,7 @@
+{
+  "title": "Eventics",
+  "product_url": "https://github.com/Meet-Miyani/Eventics",
+  "description": "Eventics is designed to enhance event logging in Android applications. It provides a structured approach to logging events by allowing developers to create custom event classes, centralize event logging, and automate the conversion of properties to bundles.",
+  "producthunt_url": "https://www.producthunt.com/products/eventics",
+  "crawl_timestamp": "2025-04-04T10:18:37.143832"
+}

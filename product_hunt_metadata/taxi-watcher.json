@@ -1,0 +1,7 @@
+{
+  "title": "Taxi Watcher",
+  "product_url": "https://taxi-watcher.ru/en",
+  "description": "Telegram bot that will track the cost of a ride on Yandex Taxi and notify you as soon as the price drops to the specified limit.",
+  "producthunt_url": "https://www.producthunt.com/products/taxi-watcher",
+  "crawl_timestamp": "2025-04-04T12:16:55.741849"
+}

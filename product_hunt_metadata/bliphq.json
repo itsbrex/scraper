@@ -1,0 +1,7 @@
+{
+  "title": "BlipHQ",
+  "product_url": "https://bliphq.com/",
+  "description": "BlipHQ gets your alerts, notifications, flags and messages directly to your phone via Telegram and Discord.\n\nWhat sets BlipHQ apart?\n\n- Simple POST request\n- Platform independent\n- Don't waste time setting up webhook/ chatbot for Discord/ Telegram\n- Validate your ChatID and get started!\n- Insert tags and get analytics\n- Export analytics as .csv\n\nSo the next time someone buys your premium plan, server load crosses threshold or your script catches an error, you'll be instantly notified about it!",
+  "producthunt_url": "https://www.producthunt.com/products/bliphq",
+  "crawl_timestamp": "2025-04-04T11:20:18.754625"
+}

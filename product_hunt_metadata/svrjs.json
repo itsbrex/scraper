@@ -1,0 +1,7 @@
+{
+  "title": "SVR.JS",
+  "product_url": "https://svrjs.org/",
+  "description": "SVR.JS is a Node.JS-based web server that supports static and dynamic content, featuring modularity, HTTPS, HTTP/2, and configurability. It allows server-side JavaScript execution and offers security features like URL sanitizer and brute force protection.",
+  "producthunt_url": "https://www.producthunt.com/products/svr-js",
+  "crawl_timestamp": "2025-04-04T12:15:07.148761"
+}

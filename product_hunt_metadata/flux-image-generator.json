@@ -1,7 +1,7 @@
 {
   "title": "Flux Image Generator",
-  "product_url": "https://fluximagegenerator.net/",
-  "description": "Flux Image Generator is Black Forest Labs' model that turns text into images.it offers three versions: Flux Schnell, Flux Dev, and Flux Pro Developed by AI experts. No sign-up needed start creating instantly.",
-  "producthunt_url": "https://www.producthunt.com/products/flux-image-generator-2",
-  "crawl_timestamp": "2025-04-04T06:24:18.700159"
+  "product_url": "https://devrel.app.n8n.cloud/form/flux",
+  "description": "Tired of ad-filled image generators? Flux Image Generator is clean, fast, and free\u2014no ads, no clutter. Built with an n8n workflow using Huggingface's free API, try it out or duplicate it to customize and run your own version with ease!",
+  "producthunt_url": "https://www.producthunt.com/products/flux-image-generator-3",
+  "crawl_timestamp": "2025-04-04T13:03:31.131863"
 }

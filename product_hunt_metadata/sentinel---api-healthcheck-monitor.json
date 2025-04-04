@@ -1,0 +1,7 @@
+{
+  "title": "Sentinel - API Healthcheck Monitor",
+  "product_url": "https://github.com/HealthCheckHQ/sentinel",
+  "description": "Tired of generic status pages? Our tool empowers you with granular control. Push individual healthcheck data directly to your DB or queue. Gain deeper insights and tailor your monitoring to your exact needs.",
+  "producthunt_url": "https://www.producthunt.com/products/sentinel-api-healthcheck-monitor",
+  "crawl_timestamp": "2025-04-04T12:11:45.756415"
+}

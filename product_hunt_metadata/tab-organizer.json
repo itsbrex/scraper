@@ -1,7 +1,7 @@
 {
   "title": "Tab Organizer",
-  "product_url": "https://www.google.com/url",
-  "description": "Smart Tab Organizer is a powerful extension that revolutionizes your browsing experience.",
-  "producthunt_url": "https://www.producthunt.com/products/tab-organizer-2",
-  "crawl_timestamp": "2025-04-04T04:47:39.879444"
+  "product_url": "https://taborganizer.com/",
+  "description": "Chrome extension that automatically groups tabs by (sub)domain and custom rules with the ability to customize colours for tab groups. Features removing of duplicate tabs, tab sorting, and keyboard shortcuts for efficient web navigation.",
+  "producthunt_url": "https://www.producthunt.com/products/tab-organizer-3",
+  "crawl_timestamp": "2025-04-04T10:18:19.790626"
 }

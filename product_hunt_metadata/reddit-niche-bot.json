@@ -1,0 +1,7 @@
+{
+  "title": "Reddit Niche Bot",
+  "product_url": "https://github.com/Miguel07Alm/reddit-bot",
+  "description": "Reddit Niche Bot automates Reddit monitoring by tracking specific keywords in posts and comments. It sends email alerts and generates daily reports using OpenAI's API. Ideal for staying updated on niche topics. Docker-based for easy deployment.",
+  "producthunt_url": "https://www.producthunt.com/products/reddit-niche-bot",
+  "crawl_timestamp": "2025-04-04T09:18:22.533934"
+}

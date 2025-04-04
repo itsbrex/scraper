@@ -1,0 +1,7 @@
+{
+  "title": "pgsalesforce_fdw",
+  "product_url": "https://github.com/sfdev1010/pgsalesforce",
+  "description": "pgsalesforce_fdw is a Salesforce Foreign Data Wrapper (FDW) for PostgreSQL. It allows you to query live Salesforce data from PostgreSQL. Using it's core functionality, a bi-directional data sync between SF and PG is implemented with upserts and triggers.",
+  "producthunt_url": "https://www.producthunt.com/products/pgsalesforce_fdw",
+  "crawl_timestamp": "2025-04-04T09:20:12.447278"
+}

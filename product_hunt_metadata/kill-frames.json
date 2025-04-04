@@ -1,0 +1,7 @@
+{
+  "title": "Kill Frames",
+  "product_url": "https://www.killframes.com/",
+  "description": "I have trained a resnet50 model to detect kills in valorant gameplay recordings and automatically create a montage from the detected kills.",
+  "producthunt_url": "https://www.producthunt.com/products/kill-frames",
+  "crawl_timestamp": "2025-04-04T12:51:42.195798"
+}

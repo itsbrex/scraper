@@ -1,7 +1,7 @@
 {
   "title": "Prisma",
-  "product_url": "http://www.codeadventure.com/prisma",
-  "description": null,
-  "producthunt_url": "https://www.producthunt.com/products/prisma-2",
-  "crawl_timestamp": "2025-04-03T10:29:20.179356"
+  "product_url": "https://prisma.syntheticfox.xyz/",
+  "description": "Generate a hierarchical view of your project for instant comprehension by LLMs like Claude, ChatGPT, and other AI coding assistants. Optimize Your AI Coding Workflow. Available for both macOS and Windows.",
+  "producthunt_url": "https://www.producthunt.com/products/prisma-9552e9f8-aa99-4b09-9737-6d8b7635249d",
+  "crawl_timestamp": "2025-04-04T11:13:25.025490"
 }

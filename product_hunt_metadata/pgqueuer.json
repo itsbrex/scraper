@@ -1,0 +1,7 @@
+{
+  "title": "pgqueuer",
+  "product_url": "https://github.com/janbjorge/pgqueuer",
+  "description": "pgqueuer is a minimalist, high-performance job queue library for Python, leveraging the robustness of PostgreSQL. Designed for simplicity and efficiency, pgqueuer uses PostgreSQL's LISTEN/NOTIFY to manage job queues effortlessly.",
+  "producthunt_url": "https://www.producthunt.com/products/pgqueuer",
+  "crawl_timestamp": "2025-04-04T11:08:51.346913"
+}

@@ -1,7 +1,7 @@
 {
-  "title": "inContact",
-  "product_url": "https://www.bmc.com/customers/incontact.html",
-  "description": "Leader in cloud contact center software delivers on its 99.99% SLA with multi-cloud monitoring and proactive service management",
-  "producthunt_url": "https://www.producthunt.com/products/incontact",
-  "crawl_timestamp": "2025-04-01T00:03:53.831237"
+  "title": "InContact",
+  "product_url": "https://incontact-extension.netlify.app/",
+  "description": "InContact: The ultimate Chrome extension to manage your LinkedIn contacts efficiently. Save time and stay organized with seamless contact management.",
+  "producthunt_url": "https://www.producthunt.com/products/incontact-2",
+  "crawl_timestamp": "2025-04-04T12:11:10.691524"
 }

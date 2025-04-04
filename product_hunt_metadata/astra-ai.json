@@ -1,0 +1,7 @@
+{
+  "title": "Astra AI",
+  "product_url": "https://tryastra.io/",
+  "description": "Astra makes it easy to integrate any app and API with an LLM for function calling. The JSON schemas and end-user authentication setup is handled by us. Even if your LLM isn't fine-tuned for function calling, we can provide a proxy method of integration.",
+  "producthunt_url": "https://www.producthunt.com/products/astra-ai-2",
+  "crawl_timestamp": "2025-04-04T09:28:45.412366"
+}

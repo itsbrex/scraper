@@ -1,0 +1,7 @@
+{
+  "title": "Chrome Extension Starter Template",
+  "product_url": "https://github.com/omribarmats/chrome-extension-starter",
+  "description": "A starter template for developing Chrome extensions with Vite, React, Typescript and Tailwind CSS. - Local host hot-reload view of popup and options page - Auto-completion for Chrome's API with chrome-types - Easy Install and upload to web store",
+  "producthunt_url": "https://www.producthunt.com/products/chrome-extension-starter-template",
+  "crawl_timestamp": "2025-04-04T12:55:01.753535"
+}

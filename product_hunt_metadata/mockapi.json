@@ -1,7 +1,7 @@
 {
   "title": "MockAPI",
-  "product_url": "https://mockapi.com/",
-  "description": "MockAPI streamlines development with dynamic, realistic mocks, seamless integration, effortless testing, and randomized error responses to mimic real-world unpredictability. Build faster, test smarter! Keep your endpoints, change your response.",
-  "producthunt_url": "https://www.producthunt.com/products/mockapi-2",
-  "crawl_timestamp": "2025-04-03T20:58:03.701711"
+  "product_url": "https://mockapi.cc/",
+  "description": "Create instant mock APIs with customizable data and powerful fake generators. Collaborate seamlessly by inviting your team to projects or exporting collections to tools like Postman. Simulate API response delays, add custom headers, and more.",
+  "producthunt_url": "https://www.producthunt.com/products/mockapi-3",
+  "crawl_timestamp": "2025-04-04T09:43:50.484513"
 }

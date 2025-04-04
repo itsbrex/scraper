@@ -1,0 +1,7 @@
+{
+  "title": "Treds",
+  "product_url": "https://treds.io/",
+  "description": "Treds is a Radix Trie based data structure server that stores keys in sorted order, ensuring fast and efficient retrieval. A scan operation returns keys in their sorted sequence. Keys at root level having a common prefix can be queried optimally.",
+  "producthunt_url": "https://www.producthunt.com/products/treds",
+  "crawl_timestamp": "2025-04-04T13:23:31.554664"
+}

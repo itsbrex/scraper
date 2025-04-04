@@ -1,0 +1,7 @@
+{
+  "title": "AnnotationServiceBuilder",
+  "product_url": "https://github.com/genryianchev/AnnotationServiceBuilder",
+  "description": "AnnotationServiceBuilderExamples is a repository containing example projects that demonstrate how to use the ASB library. These examples cover various scenarios such as using Scoped, Singleton, and Transient services, as well as using Refit clients.",
+  "producthunt_url": "https://www.producthunt.com/products/annotationservicebuilder",
+  "crawl_timestamp": "2025-04-04T10:12:35.083194"
+}

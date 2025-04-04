@@ -1,0 +1,7 @@
+{
+  "title": "SusCode",
+  "product_url": "https://marketplace.visualstudio.com/items",
+  "description": "SusCode is a VSCode extension that scans your installed extensions for potential security risks, highlighting patterns, packages, and requests that could increase vulnerability to attacks.",
+  "producthunt_url": "https://www.producthunt.com/products/suscode",
+  "crawl_timestamp": "2025-04-04T12:00:11.361461"
+}

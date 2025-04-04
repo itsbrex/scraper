@@ -1,7 +1,7 @@
 {
-  "title": "Sqlify",
-  "product_url": "https://sqlify.io/",
-  "description": "Fast and modern tool to convert any data to SQL easily. Input up to 100Gb of CSV or JSON and output SQL or any other format to import into a database.",
-  "producthunt_url": "https://www.producthunt.com/products/sqlify",
-  "crawl_timestamp": "2025-04-02T05:29:17.098501"
+  "title": "SQLify",
+  "product_url": "https://sqlify.me/",
+  "description": "Access all your data sources with a PostgreSQL-compatible interface\u2014no more complex ETL pipelines. Query anything in real-time using SQL as if it were a single database, making data-driven decisions faster and easier. \ud83d\ude80",
+  "producthunt_url": "https://www.producthunt.com/products/sqlify-2",
+  "crawl_timestamp": "2025-04-04T11:49:31.687803"
 }

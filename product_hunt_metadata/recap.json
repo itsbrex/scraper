@@ -1,7 +1,7 @@
 {
   "title": "Recap",
-  "product_url": "https://fabric.so/product/recap",
-  "description": "\u23ea Recap \u2013 an AI generated email roundup of your recent notes & bookmarks. Get your \"read it later\" content regularly sent to your email when you'll actually read it. With a convenient AI summary for each file, note or link, helping you reflect & review.",
-  "producthunt_url": "https://www.producthunt.com/products/recap-4",
-  "crawl_timestamp": "2025-04-04T04:34:06.066745"
+  "product_url": "https://getrecap.xyz/",
+  "description": "Recap is an extremely simple tool that helps you remember information that you care about. It uses AI to process your inputs and sends you personlized email reminders based on spaced repetition to maximize long-term retention.",
+  "producthunt_url": "https://www.producthunt.com/products/recap-5",
+  "crawl_timestamp": "2025-04-04T13:00:47.523481"
 }

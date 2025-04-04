@@ -1,0 +1,7 @@
+{
+  "title": "OpenAI API Proxy",
+  "product_url": "https://github.com/rxliuli/openai-api-proxy",
+  "description": "Provides the same proxy OpenAI API interface for different LLM models(OpenAI, Anthropic, Vertex AI, Gemini), and supports deployment to any Edge Runtime environment. \u2705 Compatible with OpenAI API \u2705 Support for multiple models \u2705 Suitable for Edge environments",
+  "producthunt_url": "https://www.producthunt.com/products/openai-api-proxy",
+  "crawl_timestamp": "2025-04-04T09:20:30.394159"
+}

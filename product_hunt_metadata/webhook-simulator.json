@@ -1,0 +1,7 @@
+{
+  "title": "Webhook Simulator",
+  "product_url": "https://webhooksimulator.com/",
+  "description": "Tired of broken webhooks ruining your day? Webhook Simulator's got you covered. Test your integrations locally with real-world payloads. Support for major platforms like Stripe, GitHub, and more. Craft custom events, inspect requests in detail, and debug like a pro.\n\nCLI for speed demons, GUI for visual folks. Detailed logs? You bet. Intuitive JSON viewer? Of course.\n\nStop deploying and praying. Start testing with confidence. Webhook Simulator: because life's too short for integration surprises.",
+  "producthunt_url": "https://www.producthunt.com/products/webhook-simulator",
+  "crawl_timestamp": "2025-04-04T13:23:13.833451"
+}

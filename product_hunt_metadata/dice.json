@@ -1,7 +1,7 @@
 {
-  "title": "DICE+",
-  "product_url": "http://dicepl.us/",
-  "description": null,
-  "producthunt_url": "https://www.producthunt.com/products/dice-2",
-  "crawl_timestamp": "2025-04-03T10:23:01.049936"
+  "title": "DICE",
+  "product_url": "https://hypercubed.github.io/dice",
+  "description": "Decode in case of Emergency (DICE) is a online and open-source tool to convert confidential messages into encrypted QRCodes to be decoded in case of emergency.",
+  "producthunt_url": "https://www.producthunt.com/products/dice-4",
+  "crawl_timestamp": "2025-04-04T11:12:29.261196"
 }

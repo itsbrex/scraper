@@ -1,0 +1,7 @@
+{
+  "title": "goproxy.dev",
+  "product_url": "https://goproxy.dev/",
+  "description": "Seamlessly install your private Go modules from GitHub. goproxy.dev provides the easiest integration for consuming Golang packages from your private repositories, featuring secure and fast downloads. Just set your GOPROXY and GONOSUMDB environment variables.",
+  "producthunt_url": "https://www.producthunt.com/products/goproxy-dev",
+  "crawl_timestamp": "2025-04-04T10:31:16.982588"
+}

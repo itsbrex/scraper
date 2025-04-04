@@ -1,0 +1,7 @@
+{
+  "title": "SQLite Viewer",
+  "product_url": "https://sqlite3.online/",
+  "description": "WASM-powered, lightning-fast SQLite Viewer for the browser. No installation needed, fully client-side for privacy, with offline support and customizable interface. Ideal for handling large databases.",
+  "producthunt_url": "https://www.producthunt.com/products/sqlite-viewer",
+  "crawl_timestamp": "2025-04-04T13:18:23.440355"
+}

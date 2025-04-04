@@ -1,7 +1,7 @@
 {
   "title": "Minute",
-  "product_url": "https://www.getminute.com/index.html",
-  "description": null,
-  "producthunt_url": "https://www.producthunt.com/products/minute",
-  "crawl_timestamp": "2025-04-03T06:50:31.318373"
+  "product_url": "https://github.com/ktmouk/minute",
+  "description": "Minute is an open-source time tracking app designed for personal use, helping you increase meaningful time and reduce less meaningful time. Organize your tracked time with a folder structure, and create charts to see if your time is being used ideally.",
+  "producthunt_url": "https://www.producthunt.com/products/minute-3",
+  "crawl_timestamp": "2025-04-04T10:22:14.305452"
 }

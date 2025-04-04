@@ -1,0 +1,7 @@
+{
+  "title": "OpenAI o1",
+  "product_url": "https://openai.com/index/learning-to-reason-with-llms",
+  "description": "A new large language model trained with reinforcement learning to perform complex reasoning. o1 thinks before it answers\u2014it can produce a long internal chain of thought before responding to the user.",
+  "producthunt_url": "https://www.producthunt.com/products/openai-o1",
+  "crawl_timestamp": "2025-04-04T12:20:34.300834"
+}

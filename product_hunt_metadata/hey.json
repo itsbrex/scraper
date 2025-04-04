@@ -1,7 +1,7 @@
 {
-  "title": "Hey",
-  "product_url": "http://signup.teamhey.com/",
-  "description": null,
-  "producthunt_url": "https://www.producthunt.com/products/hey-6",
-  "crawl_timestamp": "2025-04-03T09:59:43.756229"
+  "title": "Hey!",
+  "product_url": "https://github.com/lnxpy/hey",
+  "description": "Hey is a free and open-source CLI tool for Linux, Mac, and Windows users that seamlessly integrates powerful Large Language Models (LLMs) for a delightful development experience. Hit it with your issues and bugs and let it shine with solutions! \ud83d\udca1",
+  "producthunt_url": "https://www.producthunt.com/products/hey-30620d3c-3330-4c6a-86cd-8cf9930a2490",
+  "crawl_timestamp": "2025-04-04T09:16:33.743594"
 }

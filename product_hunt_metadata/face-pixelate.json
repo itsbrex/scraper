@@ -1,0 +1,7 @@
+{
+  "title": "Face Pixelate",
+  "product_url": "https://rapidapi.com/Canssens/api/face-pixelate",
+  "description": "This API allows you to pixelate faces from a photo. - Send the URL photo to the API - Set up an age limit or not (all detected faces will be pixelated) - Receive the URL to the photo with pixelated faces - The link is available 7 days.",
+  "producthunt_url": "https://www.producthunt.com/products/face-pixelate",
+  "crawl_timestamp": "2025-04-04T09:26:00.600862"
+}

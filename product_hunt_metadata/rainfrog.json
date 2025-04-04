@@ -1,0 +1,7 @@
+{
+  "title": "rainfrog",
+  "product_url": "https://rainfrog.dev/",
+  "description": "the goal for rainfrog is to provide a lightweight, terminal-based alternative to pgadmin/dbeaver. it features vim-like keybindings, a query editor with session history, and shortcuts to preview table rows, indexes, and more.",
+  "producthunt_url": "https://www.producthunt.com/products/rainfrog",
+  "crawl_timestamp": "2025-04-04T12:39:47.839403"
+}

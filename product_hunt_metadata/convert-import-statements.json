@@ -1,0 +1,7 @@
+{
+  "title": "Convert Import Statements",
+  "product_url": "https://marketplace.visualstudio.com/items",
+  "description": "This is a VSCode plugin for syntax conversion of import statements. Sometimes you need to modify import statements, such as changing import { a } from 'b' to const { a } = require('b');. You can use this plugin for that purpose.",
+  "producthunt_url": "https://www.producthunt.com/products/convert-import-statements",
+  "crawl_timestamp": "2025-04-04T10:19:31.449453"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "GitHub Repository Star Leaderboard",
+  "product_url": "https://githublb.vercel.app/",
+  "description": "Leaderboard of the top 1000 GitHub repositories by star count. Tracks current standing and monthly changes across all domains. Raw data, no frills. Built for developers curious about project popularity trends or looking for influential open-source work.",
+  "producthunt_url": "https://www.producthunt.com/products/github-repository-star-leaderboard",
+  "crawl_timestamp": "2025-04-04T12:31:19.385755"
+}

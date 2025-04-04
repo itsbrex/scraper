@@ -1,0 +1,7 @@
+{
+  "title": "Nurl",
+  "product_url": "https://nurl.vercel.app/",
+  "description": "Nurl is an open-source URL shortener built with Next.js, MongoDB, and Tailwind CSS. It offers easy link shortening, QR code generation, Perfect for developers and small businesses, Nurl simplifies link sharing with nano URLs and deploys effortlessly on Vercel.",
+  "producthunt_url": "https://www.producthunt.com/products/nurl",
+  "crawl_timestamp": "2025-04-04T09:49:36.547727"
+}

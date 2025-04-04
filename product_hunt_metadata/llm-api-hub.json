@@ -1,0 +1,7 @@
+{
+  "title": "LLM-API-Hub",
+  "product_url": "https://amanpriyanshu.github.io/API-LLM-Hub",
+  "description": "Explore API-LLM-Hub, a lightweight JavaScript library for easy integration of multiple AI language models directly in your web browser. No build steps or backend required.\n\nYou might ask, \"Why not just use regular API requests?\" API-LLM-Hub streamlines multi-provider integration, handles CORS issues, and packages everything for vanilla JS. It's built to simplify LLM usage in static sites and standalone projects, eliminating the hassle of managing multiple libraries.",
+  "producthunt_url": "https://www.producthunt.com/products/llm-api-hub",
+  "crawl_timestamp": "2025-04-04T13:08:39.180483"
+}

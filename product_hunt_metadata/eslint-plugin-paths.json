@@ -1,0 +1,7 @@
+{
+  "title": "eslint-plugin-paths",
+  "product_url": "https://www.npmjs.com/package/eslint-plugin-paths",
+  "description": "A plugin for ESLint, to force use paths aliases according to paths option config in tsconfig.json or jsconfig.json, instead of relative imports. Zero config, plug and play design.",
+  "producthunt_url": "https://www.producthunt.com/products/eslint-plugin-paths",
+  "crawl_timestamp": "2025-04-04T11:40:28.692025"
+}

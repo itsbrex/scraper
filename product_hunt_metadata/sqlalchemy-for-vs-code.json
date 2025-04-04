@@ -1,0 +1,7 @@
+{
+  "title": "SQLAlchemy for VS Code",
+  "product_url": "https://marketplace.visualstudio.com/items",
+  "description": "An AI Chat (RAG) system that allows developers to ask questions about SQLAlchemy and get relevant answers directly within VS Code. This extension can work with or without an active Github Copilot Subscription.",
+  "producthunt_url": "https://www.producthunt.com/products/sqlalchemy-for-vs-code",
+  "crawl_timestamp": "2025-04-04T12:46:27.899582"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "ChatGPT Conversation Tree Visualizer",
+  "product_url": "https://kgniewek.com/project/1",
+  "description": "This extension adds a dynamic conversation tree graph to ChatGPT, visually representing chat history with branching paths and live updates. Currently visible branch is highlighted. Hover to view messages, click to copy. Advanced features & customization tools.",
+  "producthunt_url": "https://www.producthunt.com/products/chatgpt-conversationtreegraph-visualizer",
+  "crawl_timestamp": "2025-04-04T12:15:43.467061"
+}

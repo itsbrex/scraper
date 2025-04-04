@@ -1,0 +1,7 @@
+{
+  "title": "SaaSavant",
+  "product_url": "https://saasavant-saas-boilerplate.hookerhillstudios.com/",
+  "description": "SaaSavant SaaS Boilerplate provides a ready-to-use SaaS application framework. Simply integrate your unique features, and SaaSavant will handle everything else. \n\nIncludes:\n- Sign In / Sign Up pages\n- Admin / User Dashboards\n- Support Ticket System\n- Announcement System\n- Newsletter / Welcome Email\n- Account Management\n- Automatic billing through Stripe\n- Firebase Auth / Firestore DB\n- Landing Page\n- Policies\n- And MUCH MORE!!!!!!!",
+  "producthunt_url": "https://www.producthunt.com/products/saasavant",
+  "crawl_timestamp": "2025-04-04T10:59:29.531580"
+}

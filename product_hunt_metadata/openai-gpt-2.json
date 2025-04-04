@@ -1,0 +1,7 @@
+{
+  "title": "OpenAI GPT-2",
+  "product_url": "https://blog.openai.com/better-language-models",
+  "description": "Trained on 40GB of text, this is the latest language model from OpenAI. They haven't released it yet, but it's capabilities seem impressive. It can both generate contextualized text from a \"seed\", and answer questions on full text. An amazing feat to behold.",
+  "producthunt_url": "https://www.producthunt.com/products/openai-gpt-2",
+  "crawl_timestamp": "2025-04-04T12:20:34.688012"
+}

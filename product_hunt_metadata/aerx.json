@@ -1,7 +1,7 @@
 {
   "title": "AERX",
-  "product_url": "https://aerx-app-a0c29d94b2a4.herokuapp.com/",
-  "description": "AERX Investment Manager: An AI-powered tool for real-time stock analysis, news insights, and financial forecasting. Get accurate investment recommendations with ARIMA and Prophet models. Simplify your investment decisions with our intuitive interface.",
-  "producthunt_url": "https://www.producthunt.com/products/aerx",
-  "crawl_timestamp": "2025-04-04T04:35:16.749847"
+  "product_url": "https://aerxapp.com/",
+  "description": "AERX is an advanced financial analysis platform for investors. It delivers real-time market data, AI-driven insights, company overviews, news, and macroeconomic indicators. AERX empowers smart investing with comprehensive tools and an intuitive interface.",
+  "producthunt_url": "https://www.producthunt.com/products/aerx-2",
+  "crawl_timestamp": "2025-04-04T12:44:19.724797"
 }

@@ -1,0 +1,7 @@
+{
+  "title": "Tilores",
+  "product_url": "https://tilores.io/RAG",
+  "description": "Data scientists connect Tilores to their LLM to search internal customer data scattered across multiple source systems. The LLM retrieves unified customer data, which is uses to answer queries or as context when querying subsequent unstructured data.",
+  "producthunt_url": "https://www.producthunt.com/products/tilores-rag",
+  "crawl_timestamp": "2025-04-04T11:36:16.870507"
+}

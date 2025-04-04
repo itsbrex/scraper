@@ -1,7 +1,7 @@
 {
   "title": "Zesty",
-  "product_url": "https://www.zesty.co/",
-  "description": "Zesty\u2019s cloud infrastructure optimization platform delivers actionable insights and automated solutions for managing containers, compute, storage and database resources. It automatically optimizes resource allocation while minimizing cloud spend, ensuring that your infrastructure is always aligned with your business needs. Zesty automated K8s optimization platform, Kompass, enables node headroom reduction, confident usage of Spot Instances, and PVCs autoscaling, reducing K8s costs by 70%.",
-  "producthunt_url": "https://www.producthunt.com/products/zesty-2",
-  "crawl_timestamp": "2025-04-03T07:51:41.382289"
+  "product_url": "https://www.zesty.com/",
+  "description": null,
+  "producthunt_url": "https://www.producthunt.com/products/zesty-3",
+  "crawl_timestamp": "2025-04-04T13:19:55.481030"
 }

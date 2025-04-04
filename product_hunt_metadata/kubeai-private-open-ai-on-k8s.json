@@ -1,0 +1,7 @@
+{
+  "title": "KubeAI: Private Open AI on K8s",
+  "product_url": "https://github.com/substratusai/kubeai",
+  "description": "\u2705\ufe0f Drop-in replacement for OpenAI with API compatibility \ud83d\ude80 Serve OSS LLMs on CPUs or GPUs \u2696\ufe0f Autoscaling with scale from 0 \ud83d\udee0\ufe0f Zero dependencies (no Istio, Knative, etc.) \ud83e\udd16 Operates OSS model servers (vLLM and Ollama) \ud83d\udd0b Chat UI included",
+  "producthunt_url": "https://www.producthunt.com/products/kubeai-private-open-ai-on-k8s",
+  "crawl_timestamp": "2025-04-04T09:49:36.911354"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "HN buzz",
+  "product_url": "https://t.me/hnbuzz_bot",
+  "description": "A telegram bot that can send you Hacker News (news.ycombinator.com/) stories by keywords. You specify a list of tags, for example \"ai, tesla, musk\" and it will start sending you all new stories matching those words.",
+  "producthunt_url": "https://www.producthunt.com/products/hn-buzz",
+  "crawl_timestamp": "2025-04-04T11:29:21.186811"
+}

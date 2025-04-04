@@ -1,0 +1,7 @@
+{
+  "title": "RunsOn",
+  "product_url": "https://runs-on.com/",
+  "description": "10x cheaper runners for GitHub Actions workflows. Fully self-hosted on AWS. Between 30% (x64) and 50% (arm64) faster than official GitHub runners. Supports Linux, Windows, and GPUs. Unlimited cache + Static IPs + Private networking.",
+  "producthunt_url": "https://www.producthunt.com/products/runson",
+  "crawl_timestamp": "2025-04-04T10:58:50.601375"
+}

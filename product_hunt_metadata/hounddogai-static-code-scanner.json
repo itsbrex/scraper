@@ -1,0 +1,7 @@
+{
+  "title": "HoundDog.ai Static Code Scanner",
+  "product_url": "https://hounddog.ai/",
+  "description": "HoundDog.ai static code scanner not only flags PII leaks in plaintext within logs, files, cookies, and tokens but also tracks data flows to third-party integrations, highlighting data processing agreement violations before they become production issues.",
+  "producthunt_url": "https://www.producthunt.com/products/hounddog-ai-static-code-scanner-2",
+  "crawl_timestamp": "2025-04-04T14:02:09.479054"
+}

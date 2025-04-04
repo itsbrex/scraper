@@ -1,0 +1,7 @@
+{
+  "title": "PRAI: AI Generates PR title and body",
+  "product_url": "https://github.com/tomoyaf/gh-prai",
+  "description": "Generate the title and body of the Pull Request with ChatGPT API based on git diff. Create a new Pull Request or update an existing Pull Request based on this title and body. - tomoyaf/gh-prai",
+  "producthunt_url": "https://www.producthunt.com/products/prai-ai-generates-pr-title-and-body",
+  "crawl_timestamp": "2025-04-04T12:39:12.510666"
+}
