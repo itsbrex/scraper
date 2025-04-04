@@ -46,6 +46,13 @@ BASE_DIR = os.getcwd()
 os.makedirs(os.path.join(BASE_DIR, "sitemaps"), exist_ok=True)
 METADATA_OUTPUT_DIR = os.path.join(BASE_DIR, "product_hunt_metadata")
 os.makedirs(METADATA_OUTPUT_DIR, exist_ok=True)
+
+# Create a timestamped directory for this run
+TIMESTAMP = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+RUN_METADATA_DIR = os.path.join(METADATA_OUTPUT_DIR, f"run_{TIMESTAMP}")
+os.makedirs(RUN_METADATA_DIR, exist_ok=True)
+logger.info(f"Created metadata directory for this run: {RUN_METADATA_DIR}")
+
 OUTPUT_URLS_FILE = os.path.join(BASE_DIR, "product_urls.txt")
 SITEMAP_URL = "https://www.producthunt.com/sitemaps_v3/product_about_sitemap6.xml.gz"
 SITEMAP_GZ_PATH = os.path.join(BASE_DIR, "product_about_sitemap6.xml.gz")
@@ -385,7 +392,7 @@ def extract_product_info(producthunt_url, html_content):
 
 # Define the crawling function - with deduplication and rate limiting
 async def crawl_parallel(urls, conn, cursor, max_concurrent=3):
-    logger.info("\n=== 🚀 Crawling Product Hunt Pages for Metadata ===")
+    logger.info("\n=== Crawling Product Hunt Pages for Metadata ===")
 
     # Configure headless browser
     browser_config = BrowserConfig(
@@ -446,7 +453,7 @@ async def crawl_parallel(urls, conn, cursor, max_concurrent=3):
             # Process results
             for (url, result) in zip((url for url, _ in tasks), results):
                 if isinstance(result, Exception):
-                    logger.error(f"❌ Error scraping Product Hunt page {url}: {result}")
+                    logger.error(f"Error scraping Product Hunt page {url}: {result}")
                 elif result.success:
                     try:
                         # Extract product info from Product Hunt page
@@ -476,16 +483,16 @@ async def crawl_parallel(urls, conn, cursor, max_concurrent=3):
                         
                         # Print info about what we found
                         if product_info.get('product_url'):
-                            logger.info(f"✅ Found website URL for {product_info['title']}: {product_info['product_url']}")
+                            logger.info(f"Found website URL for {product_info['title']}: {product_info['product_url']}")
                         else:
-                            logger.info(f"⚠️ No website URL found for {product_info['title']}")
+                            logger.info(f"No website URL found for {product_info['title']}")
                             
                         # Get description info for logging
                         desc_length = len(product_info.get('description', '')) if product_info.get('description') else 0
                         if desc_length > 0:
-                            logger.info(f"✅ Found description ({desc_length} chars) for {product_info['title']}")
+                            logger.info(f"Found description ({desc_length} chars) for {product_info['title']}")
                         else:
-                            logger.info(f"⚠️ No description found for {product_info['title']}")
+                            logger.info(f"No description found for {product_info['title']}")
 
                         # Mark this URL as processed in the database
                         mark_url_processed(conn, cursor, url, product_info)
@@ -498,16 +505,16 @@ async def crawl_parallel(urls, conn, cursor, max_concurrent=3):
                         safe_title = re.sub(r'[^\w\s-]', '', safe_title)  # Remove special chars
                         safe_title = re.sub(r'\s+', '-', safe_title)      # Replace spaces with hyphens
                         metadata_filename = safe_title + ".json"
-                        metadata_filepath = os.path.join(METADATA_OUTPUT_DIR, metadata_filename)
+                        metadata_filepath = os.path.join(RUN_METADATA_DIR, metadata_filename)
                         
                         with open(metadata_filepath, "w", encoding="utf-8") as file:
                             json.dump(product_info, file, indent=2)
-                        logger.info(f"✅ Saved metadata: {metadata_filename}")
+                        logger.info(f"Saved metadata: {metadata_filename}")
                         
                     except Exception as e:
-                        logger.error(f"❌ Error processing Product Hunt page {url}: {e}")
+                        logger.error(f"Error processing Product Hunt page {url}: {e}")
                 else:
-                    logger.warning(f"⚠️ Failed to scrape Product Hunt page {url}")
+                    logger.warning(f"Failed to scrape Product Hunt page {url}")
             
             # Add a short delay between batches to avoid rate limiting
             await asyncio.sleep(5)
@@ -516,7 +523,7 @@ async def crawl_parallel(urls, conn, cursor, max_concurrent=3):
         logger.info("\nClosing crawler...")
         await crawler.close()
         
-    logger.info(f"\n✅ Completed metadata collection")
+    logger.info(f"\nCompleted metadata collection")
     return
 
 async def main():
@@ -534,7 +541,7 @@ async def main():
             return 1
         
         # Step 2: Parse the XML and extract product URLs
-        logger.info("🔍 Parsing sitemap XML...")
+        logger.info("Parsing sitemap XML...")
         tree = ET.parse(SITEMAP_PATH)
         root = tree.getroot()
         
@@ -564,7 +571,7 @@ async def main():
             for url in urls:
                 f.write(url + "\n")
         
-        logger.info(f"✅ Found {len(urls)} product URLs")
+        logger.info(f"Found {len(urls)} product URLs")
         
         # Filter out already processed URLs
         filtered_urls = []
@@ -582,19 +589,49 @@ async def main():
         
         # For GitHub Actions, limit the number of URLs processed per run
         urls_to_process = filtered_urls[:MAX_URLS] if MAX_URLS > 0 else filtered_urls
-        logger.info(f"✅ Will process {len(urls_to_process)} URLs in this run")
+        logger.info(f"Will process {len(urls_to_process)} URLs in this run")
         
         # Run the crawler with the configured concurrency
         await crawl_parallel(urls_to_process, conn, cursor, max_concurrent=MAX_CONCURRENT)
-        logger.info(f"✅ All metadata files saved in: {METADATA_OUTPUT_DIR}")
+        logger.info(f"All metadata files saved in: {RUN_METADATA_DIR}")
         
         # Create a summary of the run
         timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
         with open(os.path.join(BASE_DIR, f"last_run_{timestamp}.txt"), "w") as f:
             f.write(f"Scraper ran successfully at {datetime.datetime.now().isoformat()}\n")
+            f.write(f"Run directory: {RUN_METADATA_DIR}\n")
             f.write(f"Processed {len(urls_to_process)} URLs\n")
             f.write(f"Skipped {skipped_count} previously processed URLs\n")
             f.write(f"Total URLs in sitemap: {len(urls)}\n")
+
+        # Create/update an index of all runs
+        runs_index_path = os.path.join(METADATA_OUTPUT_DIR, "runs_index.json")
+        runs_data = {}
+
+        # Load existing data if present
+        if os.path.exists(runs_index_path):
+            try:
+                with open(runs_index_path, "r") as f:
+                    runs_data = json.load(f)
+            except json.JSONDecodeError:
+                logger.warning(f"Could not read runs index file, creating new one")
+                runs_data = {}
+
+        # Add this run
+        runs_data[TIMESTAMP] = {
+            "run_id": TIMESTAMP,
+            "directory": RUN_METADATA_DIR,
+            "urls_processed": len(urls_to_process),
+            "urls_skipped": skipped_count,
+            "total_urls": len(urls),
+            "timestamp": datetime.datetime.now().isoformat()
+        }
+
+        # Save updated index
+        with open(runs_index_path, "w") as f:
+            json.dump(runs_data, f, indent=2)
+
+        logger.info(f"Updated runs index at {runs_index_path}")
         
     except Exception as e:
         logger.error(f"Error in main function: {e}")
