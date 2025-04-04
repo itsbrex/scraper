@@ -45,7 +45,8 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: product-hunt-metadata-${{ github.run_id }}
-        path: product_hunt_metadata/
+        path: product_hunt_metadata/run_*
+        if-no-files-found: error
         
     - name: Upload logs
       uses: actions/upload-artifact@v4
@@ -59,6 +60,6 @@ jobs:
       run: |
         git config --global user.name "GitHub Actions Bot"
         git config --global user.email "actions@github.com"
-        git add product_hunt_metadata processed_urls.db
+        git add product_hunt_metadata/run_* product_hunt_metadata/runs_index.json processed_urls.db
         git commit -m "Update product metadata [skip ci]" || echo "No changes to commit"
         git push
