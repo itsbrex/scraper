@@ -1,0 +1,7 @@
+{
+  "title": "url-snapshotter",
+  "product_url": "https://github.com/vvdaal/url-snaphotter",
+  "description": "A command-line tool for monitoring the health and content of web services over time. It creates \"snapshots\" to capture HTTP status codes and content of URLs. Use it to create, view, and compare snapshots to identify changes, regressions, or anomalies.",
+  "producthunt_url": "https://www.producthunt.com/products/url-snapshotter",
+  "crawl_timestamp": "2025-04-04T17:54:15.042199"
+}

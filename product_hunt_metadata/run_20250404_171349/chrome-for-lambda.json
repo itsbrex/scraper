@@ -1,0 +1,7 @@
+{
+  "title": "Chrome for Lambda",
+  "product_url": "https://pro.chromiumforlambda.org/",
+  "description": "Download precompiled Chromium binaries ready to use on AWS Lambda. Our Chromium binaries (arm64 & x86_64) are compiled and optimized to run on AWS Lambda and tested with Puppeteer and Playwright.",
+  "producthunt_url": "https://www.producthunt.com/products/chrome-for-lambda",
+  "crawl_timestamp": "2025-04-04T18:07:49.042178"
+}

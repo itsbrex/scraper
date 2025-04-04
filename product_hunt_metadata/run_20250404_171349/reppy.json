@@ -1,0 +1,7 @@
+{
+  "title": "reppy",
+  "product_url": "https://github.com/mazshakibaii/reppy",
+  "description": "Get started in your own repo by running npx reppy. By default, reppy uses OpenAI and gpt-4o-mini by checkingyour environment variables for OPENAI_API_KEY. See other supported providers and models by running npx reppy -h",
+  "producthunt_url": "https://www.producthunt.com/products/reppy",
+  "crawl_timestamp": "2025-04-04T21:36:36.924090"
+}

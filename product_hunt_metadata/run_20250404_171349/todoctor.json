@@ -1,0 +1,7 @@
+{
+  "title": "Todoctor",
+  "product_url": "https://github.com/azat-io/todoctor",
+  "description": "Todoctor is a powerful tool for analyzing, tracking, and visualizing technical debt in your codebase using Git. It collects and monitors TODO/FIXME comments in your code, allowing you to observe changes over time.",
+  "producthunt_url": "https://www.producthunt.com/products/todoctor",
+  "crawl_timestamp": "2025-04-04T21:18:45.467753"
+}

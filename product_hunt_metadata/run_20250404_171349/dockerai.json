@@ -1,0 +1,7 @@
+{
+  "title": "DockerAI",
+  "product_url": "https://docker-ai.vercel.app/",
+  "description": "The AI-Powered Docker File Generator is a cutting-edge tool designed to streamline the creation of Dockerfiles for your projects. Utilizing advanced AI technology, it automatically generates optimized Dockerfiles tailored to your specific GitHub repository.",
+  "producthunt_url": "https://www.producthunt.com/products/dockerai",
+  "crawl_timestamp": "2025-04-04T18:31:24.604343"
+}

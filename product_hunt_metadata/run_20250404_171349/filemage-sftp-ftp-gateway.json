@@ -1,0 +1,7 @@
+{
+  "title": "FileMage SFTP & FTP Gateway",
+  "product_url": "https://filemage.io/",
+  "description": "FileMage Gateway is a FTP & SFTP server that stores data in cloud object storage APIs like Amazon S3, Google Cloud Storage, or Azure Blob Storage. Customers deploy the application from their cloud provider marketplace onto a self-hosted virtual machine.",
+  "producthunt_url": "https://www.producthunt.com/products/filemage-sftp-ftp-gateway",
+  "crawl_timestamp": "2025-04-04T20:17:11.277085"
+}

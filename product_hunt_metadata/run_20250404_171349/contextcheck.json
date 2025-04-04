@@ -1,0 +1,7 @@
+{
+  "title": "ContextCheck",
+  "product_url": "https://github.com/Addepto/contextcheck",
+  "description": "An open-source framework to test LLMs, RAGs & chatbots.It provides tools to automatically generate queries, request completions, detect regressions, perform penetration tests, and assess hallucinations, ensuring the robustness and reliability of these systems.",
+  "producthunt_url": "https://www.producthunt.com/products/contextcheck",
+  "crawl_timestamp": "2025-04-04T22:17:56.220945"
+}

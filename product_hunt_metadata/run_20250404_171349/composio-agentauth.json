@@ -1,0 +1,7 @@
+{
+  "title": "Composio AgentAuth",
+  "product_url": "https://agentauth.dev/",
+  "description": "Composio AgentAuth enables developers to build agents that securely interact with external applications on behalf of users. With comprehensive auth management across multiple mechanisms like OAuth, ApiKey, etc, your agents can connect to over 250 ready-to-use tools and integrations\u2014including Gmail, Slack, Calendar, and HubSpot\u2014to automate real-world tasks effortlessly. Get started now with our Python and JS SDKs and bring your AI agents to life.",
+  "producthunt_url": "https://www.producthunt.com/products/composio-agent-auth",
+  "crawl_timestamp": "2025-04-04T22:17:01.821529"
+}

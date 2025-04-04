@@ -1,0 +1,7 @@
+{
+  "title": "AltGenerator",
+  "product_url": "https://chat.nhcarrigan.com/",
+  "description": "This is a utility bot which watches for image uploads in a dedicated channel, and generates alt text for those uploaded images.",
+  "producthunt_url": "https://www.producthunt.com/products/altgenerator",
+  "crawl_timestamp": "2025-04-04T21:23:06.613542"
+}

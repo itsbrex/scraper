@@ -1,0 +1,7 @@
+{
+  "title": "SummarizeToday",
+  "product_url": "https://summarizetoday.streamlit.app/",
+  "description": "Convert text/documents into podcasts. Inspired by NotebookLM with the following cool features: Audience Prompting: Tailor your summaries by defining your target audience. Dialogue Editing: Edit generated dialogues for a personalized touch.",
+  "producthunt_url": "https://www.producthunt.com/products/summarizetoday",
+  "crawl_timestamp": "2025-04-04T20:14:25.810509"
+}

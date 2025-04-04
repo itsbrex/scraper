@@ -1,0 +1,7 @@
+{
+  "title": "Synapsis - Vectorisation as a Service",
+  "product_url": "https://www.quasara.io/",
+  "description": "Retrieving vector embeddings from petabytes of images, videos or text is challenging to scale, while having full control of its quality and a high precision in search system.\nQuasara helps managing your ingestion pipeline to retrieve high-quality vector embeddings using the latest embedding models. We want to enable our customers to build a new wave of enterprise applications for data exploration, RAG, deep memories or real-time analytics; and reduce time-to-market for AI applications.",
+  "producthunt_url": "https://www.producthunt.com/products/vectorisation-as-a-service",
+  "crawl_timestamp": "2025-04-04T18:22:36.648371"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "RazzShell",
+  "product_url": "https://razzshell.tech/",
+  "description": "RazzShell is a custom Unix shell, designed in C to simplify the command-line experience. With colorful outputs, a curated set of built-in commands, and unique features like command aliases, session saving, and root shell integration.",
+  "producthunt_url": "https://www.producthunt.com/products/razzshell",
+  "crawl_timestamp": "2025-04-04T21:25:13.788448"
+}

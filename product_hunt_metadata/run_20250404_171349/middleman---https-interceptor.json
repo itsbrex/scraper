@@ -1,0 +1,7 @@
+{
+  "title": "Middleman - HTTP(S) Interceptor",
+  "product_url": "https://the-sumeet.github.io/middleman-web",
+  "description": "I found front-end engineers have to mock/modify the request and response data for backend API endpoints. There were many tools which help to do this, but those were not local tools, i.e. needed sign in, and were expensive. I was learning Go and Svelte, so, decided to create this tool as a project.",
+  "producthunt_url": "https://www.producthunt.com/products/middleman-3",
+  "crawl_timestamp": "2025-04-04T19:31:43.638341"
+}

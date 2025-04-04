@@ -1,0 +1,7 @@
+{
+  "title": "Autobase",
+  "product_url": "https://autobase.tech/",
+  "description": "Autobase for PostgreSQL\u00ae is an open-source alternative to cloud-managed databases (DBaaS) such as Amazon RDS, Google Cloud SQL, Azure Database, and more.\n\nThis automated database platform enables you to create and manage production-ready, highly available PostgreSQL clusters. It simplifies the deployment process, reduces operational costs, and makes database management accessible\u2014even for teams without specialized expertise.\n\nAutomate failover, backups, restore, upgrades, scaling, and more.",
+  "producthunt_url": "https://www.producthunt.com/products/postgresql_cluster",
+  "crawl_timestamp": "2025-04-04T21:37:50.545594"
+}

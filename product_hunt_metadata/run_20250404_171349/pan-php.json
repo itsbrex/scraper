@@ -1,0 +1,7 @@
+{
+  "title": "Pan PHP",
+  "product_url": "https://github.com/panphp/pan",
+  "description": "Pan is a lightweight and privacy-focused PHP product analytics library. It\u2019s designed as a very simple package that you can install via `composer require` and start tracking your pages or components with a simple `data-pan` attribute.",
+  "producthunt_url": "https://www.producthunt.com/products/pan-php",
+  "crawl_timestamp": "2025-04-04T18:50:43.397986"
+}

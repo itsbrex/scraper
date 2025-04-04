@@ -1,0 +1,7 @@
+{
+  "title": "Globetrotter",
+  "product_url": "https://www.globetrotter.dev/",
+  "description": "It's 2024. I18n should've been solved by now. Globetrotter is a translation library for any NPM projects (MERN, MEAN, Next.JS, etc) that lets you automatically translate your project to over 40+ languages just by simply running npm build",
+  "producthunt_url": "https://www.producthunt.com/products/globetrotter-2",
+  "crawl_timestamp": "2025-04-04T17:18:32.941005"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "PagerSync",
+  "product_url": "https://www.pagersync.com/",
+  "description": "Sync your PagerDuty Schedules to Slack User Group. You can map Slack aliases like `@devops-on-call` to on call schedules from PagerDuty or Ops Genie. PagerSync ensures that the on call person will be part of the on call alias.",
+  "producthunt_url": "https://www.producthunt.com/products/pagersync",
+  "crawl_timestamp": "2025-04-04T19:37:32.186874"
+}

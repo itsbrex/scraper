@@ -1,0 +1,7 @@
+{
+  "title": "Enclosed",
+  "product_url": "https://enclosed.cc/",
+  "description": "Enclosed is an opensource minimalistic web application designed for sending private and secure notes.\n\nAll notes are end-to-end encrypted, ensuring that the server and storage have zero knowledge of the content. Users can set a password, define an expiration period (TTL), and choose to have the note self-destruct after being read.",
+  "producthunt_url": "https://www.producthunt.com/products/enclosed",
+  "crawl_timestamp": "2025-04-04T20:24:08.897292"
+}

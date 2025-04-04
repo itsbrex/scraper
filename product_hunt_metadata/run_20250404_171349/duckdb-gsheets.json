@@ -1,0 +1,7 @@
+{
+  "title": "DuckDB GSheets",
+  "product_url": "https://duckdb-gsheets.com/",
+  "description": "Ever needed to get data from a Google Sheet into a database, Or share data from a DB to people who 'want the raw data'? DuckDB GSheets is a read/write SQL interface for Google Sheets. It's a community extension for DuckDB.",
+  "producthunt_url": "https://www.producthunt.com/products/duckdb-gsheets",
+  "crawl_timestamp": "2025-04-04T21:20:36.175213"
+}

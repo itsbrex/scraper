@@ -1,0 +1,7 @@
+{
+  "title": "Codebuff",
+  "product_url": "https://codebuff.com/",
+  "description": "Codebuff is a tool for editing codebases via natural language. Just npm install it, point it at your directory, and you're off to the races! \r\n\r\nCodebuff automatically pulls any files it needs for context, so it has the most accurate data to solve your problems. It also runs terminal commands for you, to speed up your own development. \r\n\r\nOur users have found that they can build apps in hours that used to take weeks. Some even use it to build in languages they've never used before!",
+  "producthunt_url": "https://www.producthunt.com/products/codebuff",
+  "crawl_timestamp": "2025-04-04T18:40:51.120809"
+}

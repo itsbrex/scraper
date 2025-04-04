@@ -1,0 +1,7 @@
+{
+  "title": "Fast-Music-Remover",
+  "product_url": "https://github.com/omeryusufyagci/fast-music-remover",
+  "description": "A C++ based, lightweight music and noise remover for YouTube and other internet media, using DeepFilterNet for audio enhancement. A minute-long video is processed in less than 5 second! See the demo at: github.com/omeryusufyagci/fast-music-remover",
+  "producthunt_url": "https://www.producthunt.com/products/fast-music-remover",
+  "crawl_timestamp": "2025-04-04T18:25:02.946735"
+}

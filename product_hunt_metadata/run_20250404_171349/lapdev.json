@@ -1,0 +1,7 @@
+{
+  "title": "Lapdev",
+  "product_url": "https://lap.dev/",
+  "description": "Lapdev is a cloud dev environment service similar to Github Codespaces. Using the Devcontainer specification, you can define your dev environment as code. By utilising gaming CPUs, it boost the performance of dev workflows like compiling code.",
+  "producthunt_url": "https://www.producthunt.com/products/lapdev",
+  "crawl_timestamp": "2025-04-04T19:24:22.134753"
+}

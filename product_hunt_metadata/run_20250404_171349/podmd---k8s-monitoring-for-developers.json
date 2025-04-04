@@ -1,0 +1,7 @@
+{
+  "title": "PodMD - k8's Monitoring for Developers",
+  "product_url": "https://podmd.dev/",
+  "description": "PodMD simplifies the management of your K8's Cluster by allowing you to automate when your cluster should trigger a restart. This will save engineers time by allowing certain K8's issues to be resolved WITHOUT the extra oversight of a K8's trained engineer.",
+  "producthunt_url": "https://www.producthunt.com/products/podmd-k8-s-monitoring-for-developers",
+  "crawl_timestamp": "2025-04-04T20:37:23.936863"
+}

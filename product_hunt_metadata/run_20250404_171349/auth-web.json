@@ -1,0 +1,7 @@
+{
+  "title": "Auth Web",
+  "product_url": "https://auth.web.id/",
+  "description": "Generate secure TOTP tokens and strong passwords with our privacy-focused web tools. QR codes are processed via Cloudflare Edge while core computations run in your browser, ensuring zero data storage and no tracking. Our TOTP generator includes QR code support for easy setup, while the password generator offers both single and batch generation modes with configurable security settings. Built with a clean, responsive interface, AuthWeb is open-source (MIT-Licensed) and self-hostable.",
+  "producthunt_url": "https://www.producthunt.com/products/auth-web",
+  "crawl_timestamp": "2025-04-04T21:56:07.061580"
+}

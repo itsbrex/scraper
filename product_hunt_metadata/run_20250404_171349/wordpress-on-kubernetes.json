@@ -1,0 +1,7 @@
+{
+  "title": "WordPress on Kubernetes",
+  "product_url": "https://kubeadm.org/",
+  "description": "This guide walks you through the basics of creating your very own Kubernetes cluster, all the way to the advanced topics, such as auto-scaling, performance, redundancy, disaster recovery and more.",
+  "producthunt_url": "https://www.producthunt.com/products/wordpress-on-kubernetes",
+  "crawl_timestamp": "2025-04-04T20:30:53.660192"
+}

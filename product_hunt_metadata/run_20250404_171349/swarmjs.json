@@ -1,0 +1,7 @@
+{
+  "title": "Swarm.js",
+  "product_url": "https://github.com/youseai/openai-swarm-node",
+  "description": "Swarm.js is a Node implementation of OpenAI\u2019s Swarm framework. This SDK allows developers to orchestrate multi-agent systems using OpenAI\u2019s API in a lightweight and ergonomic way while leveraging Node.js for building scalable, real-world applications",
+  "producthunt_url": "https://www.producthunt.com/products/swarm-js",
+  "crawl_timestamp": "2025-04-04T19:25:34.596228"
+}

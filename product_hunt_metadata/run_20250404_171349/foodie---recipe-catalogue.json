@@ -1,0 +1,7 @@
+{
+  "title": "Foodie - Recipe Catalogue",
+  "product_url": "https://github.com/mikebgrep/foodie",
+  "description": "Lightweight Rest API with admin panel which manage food recipies easily - mikebgrep/foodie Written in Django with included (revamped) Admin panel you can you it in a docker container to manage personal recipe collections or to monetize the API with in a client",
+  "producthunt_url": "https://www.producthunt.com/products/foodie-recipe-catalogue",
+  "crawl_timestamp": "2025-04-04T18:54:43.908074"
+}

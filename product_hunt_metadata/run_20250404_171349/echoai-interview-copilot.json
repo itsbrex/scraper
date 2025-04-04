@@ -1,0 +1,7 @@
+{
+  "title": "EchoAI Interview Copilot",
+  "product_url": "https://github.com/colakang/echoai_helper",
+  "description": "A unique conversation assistant that runs speech recognition LOCALLY on CPU - no cloud service required! Combined with GPT for intelligent responses, it's perfect for meetings, interviews, and presentations. \n\u2728 Key Features:\n- Privacy-first: Local CPU-based speech recognition\n- Dual audio transcription (mic + speaker)\n- Real-time GPT-powered responses\n- Fully offline transcription capability\n- JSON export for conversation history\n\nNote: Only GPT responses require an API key.",
+  "producthunt_url": "https://www.producthunt.com/products/echoai-interview-copilot",
+  "crawl_timestamp": "2025-04-04T22:12:43.215475"
+}

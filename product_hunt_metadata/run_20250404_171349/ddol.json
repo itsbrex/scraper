@@ -1,0 +1,7 @@
+{
+  "title": "DDoL",
+  "product_url": "https://github.com/jinx-vi-0/DDoL",
+  "description": "This Discord bot integrates with LeetCode to provide daily challenges, random problems, user information, and more. It uses discord.js to interact with the Discord API and leetcode-query to fetch data from LeetCode.",
+  "producthunt_url": "https://www.producthunt.com/products/ddol",
+  "crawl_timestamp": "2025-04-04T18:25:57.163382"
+}

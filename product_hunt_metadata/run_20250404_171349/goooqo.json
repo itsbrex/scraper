@@ -1,0 +1,7 @@
+{
+  "title": "GoooQo",
+  "product_url": "https://github.com/doytowin/goooqo",
+  "description": "GoooQo is a CRUD framework in Golang based on the OQM technique.\n\nThe OQM (Object-Query Mapping) technique is a database access technique that constructs database query statements through objects.\n\nOQM proposes a new method to solve the problem of the dynamic combination of n query conditions by mapping 2^n assignment combinations of an object instance with n fields to 2^n combinations of n query conditions. Or simply, one field to one condition,  one assigned field to one combined condition.",
+  "producthunt_url": "https://www.producthunt.com/products/github-27",
+  "crawl_timestamp": "2025-04-04T19:24:40.907058"
+}

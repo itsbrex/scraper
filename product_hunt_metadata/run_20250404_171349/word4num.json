@@ -1,0 +1,7 @@
+{
+  "title": "word4num",
+  "product_url": "https://whatwords.info/",
+  "description": "word4num is a small open-source Python library designed to encode numbers into words and decode them back. The core idea is to create a unified mapping between numbers and words.",
+  "producthunt_url": "https://www.producthunt.com/products/whatwords",
+  "crawl_timestamp": "2025-04-04T18:19:14.254825"
+}

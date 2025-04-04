@@ -1,0 +1,7 @@
+{
+  "title": "Lamatic.ai",
+  "product_url": "https://lamatic.ai/",
+  "description": "A managed PaaS with a low-code visual builder, VectorDB, and integrations to apps and models for building, testing, and deploying GenAI apps on edge.\n\n\t\u2022\tFlow Builder \ud83d\udee0\ufe0f: Role-based UI for visibility.\n\t\u2022\tIntegrations \ud83d\udd17: Drag-and-drop for data, LLMs, and tools.\n\t\u2022\tEdge, Proxy & Cache \ud83c\udf10: Speedy, scalable routing.\n\t\u2022\tVectorDB \ud83d\udcda: Powered by Weaviate.\n\t\u2022\tMonitoring \ud83d\udcca: Real-time logs and insights.\n\t\u2022\tGraphQL & Webhooks \u2699\ufe0f: Seamless integration.\n\t\u2022\tWidgets \ud83d\udcac: Embed chat, search, and more.",
+  "producthunt_url": "https://www.producthunt.com/products/lamatic-ai",
+  "crawl_timestamp": "2025-04-04T21:18:44.107171"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Clevrr Computer [Open-source]",
+  "product_url": "https://github.com/Clevrr-AI/Clevrr-Computer",
+  "description": "An open-source implementation of Anthropic's Computer Use to perform basic tasks using AI Agents. Currently supports Langchain, Azure OpenAI Models, and Gemini models. Contributions and supports are more than welcomed to improve the functionality.",
+  "producthunt_url": "https://www.producthunt.com/products/clevrr-computer-open-source",
+  "crawl_timestamp": "2025-04-04T20:05:11.998160"
+}

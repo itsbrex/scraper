@@ -1,0 +1,10 @@
+{
+  "20250404_171349": {
+    "run_id": "20250404_171349",
+    "directory": "/home/runner/work/scraper/scraper/product_hunt_metadata/run_20250404_171349",
+    "urls_processed": 5000,
+    "urls_skipped": 14995,
+    "total_urls": 40545,
+    "timestamp": "2025-04-04T22:21:47.947179"
+  }
+}

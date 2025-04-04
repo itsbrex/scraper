@@ -1,0 +1,7 @@
+{
+  "title": "MyEasyInvoice",
+  "product_url": "https://gabriel0cico.pythonanywhere.com/",
+  "description": "MyEasyInvoice simplifies invoice management by allowing your customers to access, edit and download PDFs of their invoices. With support for multiple Stripe accounts, PDF customization, and an AI assistant, you offer a convenient and efficient experience.",
+  "producthunt_url": "https://www.producthunt.com/products/myeasyinvoice",
+  "crawl_timestamp": "2025-04-04T17:51:51.455018"
+}

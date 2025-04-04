@@ -1,0 +1,7 @@
+{
+  "title": "Pulsetracker",
+  "product_url": "https://www.pulsestracker.com/",
+  "description": "Pulsetracker is a developer-friendly, backend service for real-time location tracking. It enables custom client SDKs with UDP or WebSocket support, allowing developers to stream real-time updates directly from our backend to theirs via API or Websockets.",
+  "producthunt_url": "https://www.producthunt.com/products/pulsetracker",
+  "crawl_timestamp": "2025-04-04T22:04:05.371951"
+}

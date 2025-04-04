@@ -1,0 +1,7 @@
+{
+  "title": "Evacuate",
+  "product_url": "https://github.com/evacuate/evacuate",
+  "description": "\"Evacuate\" is an open-source TypeScript app that monitors seismic activity and posts earthquake alerts to services, including decentralized social networks, via WebSocket and AT Protocol APIs.",
+  "producthunt_url": "https://www.producthunt.com/products/evacuate",
+  "crawl_timestamp": "2025-04-04T22:10:15.669611"
+}
