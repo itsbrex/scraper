@@ -1,0 +1,7 @@
+{
+  "title": "dayTrail",
+  "product_url": "https://daytrail.vercel.app/",
+  "description": "dayTrail is a small and cute PWA application where you can save your notes for that day (note, to-do, birthday, event). It does not ask you to register and encrypts your data and stores it locally.",
+  "producthunt_url": "https://www.producthunt.com/products/daytrail-2",
+  "crawl_timestamp": "2025-04-03T21:40:44.693018"
+}

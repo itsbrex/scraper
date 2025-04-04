@@ -1,0 +1,7 @@
+{
+  "title": "Batch extract content from PDF to\u00a0Excel",
+  "product_url": "https://drive.google.com/drive/folders/1wBMumrGfeH8AttkPimyiVPn1t8U6FyXs",
+  "description": "you can select a PDF file as a sample, then to mark the areas to be extracted with boxes, and then save the coordinates of these areas. When batch processing each PDF, we extract the corresponding text or numbers based on the saved coordinates of these areas",
+  "producthunt_url": "https://www.producthunt.com/products/batch-extract-content-from-pdf-to-excel",
+  "crawl_timestamp": "2025-04-04T01:44:48.451793"
+}

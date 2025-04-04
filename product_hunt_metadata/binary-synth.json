@@ -1,0 +1,7 @@
+{
+  "title": "Binary Synth",
+  "product_url": "https://bs.stranno.su/",
+  "description": "A web-synthesizer that generates sound from the binary code of any files. It can synthesize sound directly in the browser, or be a generator of MIDI messages to external devices or DAWs, turning any file into a score.",
+  "producthunt_url": "https://www.producthunt.com/products/binary-synth",
+  "crawl_timestamp": "2025-04-03T23:33:49.698851"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "SQL Workbench",
+  "product_url": "https://sql-workbench.com/",
+  "description": "SQL Workbench enables querying of remote CSV, JSON, Parquet and Arrow data sources, as well as uploaded local files, directly from a browser, for free. A focus lies on data privacy, no data leaves the machine of its users. It supports local Text-to-SQL models",
+  "producthunt_url": "https://www.producthunt.com/products/sql-workbench",
+  "crawl_timestamp": "2025-04-03T22:51:55.837352"
+}

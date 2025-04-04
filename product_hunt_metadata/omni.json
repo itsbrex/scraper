@@ -1,7 +1,7 @@
 {
-  "title": "Omni!",
-  "product_url": "http://beomni.com/",
-  "description": "Omni was an American tech-based on-demand storage and rental company based in San Francisco, California.",
-  "producthunt_url": "https://www.producthunt.com/products/omni",
-  "crawl_timestamp": "2025-04-02T07:36:35.856950"
+  "title": "Omni",
+  "product_url": "https://readomni.com/",
+  "description": "Omni uses our custom-trained LLM to offer the best possible translation experience for Asian novels, achieving 88.3% win-rate vs. human translators. Simply insert the chapter link to our webapp to experience a seamless experience.",
+  "producthunt_url": "https://www.producthunt.com/products/omni-6",
+  "crawl_timestamp": "2025-04-04T00:26:57.724345"
 }

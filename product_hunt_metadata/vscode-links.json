@@ -1,0 +1,7 @@
+{
+  "title": "VSCode Links",
+  "product_url": "https://marketplace.visualstudio.com/items",
+  "description": "With a js config file you can define new links in VSCode and make them behave how you want. For example you could make a string like \"api.general.users.getUser\" be clickable and directly jump to the right function in the right file.",
+  "producthunt_url": "https://www.producthunt.com/products/vscode-links",
+  "crawl_timestamp": "2025-04-04T01:00:43.637541"
+}

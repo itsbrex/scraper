@@ -1,0 +1,7 @@
+{
+  "title": "Mock TypeORM",
+  "product_url": "https://www.npmjs.com/package/mock-typeorm",
+  "description": "A package for mocking TypeORM that can be utilized with any node.js testing library e.g. Jest, Mocha, Vitest etc..",
+  "producthunt_url": "https://www.producthunt.com/products/mock-typeorm",
+  "crawl_timestamp": "2025-04-03T23:45:17.695018"
+}

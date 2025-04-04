@@ -1,0 +1,7 @@
+{
+  "title": "anthill",
+  "product_url": "https://hmpl-lang.github.io/",
+  "description": "hmpl is a small template language for fetching HTML from API. It is based on requests sent to the server via fetch and processed into ready-made HTML.",
+  "producthunt_url": "https://www.producthunt.com/products/hmpl",
+  "crawl_timestamp": "2025-04-03T22:13:17.344629"
+}

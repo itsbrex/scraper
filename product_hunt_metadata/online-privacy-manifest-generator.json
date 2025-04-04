@@ -1,0 +1,7 @@
+{
+  "title": "Online Privacy Manifest Generator",
+  "product_url": "https://privacy-manifest.com/",
+  "description": "Starting May 1st, 2024, Apple requires app developers to disclose API usage via a privacy manifest file. Our platform simplifies this by generating the file for you. Just specify what's needed, and we'll take care of the rest, saving you from manual editing.",
+  "producthunt_url": "https://www.producthunt.com/products/online-privacy-manifest-generator",
+  "crawl_timestamp": "2025-04-03T23:12:23.829427"
+}

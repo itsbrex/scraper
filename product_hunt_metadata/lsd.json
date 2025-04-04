@@ -1,0 +1,7 @@
+{
+  "title": "LSD",
+  "product_url": "https://lsd.so/",
+  "description": "LSD SQL, a DSL for the web, enables developers to connect the internet to your applications as a postgres compatible database. Rather than present a new semantic web ontology or make a new internet, it provides a dynamic declarative language that sits atop the existing one.\n\nDesigned to target browsers instead of an architecture, LSD allows for powerful parallelization while preserving simplicity with just-in-time tables meaning you can just get data without running a CREATE TABLE beforehand.",
+  "producthunt_url": "https://www.producthunt.com/products/lsd",
+  "crawl_timestamp": "2025-04-04T01:35:09.650793"
+}

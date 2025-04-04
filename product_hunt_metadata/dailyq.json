@@ -1,7 +1,7 @@
 {
   "title": "DailyQ",
-  "product_url": "https://dailyq.io/",
-  "description": "This platform hosts an aggregated list of q/kdb+ questions meant for q mortals, gods, and those in-between. Questions will be posted with their corresponding answers. Many topics will be covered. Stay tuned!",
-  "producthunt_url": "https://www.producthunt.com/products/dailyq",
-  "crawl_timestamp": "2025-04-02T05:40:18.774064"
+  "product_url": "https://dailyqpwa-nimrod-devs-projects.vercel.app/",
+  "description": "Daily Q is a Chrome extension and app designed to help you practice coding consistently. Every day, you receive a new JavaScript coding question\u2014the daily question\u2014that is shared among all users. This encourages a community of learning and problem-solving.",
+  "producthunt_url": "https://www.producthunt.com/products/dailyq-2",
+  "crawl_timestamp": "2025-04-03T23:49:29.877950"
 }

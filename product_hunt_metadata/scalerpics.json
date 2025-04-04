@@ -1,0 +1,7 @@
+{
+  "title": "Scaler.pics",
+  "product_url": "https://scaler.pics/",
+  "description": "Scaler.pics is an API for converting and resizing images on the server side. It uses hardware accelerated process that it can handle high resolution HEIC images. It excels in concurrent transforms and can produce multiple output sizes in single request.",
+  "producthunt_url": "https://www.producthunt.com/products/scaler-pics",
+  "crawl_timestamp": "2025-04-03T23:32:54.554796"
+}

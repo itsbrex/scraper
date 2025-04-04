@@ -1,0 +1,7 @@
+{
+  "title": "Radi.js",
+  "product_url": "https://radi.js.org/",
+  "description": "Radi is a tiny (3kB minified & gzipped) javascript framework. It's built quite differently from any other framework. It doesn't use any kind of diffing algorithm nor virtual dom which makes it really fast.",
+  "producthunt_url": "https://www.producthunt.com/products/radi-js",
+  "crawl_timestamp": "2025-04-03T23:14:09.972880"
+}

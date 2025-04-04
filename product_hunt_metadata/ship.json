@@ -1,7 +1,7 @@
 {
   "title": "Ship",
-  "product_url": "http://startupship.org/",
-  "description": null,
-  "producthunt_url": "https://www.producthunt.com/products/ship",
-  "crawl_timestamp": "2025-04-03T06:53:14.933242"
+  "product_url": "https://ship-file.vercel.app/",
+  "description": "Ship is an Electron-based application designed for Windows, enabling seamless file transfers from your phone to your PC over the same Wi-Fi network. This app provides a convenient and secure way to transfer files without relying on internet access",
+  "producthunt_url": "https://www.producthunt.com/products/ship-6",
+  "crawl_timestamp": "2025-04-03T21:16:25.447830"
 }

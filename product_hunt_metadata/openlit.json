@@ -1,0 +1,7 @@
+{
+  "title": "OpenLIT",
+  "product_url": "https://openlit.io/",
+  "description": "OpenLIT an open source product that helps developers build and manage AI apps in production, effectively helping them improve accuracy. As a self-hosted solution, it enables developers to experiment with LLMs, manage and version prompts, securely manage API keys, and provide safeguards against prompt injection and jailbreak attempts. It also includes built-in OpenTelemetry-native observability and evaluation for the complete GenAI stack (LLMs, vector databases, and GPUs).",
+  "producthunt_url": "https://www.producthunt.com/products/openlit",
+  "crawl_timestamp": "2025-04-03T21:01:02.683664"
+}

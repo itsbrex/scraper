@@ -1,0 +1,7 @@
+{
+  "title": "Milk Infrastructure",
+  "product_url": "https://milkinfrastructure.com/",
+  "description": "The system writes infra as code to your Github repos and automatically containerizes and scales any services (public or private). The goal is to give your average engineer a vercel-like deployment experience for any service in any language at minimal cost.",
+  "producthunt_url": "https://www.producthunt.com/products/milk-infrastructure",
+  "crawl_timestamp": "2025-04-04T00:01:04.440397"
+}

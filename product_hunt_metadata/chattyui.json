@@ -1,0 +1,7 @@
+{
+  "title": "ChattyUI",
+  "product_url": "https://chattyui.com/",
+  "description": "Open-source, feature rich Gemini/ChatGPT-like interface for running open-source models (Gemma, Mistral, LLama3 etc.) locally in the browser using WebGPU. No server-side processing - your data never leaves your pc!",
+  "producthunt_url": "https://www.producthunt.com/products/chattyui",
+  "crawl_timestamp": "2025-04-03T21:33:56.018674"
+}

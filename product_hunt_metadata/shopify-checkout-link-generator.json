@@ -1,0 +1,7 @@
+{
+  "title": "Shopify Checkout Link Generator",
+  "product_url": "https://instant-checkout.100xelevate.com/",
+  "description": "Copy your checkout link Go to the URL Redirects page of your Shopify admin Shopify admin > Online Store > Navigation > URL Redirects Add a new redirect The \"Redirect from\" should be a new short link, and the \"Redirect to\" should be your instant checkout link.",
+  "producthunt_url": "https://www.producthunt.com/products/shopify-checkout-link-generator",
+  "crawl_timestamp": "2025-04-04T00:32:41.935934"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Parallel DOM",
+  "product_url": "https://pdom.dev/",
+  "description": "Use Parallel DOM JS library to upgrade parts of your web application to run within Parallel DOMs isolated context as a separate sub process. If you use React, you can parallelize a React component while being able to pass props and callbacks.",
+  "producthunt_url": "https://www.producthunt.com/products/parallel-dom",
+  "crawl_timestamp": "2025-04-04T01:16:51.455057"
+}

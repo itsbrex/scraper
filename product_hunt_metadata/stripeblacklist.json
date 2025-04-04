@@ -1,0 +1,7 @@
+{
+  "title": "StripeBlacklist",
+  "product_url": "https://stripeblacklist.vercel.app/",
+  "description": "Connect your Stripe accounts. StripeBlacklist automatically adds disputes to its database to share with other users. You can fetch the API before accepting a payment to check if the user has already made disputes, so you can avoid Stripe fees or getting banned",
+  "producthunt_url": "https://www.producthunt.com/products/stripeblacklist",
+  "crawl_timestamp": "2025-04-03T22:04:06.203616"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "DevDojo Auth",
+  "product_url": "https://devdojo.com/auth",
+  "description": "\ud83d\udd10 DevDojo Auth is an open-source authentication package that adds drop-in ready authentication pages into your Laravel app. It includes fully customizable pages for login, registration, password recovery, social auth, 2FA, and more. \ud83d\udc68\u200d\ud83c\udfa8",
+  "producthunt_url": "https://www.producthunt.com/products/devdojo-auth",
+  "crawl_timestamp": "2025-04-03T22:14:30.148638"
+}

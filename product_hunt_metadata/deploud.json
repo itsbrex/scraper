@@ -1,0 +1,7 @@
+{
+  "title": "Deploud",
+  "product_url": "https://deploud.com/",
+  "description": "I built a platform that generates verified deployment scripts for Cloud Run. It creates infrastructure code with Pulumi, sets up service accounts with minimal permissions, and ensures idempotent, reliable deployments without wrapper services.",
+  "producthunt_url": "https://www.producthunt.com/products/deploud",
+  "crawl_timestamp": "2025-04-03T23:05:50.930925"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "KumoMTA",
+  "product_url": "https://kumomta.com/",
+  "description": "KumoMTA is architected for the performance needed by enterprise senders, with support for technologies including webhooks, AMQP, Kafka, Vault, Prometheus, Grafana, and direct database access.",
+  "producthunt_url": "https://www.producthunt.com/products/kumomta",
+  "crawl_timestamp": "2025-04-03T21:40:25.616604"
+}

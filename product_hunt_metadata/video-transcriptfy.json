@@ -1,0 +1,7 @@
+{
+  "title": "Video Transcriptfy",
+  "product_url": "https://video-transcriptify.vercel.app/",
+  "description": "Developed a MERN stack web app for 500+ users, featuring secure JWT authentication and a responsive Tailwind CSS UI. Automated YouTube video note generation with Gemini API and downloadable PDFs, used by 100+ users and enabled direct YouTube video downloads.",
+  "producthunt_url": "https://www.producthunt.com/products/video-transcriptfy",
+  "crawl_timestamp": "2025-04-04T01:28:32.546110"
+}

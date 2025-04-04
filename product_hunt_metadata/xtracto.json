@@ -1,0 +1,7 @@
+{
+  "title": "XTRACTO",
+  "product_url": "https://xtracto.shashstorm.in/",
+  "description": "It is a web development framework that uses the custom markup language pypx, allowing dynamic web page creation with ease. It supports HTML imports and variable parsing, generates Tailwind CSS classes using via the pytailwind library, *without JS dependencies.",
+  "producthunt_url": "https://www.producthunt.com/products/xtracto",
+  "crawl_timestamp": "2025-04-03T21:15:14.126629"
+}

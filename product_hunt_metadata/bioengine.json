@@ -1,0 +1,7 @@
+{
+  "title": "BioEngine",
+  "product_url": "https://bioengine.vercel.app/",
+  "description": "Ever struggled with coming up with a memorable Twitter (now X) bio? Then you're at the right stop! Introducing BioEngine, an AI-Powered Twitter Bio Generator that is easy to use. Built with Nextjs, Shadcn UI, TypeScript and Groq LLMs Provider.",
+  "producthunt_url": "https://www.producthunt.com/products/bioengine",
+  "crawl_timestamp": "2025-04-03T21:59:20.284696"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Korvus",
+  "product_url": "https://github.com/postgresml/korvus",
+  "description": "Korvus is an open-source RAG (Retrieval-Augmented Generation) pipeline that consolidates the entire RAG workflow - from embedding generation to text generation - into a single SQL query, significantly reducing architectural complexity and latency.",
+  "producthunt_url": "https://www.producthunt.com/products/korvus",
+  "crawl_timestamp": "2025-04-04T01:33:01.952901"
+}

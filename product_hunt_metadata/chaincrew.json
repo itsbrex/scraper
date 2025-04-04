@@ -1,0 +1,7 @@
+{
+  "title": "ChainCrew",
+  "product_url": "https://github.com/haailabs/chaincrew",
+  "description": "ChainCrew orchestrates a set of Blockchain Analyst agents which fetch the latest price action and source code of a smart contract, analyze it for security and financial insights, and compile a comprehensive report.",
+  "producthunt_url": "https://www.producthunt.com/products/chaincrew",
+  "crawl_timestamp": "2025-04-03T21:55:31.600644"
+}

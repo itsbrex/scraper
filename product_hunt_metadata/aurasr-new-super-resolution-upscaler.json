@@ -1,0 +1,7 @@
+{
+  "title": "AuraSR: new super-resolution upscaler",
+  "product_url": "https://aurasr.net/",
+  "description": "AuraSR is a model derived from the GigaGAN paper. It can upscale low-res images to 4x the resolution, and can be applied repeatedly.",
+  "producthunt_url": "https://www.producthunt.com/products/aurasr-new-super-resolution-upscaler",
+  "crawl_timestamp": "2025-04-04T01:02:30.354476"
+}

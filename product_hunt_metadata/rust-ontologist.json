@@ -1,0 +1,7 @@
+{
+  "title": "rust-ontologist",
+  "product_url": "https://github.com/lava-xyz/rust-ontologist",
+  "description": "Navigating through a big codebase is hard, especially when you are just learning it. rust-ontologist comes to the rescue: it generates a structure, or ontology, of any Rust project, and visualizes it in an interactive browser window.",
+  "producthunt_url": "https://www.producthunt.com/products/rust-ontologist",
+  "crawl_timestamp": "2025-04-04T00:54:58.545577"
+}
