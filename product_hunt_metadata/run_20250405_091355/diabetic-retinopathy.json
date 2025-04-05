@@ -1,0 +1,7 @@
+{
+  "title": "Diabetic Retinopathy",
+  "product_url": "https://huggingface.co/spaces/nawabkh2040-ml/Diabetic-Retinopathy",
+  "description": "An AI-powered tool leveraging ResNet-50 and Xception pretrained models to detect diabetic retinopathy with 97.5% accuracy. Upload a retinal image to instantly classify severity levels, aiding in early diagnosis and vision loss prevention.",
+  "producthunt_url": "https://www.producthunt.com/products/diabetic-retinopathy",
+  "crawl_timestamp": "2025-04-05T12:04:32.722298"
+}

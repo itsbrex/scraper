@@ -1,0 +1,7 @@
+{
+  "title": "GPTComet",
+  "product_url": "https://github.com/belingud/gptcomet",
+  "description": "GPTComet, written in Go, is an AI - powered Git commit message generator. It uses AI to auto - generate messages, supports multiple languages and providers (OpenAI, Gemini, etc.), and works with Git and SVN repos.",
+  "producthunt_url": "https://www.producthunt.com/products/gptcomet",
+  "crawl_timestamp": "2025-04-05T11:56:21.364428"
+}

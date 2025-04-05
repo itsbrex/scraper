@@ -1,0 +1,7 @@
+{
+  "title": "MCP Postman AI Tool Generator",
+  "product_url": "https://github.com/giovannicocco/mcp-server-postman-tool-generation",
+  "description": "An MCP server that generates AI agent tools from Postman collections and requests. This server integrates with the Postman API to convert API endpoints into type-safe code that can be used with various AI frameworks.",
+  "producthunt_url": "https://www.producthunt.com/products/mcp-postman-ai-tool-generator",
+  "crawl_timestamp": "2025-04-05T14:29:11.254254"
+}

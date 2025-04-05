@@ -1,0 +1,7 @@
+{
+  "title": "Hockey Roster Manager",
+  "product_url": "https://roster-gen.vercel.app/",
+  "description": "A tool for managing hockey team rosters. Users can: - Create a DB of players, tagged with a \"group code\" - That group code will allow for later retrieval - Organize players by position, skill level (1-10), and attendance - Generate and re-generate \"fair\" teams",
+  "producthunt_url": "https://www.producthunt.com/products/hockey-roster-manager",
+  "crawl_timestamp": "2025-04-05T12:26:23.678842"
+}

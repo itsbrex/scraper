@@ -1,0 +1,7 @@
+{
+  "title": "Code2prompt: Convert Codebase to Prompt",
+  "product_url": "https://github.com/mufeedvh/code2prompt",
+  "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. - mufeedvh/code2prompt",
+  "producthunt_url": "https://www.producthunt.com/products/code2prompt-convert-codebase-to-prompt",
+  "crawl_timestamp": "2025-04-05T12:22:35.798309"
+}

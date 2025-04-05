@@ -1,0 +1,7 @@
+{
+  "title": "Scalable Notification System",
+  "product_url": "https://github.com/adityasharma-tech/ScalableNotificationSystem",
+  "description": "Created a scalable notification system architecture to handle millions of users to WhatsApp api, email \ud83d\udce8, SMS apis, in-app notification and more providers. Using Kafka, RabbitMQ.",
+  "producthunt_url": "https://www.producthunt.com/products/scalable-notification-system",
+  "crawl_timestamp": "2025-04-05T09:59:36.617914"
+}

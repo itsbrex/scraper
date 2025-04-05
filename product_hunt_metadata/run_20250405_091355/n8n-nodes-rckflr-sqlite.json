@@ -1,0 +1,7 @@
+{
+  "title": "n8n-nodes-rckflr-sqlite",
+  "product_url": "https://www.npmjs.com/package/n8n-nodes-rckflr-sqlite",
+  "description": "Bring SQLite to n8n! Create and manage local SQLite databases, run dynamic SQL queries, and delete database files directly from your workflows. Perfect for developers and automation enthusiasts seeking flexibility and control. \ud83d\ude80",
+  "producthunt_url": "https://www.producthunt.com/products/n8n-nodes-rckflr-sqlite",
+  "crawl_timestamp": "2025-04-05T14:09:39.931892"
+}

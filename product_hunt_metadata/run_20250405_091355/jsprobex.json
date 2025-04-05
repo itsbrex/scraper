@@ -1,0 +1,7 @@
+{
+  "title": "JSProbeX",
+  "product_url": "https://github.com/hackelite01/JSProbeX",
+  "description": "Penetration testing tool that extracts sensitive information such as API keys, secret tokens, and URLs from JavaScript files. It helps penetration testers and bug bounty hunters efficiently identify exposed credentials and security risks in JS files and URLs.",
+  "producthunt_url": "https://www.producthunt.com/products/jsprobex",
+  "crawl_timestamp": "2025-04-05T09:44:51.150260"
+}

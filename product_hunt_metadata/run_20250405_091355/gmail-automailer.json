@@ -1,0 +1,7 @@
+{
+  "title": "Gmail AutoMailer",
+  "product_url": "https://mail-automate.streamlit.app/",
+  "description": "A simple Gmail automation tool to send personalized emails to multiple recipients. It customizes emails with recipient-specific details, supports attachments,email preview, and integrates securely with Google App Passwords, streamlining your email outreach! \ud83d\ude80",
+  "producthunt_url": "https://www.producthunt.com/products/gmail-automailer",
+  "crawl_timestamp": "2025-04-05T14:22:48.111904"
+}

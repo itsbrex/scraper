@@ -1,0 +1,7 @@
+{
+  "title": "Preprocess",
+  "product_url": "https://preprocess.co/",
+  "description": "Chunking heavily impacts the performance of your retrieval when dealing with LLMs. Preprocess split documents into optimal chunks of text. We split PDF and Office files based on the original document structure and content semantics.",
+  "producthunt_url": "https://www.producthunt.com/products/preprocess",
+  "crawl_timestamp": "2025-04-05T14:02:57.608556"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "AndroidDebloater",
+  "product_url": "https://github.com/massimo-rnd/AndroidDebloater",
+  "description": "\ud83d\ude80 Overview AndroidDebloater is a simple tool written in C#, that enables you to debloat your Android Device with a GUI using ADB. \ud83c\udfaf Features Pre-Made Scripts for Google Bloat, Android System Bloat, Third-Party Bloat No installation of ADB tools needed",
+  "producthunt_url": "https://www.producthunt.com/products/androiddebloater",
+  "crawl_timestamp": "2025-04-05T13:06:11.546431"
+}

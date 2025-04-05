@@ -1,0 +1,7 @@
+{
+  "title": "video transcript API",
+  "product_url": "https://rapidapi.com/invideoiq-invideoiq-default/api/video-transcript-scraper",
+  "description": "Scrapes transcripts from any online video / audio content on any plateform (Youtube, X,.) in any available language. It delivers outputs in both JSON and LLM-ready formats. Ideal for analytics and AI-based applications.",
+  "producthunt_url": "https://www.producthunt.com/products/video-transcript-api",
+  "crawl_timestamp": "2025-04-05T10:10:35.667563"
+}

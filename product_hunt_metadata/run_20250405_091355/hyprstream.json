@@ -1,0 +1,7 @@
+{
+  "title": "Hyprstream",
+  "product_url": "https://crates.io/crates/hyprstream",
+  "description": "Hyprstream is a lightweight real-time data ingestion, time-series, caching SQL proxy. Built on Apache Arrow Flight & DuckDB in Rust with blazing-fast insights with seamless ADBC integration! WORK IN PROGRESS",
+  "producthunt_url": "https://www.producthunt.com/products/hyprstream",
+  "crawl_timestamp": "2025-04-05T11:15:52.386167"
+}

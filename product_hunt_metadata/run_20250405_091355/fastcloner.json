@@ -1,0 +1,7 @@
+{
+  "title": "FastCloner",
+  "product_url": "https://github.com/lofcz/FastCloner",
+  "description": "ast deep cloning library forNET 8+. Supports both deep and shallow cloning. Extensively tested, focused on performance and stability even on complicated object graphs. FastCloner is designed to work with as few gotchas as possible out of the box.",
+  "producthunt_url": "https://www.producthunt.com/products/github-45",
+  "crawl_timestamp": "2025-04-05T11:34:31.047419"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Github Resume Generator",
+  "product_url": "https://resume-github.vercel.app/",
+  "description": "Generate your GitHub activity as a Resume using your username. The resume is built using public information provided by GitHub including top repositories, contributions, statistics, and more. You also can customize it based on the information you want to show",
+  "producthunt_url": "https://www.producthunt.com/products/github-resume-generator",
+  "crawl_timestamp": "2025-04-05T10:17:14.009469"
+}

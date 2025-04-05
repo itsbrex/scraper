@@ -1,0 +1,7 @@
+{
+  "title": "Request Managemen Portal",
+  "product_url": "https://request.notreal003.xyz/",
+  "description": "This project is a comprehensive request management portal that allows users to submit various types of requests, including reports, support requests, and applications. Administrators can manage these requests through an administrative dashboard with analytics.\n\nOpen Source and free to use > github.com/NotReal003/Requests : Portal: JWT-based authentication (discord / email login), email notifications, request status updates, and an admin dashboard for managing requests and users & more :)",
+  "producthunt_url": "https://www.producthunt.com/products/request-managemen-portal",
+  "crawl_timestamp": "2025-04-05T12:18:30.953041"
+}

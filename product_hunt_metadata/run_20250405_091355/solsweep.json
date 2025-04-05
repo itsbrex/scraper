@@ -1,0 +1,7 @@
+{
+  "title": "Solsweep",
+  "product_url": "https://solsweep.xyz/",
+  "description": "Solsweep is a tool that helps Solana users close unused token accounts and reclaim the SOL locked as rent. Each token account reserves approximately 0.002 SOL as rent to remain active. Over time, unused accounts can pile up, unnecessarily tying up your funds.",
+  "producthunt_url": "https://www.producthunt.com/products/solsweep",
+  "crawl_timestamp": "2025-04-05T10:40:49.806551"
+}

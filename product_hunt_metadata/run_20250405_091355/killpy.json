@@ -1,0 +1,7 @@
+{
+  "title": "killpy",
+  "product_url": "https://github.com/Tlaloc-Es/killpy",
+  "description": "KillPy helps you reclaim disk space by detecting unused Python environments (.venv, poetry env, conda env) and pipx packages. Clean, organize, and free up space effortlessly! \ud83d\ude80",
+  "producthunt_url": "https://www.producthunt.com/products/killpy",
+  "crawl_timestamp": "2025-04-05T13:26:16.432431"
+}

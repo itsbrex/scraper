@@ -1,0 +1,7 @@
+{
+  "title": "Blaze-CI/CD",
+  "product_url": "https://github.com/ARAldhafeeri/Blaze-cicd",
+  "description": "Blaze CI/CD is a powerful CLI tool that automates the creation of production-ready CI/CD pipelines. \ud83d\ude80 Automatically configure Kubernetes namespaces \ud83d\udc33 Create DockerHub and GitHub repositories \ud83e\udd16 Set up GitHub Actions for CI \ud83d\udee0\ufe0f Deploy K8S & ArgoCD",
+  "producthunt_url": "https://www.producthunt.com/products/blaze-ci-cd",
+  "crawl_timestamp": "2025-04-05T14:06:29.276209"
+}

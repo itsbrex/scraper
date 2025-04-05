@@ -1,0 +1,7 @@
+{
+  "title": "DatAi",
+  "product_url": "https://datai-project.vercel.app/add-source",
+  "description": "Poorly labeled or inconsistent data can create a \u201cgarbage context\u201d problem for LLMs, leading to misinterpretations and flawed decisions. We clean, standardize, and contextualize your data, ensuring your AI systems deliver accurate and actionable results.",
+  "producthunt_url": "https://www.producthunt.com/products/datai-2",
+  "crawl_timestamp": "2025-04-05T10:57:42.232023"
+}

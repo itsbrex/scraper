@@ -1,0 +1,7 @@
+{
+  "title": "GTSDB",
+  "product_url": "https://gtsdb.abby.md/",
+  "description": "Durable and Memory Friendly timeseries database. Utilizes Write Ahead Log (WAL) for records, reducing IO and memory usage. 19,172 ns/op. In-memory-like speed. WAL-class durability.",
+  "producthunt_url": "https://www.producthunt.com/products/gtsdb",
+  "crawl_timestamp": "2025-04-05T11:03:04.410269"
+}

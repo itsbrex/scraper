@@ -1,0 +1,7 @@
+{
+  "title": "DNS Flixer",
+  "product_url": "https://dnsflixer.fun/",
+  "description": "DNSFlixer is a Go app that lets you upload files using HTTP and download them in chunks through DNS queries",
+  "producthunt_url": "https://www.producthunt.com/products/dns-flixer",
+  "crawl_timestamp": "2025-04-05T09:32:36.504623"
+}

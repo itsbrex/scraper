@@ -1,0 +1,7 @@
+{
+  "title": "Compo Gen",
+  "product_url": "https://compogen.vercel.app/",
+  "description": "CompoGen is an AI powered React component code generator tool which generates Javascript code for React components with pre-configured TailwindCSS classes with the functionality to view, preview, edit, save and download the code in real-time.",
+  "producthunt_url": "https://www.producthunt.com/products/compo-gen",
+  "crawl_timestamp": "2025-04-05T14:10:39.881933"
+}

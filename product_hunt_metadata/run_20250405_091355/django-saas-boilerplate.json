@@ -1,0 +1,7 @@
+{
+  "title": "Django SaaS Boilerplate",
+  "product_url": "https://anotherboilerplate.io/",
+  "description": "I noticed that a lot of the features are common across web apps and saases. \n\nRather than starting from scratch every time, I have a boilerplate with basic features that I canan reuse every time I start a new project. \n\nIt uses Django which is super easy to use. It has features like user authentication, Stripe payment, transactional email; and it comes with a modern UI (I use Tailwind and Kutty)\n\nIt saves me a lot of time and effort, I thought I would share it for free :)",
+  "producthunt_url": "https://www.producthunt.com/products/django-saas-boilerplate",
+  "crawl_timestamp": "2025-04-05T10:05:13.042866"
+}

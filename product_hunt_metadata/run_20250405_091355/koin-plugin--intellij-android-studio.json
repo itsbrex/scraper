@@ -1,0 +1,7 @@
+{
+  "title": "Koin Plugin- IntelliJ & Android Studio",
+  "product_url": "https://plugins.jetbrains.com/plugin/26131-koin-dependency-injection-beta-official-",
+  "description": "Visualize your Koin dependency graph in real-time directly within your IDE. Detect and resolve configuration issues instantly, from missing dependencies to circular references. Debug and fix critical app performance issues including ANRs, thread bottlenecks, and UI freezes, all without changing your code. Connect to the Kotzilla Console for advanced root cause analysis of your dependency injection setup. Perfect for Android developers who want to maintain clean, performant DI.",
+  "producthunt_url": "https://www.producthunt.com/products/the-kotzilla-platform",
+  "crawl_timestamp": "2025-04-05T10:08:43.317207"
+}

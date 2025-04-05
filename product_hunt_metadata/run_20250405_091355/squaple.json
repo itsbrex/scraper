@@ -1,0 +1,7 @@
+{
+  "title": "Squaple",
+  "product_url": "https://squaple.com/",
+  "description": "Squaple's core mechanics are quite straightforward, utilizing a 4x4 grid of tiles. The goal is to rearrange the tiles to match a given target pattern by swapping adjacent tiles of different colors. The fewer swaps + attempts you use, the higher your score is.",
+  "producthunt_url": "https://www.producthunt.com/products/squaple",
+  "crawl_timestamp": "2025-04-05T14:00:40.401849"
+}

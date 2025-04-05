@@ -1,0 +1,7 @@
+{
+  "title": "MNN LLM App",
+  "product_url": "https://github.com/alibaba/MNN/blob/master/project/android/apps/MnnLlmApp/README.md",
+  "description": "Multimodal llm android app supports text-to-text, image-to-text, audio-to-text, and text-to-image generation (via diffusion models).",
+  "producthunt_url": "https://www.producthunt.com/products/mnn-llm-app",
+  "crawl_timestamp": "2025-04-05T14:18:16.274135"
+}

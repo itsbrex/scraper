@@ -1,0 +1,7 @@
+{
+  "title": "Eater",
+  "product_url": "https://rapidapi.com/arnvfx/api/eater1",
+  "description": "API used to query food menu items on food delivery apps for now we just pull uber eats data, but will other apps soon.",
+  "producthunt_url": "https://www.producthunt.com/products/eater",
+  "crawl_timestamp": "2025-04-05T10:12:09.036064"
+}

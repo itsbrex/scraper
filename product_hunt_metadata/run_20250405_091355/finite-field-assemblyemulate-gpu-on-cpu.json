@@ -1,0 +1,7 @@
+{
+  "title": "Finite Field Assembly:Emulate GPU on CPU",
+  "product_url": "https://leetarxiv.substack.com/p/emulating-a-gpu-on-a-cpu-using-finite",
+  "description": "Finite Field Assembly (FF-ASM) is a programming language designed to emulate GPUs on regular CPUs using Number Theory and Finite Field Theory. Use Cases - Matrix multiplications for Artificial Intelligence on CPU. - Image and Video editing on CPU.",
+  "producthunt_url": "https://www.producthunt.com/products/finite-field-assembly-emulate-gpu-on-cpu",
+  "crawl_timestamp": "2025-04-05T12:13:05.436227"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "VisualVerse",
+  "product_url": "https://visual-verse-app.vercel.app/",
+  "description": "VisualVerse is a Kotlin-based social media Andorid app. The app offers a dynamic platform for users to connect, share content, and customize their experience. It integrates a Flask server with Python for backend processing and Firebase for database management.",
+  "producthunt_url": "https://www.producthunt.com/products/visualverse",
+  "crawl_timestamp": "2025-04-05T13:25:17.958533"
+}

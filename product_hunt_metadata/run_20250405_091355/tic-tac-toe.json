@@ -1,0 +1,7 @@
+{
+  "title": "Tic-Tac-Toe",
+  "product_url": "https://tic-tac-toe-five-red-94.vercel.app/",
+  "description": "A multiplayer tic-tac-toe game built using next.js, socket.io and node.js",
+  "producthunt_url": "https://www.producthunt.com/products/tic-tac-toe-5",
+  "crawl_timestamp": "2025-04-05T11:14:19.252963"
+}

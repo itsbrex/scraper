@@ -1,0 +1,7 @@
+{
+  "title": "mazine",
+  "product_url": "https://github.com/waycaan/mazine",
+  "description": "Mazine is a Serverless modern image hosting application built on Next.js 14 and object storage service.\n\ud83d\ude80 Based on Next.js 14 App Router\n\ud83d\udce6 Supports multiple object storage services (S3, Alist, etc.)\n\ud83c\udfa8 Responsive design + dark mode\n\ud83d\udd12 Simple password protection\n\ud83d\udccb One-click copy in multiple formats (URL, Markdown, BBCode)\n\ud83d\udcbe Image compression and WebP conversion\n\ud83d\uddbc\ufe0f Supports grid view and timeline view, card-style management and preview\n\u2764\ufe0f Image favorites functionality\n\ud83d\udd0d Image search feature",
+  "producthunt_url": "https://www.producthunt.com/products/mazine",
+  "crawl_timestamp": "2025-04-05T13:18:56.313175"
+}

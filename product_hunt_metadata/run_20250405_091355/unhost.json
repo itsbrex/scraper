@@ -1,0 +1,7 @@
+{
+  "title": "Unhost",
+  "product_url": "https://unhost.it/install/wireguard",
+  "description": "Deploy your own WireGuard VPN server in seconds without touching the console. This free tool automatically installs and configures WireGuard on a Linux server and generates a client configuration to connect to it.",
+  "producthunt_url": "https://www.producthunt.com/products/unhost",
+  "crawl_timestamp": "2025-04-05T09:38:18.473398"
+}

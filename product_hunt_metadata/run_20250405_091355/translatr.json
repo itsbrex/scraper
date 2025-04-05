@@ -1,0 +1,7 @@
+{
+  "title": "Translatr",
+  "product_url": "https://translatr.vercel.app/",
+  "description": "Translatr is a modern web application that converts regular text into various levels of internet slang. Built with Next.js, TypeScript, and powered by Google's Gemini AI, it offers real-time text transformation with smooth animations and a responsive design.",
+  "producthunt_url": "https://www.producthunt.com/products/translatr",
+  "crawl_timestamp": "2025-04-05T11:41:47.148175"
+}

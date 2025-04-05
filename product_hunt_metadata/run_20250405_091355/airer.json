@@ -1,0 +1,7 @@
+{
+  "title": "Airer",
+  "product_url": "https://airer.vercel.app/",
+  "description": "When an error occurs in your code, make a simple call to Airer where we capture information about the error like user agent, URL, the error message, stack, and even column and file names. Then this error gets added to your Airer dashboard to view and debug.",
+  "producthunt_url": "https://www.producthunt.com/products/airer",
+  "crawl_timestamp": "2025-04-05T09:39:30.129957"
+}

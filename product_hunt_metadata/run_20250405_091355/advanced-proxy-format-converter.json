@@ -1,0 +1,7 @@
+{
+  "title": "Advanced Proxy Format Converter",
+  "product_url": "https://www.proxyformat.com/converter",
+  "description": "1. IP:Port 2. IP:Port:Username:Password 3. HTTP Basic 4. Username Password IP Port 5. HTTP with Auth 6. HTTPS with Auth 7. SOCKS4 Format 8. SOCKS5 Format 9. cURL Command 10. Wget Command 11. Python Requests 12. Node.js Axios 13. JSON Format",
+  "producthunt_url": "https://www.producthunt.com/products/advanced-proxy-format-converter",
+  "crawl_timestamp": "2025-04-05T13:18:57.457372"
+}

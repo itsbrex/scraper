@@ -1,0 +1,7 @@
+{
+  "title": "Baichuan-Omni-1.5",
+  "product_url": "https://github.com/baichuan-inc/Baichuan-Omni-1.5",
+  "description": "Baichuan-Omni-1.5 is an open-source, omni-modal model from Baichuan AI. It handles text, image, video, and audio inputs, generates text and audio, and outperforms GPT-4o mini in several benchmarks. Includes base and fine-tuned models.",
+  "producthunt_url": "https://www.producthunt.com/products/baichuan-omni-1-5",
+  "crawl_timestamp": "2025-04-05T14:29:30.832444"
+}

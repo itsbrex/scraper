@@ -1,0 +1,7 @@
+{
+  "title": "DataBackfill",
+  "product_url": "https://databackfill.com/",
+  "description": "DataBackfill syncs your historical GA4 data into BigQuery. Connect your GA4 property, set up BigQuery, and start syncing - all through a simple dashboard.",
+  "producthunt_url": "https://www.producthunt.com/products/databackfill",
+  "crawl_timestamp": "2025-04-05T09:47:39.229192"
+}

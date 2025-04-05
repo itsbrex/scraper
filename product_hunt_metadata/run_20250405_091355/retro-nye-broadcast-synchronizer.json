@@ -1,0 +1,7 @@
+{
+  "title": "Retro NYE broadcast synchronizer",
+  "product_url": "https://sync-play.netlify.app/new-year",
+  "description": "A SolidJS webapp to synchronise youtube videos to a given real world time. Contains an archive of New Year's Eve broadcasts with the midnight time's already sync'd for midnight",
+  "producthunt_url": "https://www.producthunt.com/products/retro-nye-broadcast-synchronizer",
+  "crawl_timestamp": "2025-04-05T10:12:09.570723"
+}

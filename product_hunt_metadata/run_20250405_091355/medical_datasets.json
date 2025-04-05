@@ -1,0 +1,7 @@
+{
+  "title": "Medical_Datasets",
+  "product_url": "https://www.datamaster.tech/",
+  "description": "Medical datasets for training/evaluating models in medical QA: Evaluation: Includes medmcqa, pubmedqa, etc. General: GenMedGPT-5k, HealthCareMagic-100k, etc. Preference Data: medical-preference-data.json. Files in JSON/txt formats.",
+  "producthunt_url": "https://www.producthunt.com/products/medical_datasets",
+  "crawl_timestamp": "2025-04-05T10:51:03.272814"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "ESPRelay",
+  "product_url": "https://esprelay.com/",
+  "description": "ESPRelay is a Go-based email processing system designed for high-volume, enterprise-grade email operations. It serves as the ingress point for handling email sending requests and webhook events from various Email Service Providers (ESPs).",
+  "producthunt_url": "https://www.producthunt.com/products/esprelay",
+  "crawl_timestamp": "2025-04-05T10:55:29.919125"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Tabchat AI",
+  "product_url": "https://tabchatai.com/",
+  "description": "Tabchat AI is a Chrome extension that lets you chat directly with your active tabs. We securely scrape the HTML data from your DOM, send it over to our LLM, and viola- you're able to receive AI assistance with any website you're currently browsing.",
+  "producthunt_url": "https://www.producthunt.com/products/tabchat-ai",
+  "crawl_timestamp": "2025-04-05T10:36:24.614972"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "LLaVA-Mini",
+  "product_url": "https://github.com/ictnlp/LLaVA-Mini",
+  "description": "LLaVA-Mini\ud83d\udc4fis an efficient LMM for image/video understanding using 1 vision token, offering: (1)\u23e9fast response (40ms per image) (2)\ud83d\udda5\ufe0fless VRAM usage (support 3-hour video understanding on 24GB GPU).",
+  "producthunt_url": "https://www.producthunt.com/products/llava-mini",
+  "crawl_timestamp": "2025-04-05T12:09:56.589840"
+}

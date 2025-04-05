@@ -1,0 +1,7 @@
+{
+  "title": "Spice.ai Open Source 1.0-stable",
+  "product_url": "https://github.com/spiceai/spiceai",
+  "description": "A portable, single-node, compute engine built in Rust that combines federated data query, retrieval, and AI inference, accelerating data access for mission-critical workloads, mitigating AI hallucinations, and making AI simple and easy for developers.",
+  "producthunt_url": "https://www.producthunt.com/products/spice-ai-open-source-1-0-stable",
+  "crawl_timestamp": "2025-04-05T13:45:19.334931"
+}

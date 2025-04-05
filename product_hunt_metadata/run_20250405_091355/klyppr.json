@@ -1,0 +1,7 @@
+{
+  "title": "Klyppr",
+  "product_url": "https://klyppr.mkdir.dev/",
+  "description": "Klyppr - a web-based video editing tool that automatically detects and removes silent parts from your videos. Perfect for content creators who want to make their videos more engaging!\n\nKey highlights:\n\n\ud83c\udfaf Browser-based: No software installation needed\n\ud83d\udd07 Smart silence detection\n\u2702\ufe0f Automatic trimming of quiet segments\n\ud83d\ude80 Powered by FFmpeg.wasm for client-side processing\n\ud83d\udd12 Privacy-focused: All processing happens in your browser",
+  "producthunt_url": "https://www.producthunt.com/products/klyppr",
+  "crawl_timestamp": "2025-04-05T10:37:21.236355"
+}

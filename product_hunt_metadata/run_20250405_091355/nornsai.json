@@ -1,0 +1,7 @@
+{
+  "title": "Norns.ai",
+  "product_url": "https://norns.ai/",
+  "description": "Norse myth\u2013inspired MVP that streamlines web data extraction for AI workflows. Right now, it features a single /scrape API endpoint to transform any webpage into LLM-friendly data\u2014perfect for rapid prototyping or proof-of-concept AI applications.",
+  "producthunt_url": "https://www.producthunt.com/products/norns-ai",
+  "crawl_timestamp": "2025-04-05T13:41:48.553851"
+}
