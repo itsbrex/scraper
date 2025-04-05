@@ -1,0 +1,7 @@
+{
+  "title": "Export GTM Verison History to Sheets",
+  "product_url": "https://chromewebstore.google.com/detail/measureminds-gtm-tool/gcnigdofomcplomnpbafganhkijklfaf",
+  "description": "The extension adds two buttons to the GTM versions page. Export to csv - Exports all versions tocsv file. Export to Google Sheets - Creates a new Spreadsheet and copies all versions to this file.",
+  "producthunt_url": "https://www.producthunt.com/products/export-gtm-verison-history-to-sheets",
+  "crawl_timestamp": "2025-04-05T03:51:21.981554"
+}

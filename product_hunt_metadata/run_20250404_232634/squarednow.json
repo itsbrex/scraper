@@ -1,0 +1,7 @@
+{
+  "title": "Squarednow",
+  "product_url": "https://flatmates.azurewebsites.net/",
+  "description": "Squarednow is a platform for Influencer Marketing agencies working with YouTube. Squrednow simplifies the creation of reports reducing the time taken from days to minutes.\nIt's made of two portals:\n* the Dashboard, which is for the organization\n* the Creators Portal, which is...well for the creators (you don't see pictures yet)\n\nThe Dashboard retieves public data automatically and the Creators Portal uses YouTube APIs, upon consent, to delegate and automate private data retrieval for reports.",
+  "producthunt_url": "https://www.producthunt.com/products/squarednow",
+  "crawl_timestamp": "2025-04-05T04:19:46.688328"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "GribStream",
+  "product_url": "https://gribstream.com/",
+  "description": "GribStream offers high-speed access to both historical and real-time weather data. Leverage state of the art weather models like the National Blend of Models (NBM), Global Forecast System (GFS), High-Resolution Rapid Refresh (HRRR), GEFS, CFS and others.\n\n- Blazing fast. Query thousands of coords, hundreds of weather parameters, years of data in a single http request, in seconds.\n- Full forecast history, as-of/timetravel. Perfect for backtesting.\n- Free tier unrestricted for commercial use",
+  "producthunt_url": "https://www.producthunt.com/products/gribstream",
+  "crawl_timestamp": "2025-04-05T02:33:33.842865"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "HMPL",
+  "product_url": "https://hmpl-lang.dev/",
+  "description": "\ud83d\udc1c Small template language for displaying UI from server to client. It is based on customizable requests sent to the server via fetch and processed into ready-made HTML. Reduce the size of js files and create a UI like on a framework!",
+  "producthunt_url": "https://www.producthunt.com/products/hmpl-2",
+  "crawl_timestamp": "2025-04-05T01:31:05.209539"
+}

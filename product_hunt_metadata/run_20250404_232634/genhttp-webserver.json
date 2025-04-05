@@ -1,0 +1,7 @@
+{
+  "title": "GenHTTP Webserver",
+  "product_url": "https://genhttp.org/",
+  "description": "Lightweight REST API server framework written in C# with support for current standards such as Open API, JWT auth, Websockets and more.",
+  "producthunt_url": "https://www.producthunt.com/products/genhttp-webserver",
+  "crawl_timestamp": "2025-04-05T02:26:02.572851"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "CSV Query Playground",
+  "product_url": "https://csv-query-parser.vercel.app/",
+  "description": "I needed a fast, simple way to analyze a million-row CSV in my browser. So I built a CSV Query Builder that autodetects column types, filters & slices data, and needs no setup. Your data stays safe, it\u2019s fully responsive, and no cryptic errors\u2014just insights.",
+  "producthunt_url": "https://www.producthunt.com/products/csv-query-playground",
+  "crawl_timestamp": "2025-04-05T02:40:04.838609"
+}

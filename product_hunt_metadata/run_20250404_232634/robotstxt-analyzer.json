@@ -1,0 +1,7 @@
+{
+  "title": "Robots.txt Analyzer",
+  "product_url": "https://spider-web-flax.vercel.app/",
+  "description": "Analyze robots.txt files to understand website crawling instructions. Information is refreshed every 24 hours following the specified guidelines. RFC Link: rfc-editor.org/rfc/rfc9309.html",
+  "producthunt_url": "https://www.producthunt.com/products/robots-txt-analyzer",
+  "crawl_timestamp": "2025-04-05T04:13:33.598848"
+}

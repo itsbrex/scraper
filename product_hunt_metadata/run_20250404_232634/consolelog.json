@@ -1,0 +1,7 @@
+{
+  "title": "ConsoleLog",
+  "product_url": "https://chromewebstore.google.com/detail/consolelog/bpkeepmeajdffneiimcknfnjodekcgnh",
+  "description": "Every log message in frontend and backend code is turned into a friendly popup on the webpage. Done with console.log, console.info, etc. in the browser and the equivalent on the server. The popup contains the message and also the stack trace to the message.",
+  "producthunt_url": "https://www.producthunt.com/products/consolelog",
+  "crawl_timestamp": "2025-04-05T00:39:16.912344"
+}

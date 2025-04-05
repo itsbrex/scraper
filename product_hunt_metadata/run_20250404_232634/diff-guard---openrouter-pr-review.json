@@ -1,0 +1,7 @@
+{
+  "title": "Diff Guard - OpenRouter PR Review",
+  "product_url": "https://github.com/jonit-dev/diffguard",
+  "description": "OpenRouter GitHub Action automates PR reviews with AI. Analyze code changes using models like GPT-4 or Claude, and get insights on bugs, security, performance, and best practices. Customize prompts, trigger label-based reviews, and improve code quality!",
+  "producthunt_url": "https://www.producthunt.com/products/diff-guard-openrouter-pr-review",
+  "crawl_timestamp": "2025-04-05T00:17:51.827578"
+}

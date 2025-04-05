@@ -1,0 +1,7 @@
+{
+  "title": "APTRS",
+  "product_url": "https://aptrs.com/",
+  "description": "APTRS (Automated Penetration Testing Reporting System) is a Python and Django tool that simplifies penetration testing by automating PDF and Excel report generation. It also helps track and manage vulnerabilities, ensuring efficient and organized workflows.",
+  "producthunt_url": "https://www.producthunt.com/products/aptrs",
+  "crawl_timestamp": "2025-04-05T00:50:26.667963"
+}

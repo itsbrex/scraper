@@ -1,0 +1,7 @@
+{
+  "title": "Tokens API",
+  "product_url": "https://www.zatomic.ai/tokens",
+  "description": "A free service and API to get input token counts and costs for over 160 AI models. Get your API key and start integrating our Tokens API into your AI apps and workflows. Useful for checking inputs for context window size and monitoring your AI usage budget.",
+  "producthunt_url": "https://www.producthunt.com/products/tokens-api",
+  "crawl_timestamp": "2025-04-05T00:03:50.398812"
+}

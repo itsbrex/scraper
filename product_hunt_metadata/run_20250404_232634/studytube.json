@@ -1,0 +1,7 @@
+{
+  "title": "StudyTube",
+  "product_url": "https://studytube.vercel.app/",
+  "description": "A chrome extension that allows you to optimise your YouTube experience by hiding parts of the app (suggested videos, shorts, comments etc) and allowing users to generate smart summaries with timestamps to skim videos instead of sitting through the whole thing.",
+  "producthunt_url": "https://www.producthunt.com/products/studytube",
+  "crawl_timestamp": "2025-04-05T02:35:22.246790"
+}

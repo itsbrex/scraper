@@ -1,0 +1,7 @@
+{
+  "title": "Compute Lite",
+  "product_url": "https://computelite.com/",
+  "description": "ComputeLite is a truly serverless tool that leverages the power of WebAssembly (WASM) and SQLite OPFS t to ensure that all data and code remain securely in the browser. Right now it supports Python (powered by Pyodide) and SQL( powered by SQLITE)",
+  "producthunt_url": "https://www.producthunt.com/products/compute-lite",
+  "crawl_timestamp": "2025-04-05T01:45:05.533977"
+}

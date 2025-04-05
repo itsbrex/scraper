@@ -1,0 +1,7 @@
+{
+  "title": "TrendyThumbs",
+  "product_url": "https://trendythumbs.vercel.app/",
+  "description": "Fetches and analyzes thumbnails of trending YouTube videos using Google Vision AI, extracting features like dominant colors, word count, facial expressions and object labels.",
+  "producthunt_url": "https://www.producthunt.com/products/trendythumbs",
+  "crawl_timestamp": "2025-04-04T23:28:43.048940"
+}

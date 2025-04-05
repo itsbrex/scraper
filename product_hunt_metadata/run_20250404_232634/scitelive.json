@@ -1,0 +1,7 @@
+{
+  "title": "scite.live",
+  "product_url": "https://scite.live/",
+  "description": "A secure note-sharing app I built because I needed it myself! Features: * Custom Slugs: shareable links with personalized URLs. * End-to-End Encryption: Notes are secured with AES-GCM + PBKDF2 * Dark Mode + Multi-Language Support",
+  "producthunt_url": "https://www.producthunt.com/products/scite-live",
+  "crawl_timestamp": "2025-04-05T00:12:52.234258"
+}

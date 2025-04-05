@@ -1,0 +1,7 @@
+{
+  "title": "Wirechat",
+  "product_url": "https://wirechat.namuio.com/",
+  "description": "Wirechat is a Laravel Livewire package for real-time chat. It supports private chats, group chats, message deletion, disappearing messages, and customizable UI. With just a few commands, add scalable, flexible chat features to your app effortlessly.",
+  "producthunt_url": "https://www.producthunt.com/products/wirechat",
+  "crawl_timestamp": "2025-04-05T02:39:46.903398"
+}

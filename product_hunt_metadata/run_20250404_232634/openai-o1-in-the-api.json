@@ -1,0 +1,7 @@
+{
+  "title": "OpenAI o1 in the API",
+  "product_url": "https://platform.openai.com/docs/models",
+  "description": "The full o1 model is now available to developers through OpenAI\u2019s API, designed to excel at complex, multi-step reasoning tasks. Compared to the earlier o1-preview version, this release improves accuracy, efficiency, and flexibility.",
+  "producthunt_url": "https://www.producthunt.com/products/openai-o1-in-the-api",
+  "crawl_timestamp": "2025-04-05T04:12:18.445380"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "sleekid",
+  "product_url": "https://github.com/RyosukeCla/sleekid",
+  "description": "A go lib for modern IDs, inspired by Stripe. It generates shorter yet collision-resistant IDs compared to UUIDs, with human-readable prefixes and built-in timestamps. Features include checksum verification, cryptographic randomness, and URL-friendly encoding.",
+  "producthunt_url": "https://www.producthunt.com/products/sleekid",
+  "crawl_timestamp": "2025-04-05T00:14:44.895603"
+}

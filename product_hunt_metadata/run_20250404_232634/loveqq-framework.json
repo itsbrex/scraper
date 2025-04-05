@@ -1,0 +1,7 @@
+{
+  "title": "loveqq-framework",
+  "product_url": "https://github.com/kfyty/loveqq-framework",
+  "description": "Lightweight IOC/AOP framework with more powerful conditional inference than Spring; Abstracting the MVC pattern and providing embedded reactor net and Tomcat servers; Provide the JavaFX MVVM framework that enables bidirectional binding between models and data.",
+  "producthunt_url": "https://www.producthunt.com/products/loveqq-framework",
+  "crawl_timestamp": "2025-04-05T02:10:11.100803"
+}

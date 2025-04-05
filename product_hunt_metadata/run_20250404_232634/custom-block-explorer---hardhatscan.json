@@ -1,0 +1,7 @@
+{
+  "title": "Custom Block Explorer - HardhatScan",
+  "product_url": "https://custom-block-explorer.vercel.app/",
+  "description": "A customizable blockchain explorer designed specifically for Hardhat users. With seamless integration to Hardhat nodes, HardhatScan makes it easy to test, visualize, and interact with smart contracts locally without the need for testnet tokens.",
+  "producthunt_url": "https://www.producthunt.com/products/custom-block-explorer-hardhatscan",
+  "crawl_timestamp": "2025-04-04T23:35:14.298567"
+}

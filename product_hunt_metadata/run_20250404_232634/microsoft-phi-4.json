@@ -1,0 +1,7 @@
+{
+  "title": "Microsoft Phi-4",
+  "product_url": "https://azure.microsoft.com/en-us/products/phi",
+  "description": "Phi-4 is Microsoft's 14B-parameter small language model that excels in complex reasoning, particularly in math, while optimizing size & computational efficiency. Available on Azure AI Foundry & Hugging Face, it sets a new benchmark for AI performance at scale.",
+  "producthunt_url": "https://www.producthunt.com/products/microsoft-phi-4",
+  "crawl_timestamp": "2025-04-05T03:22:55.535539"
+}

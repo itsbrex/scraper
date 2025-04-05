@@ -1,0 +1,7 @@
+{
+  "title": "Semantic Pinching",
+  "product_url": "https://semanticpinching.vercel.app/",
+  "description": "A fun little prototype that uses LLMs + gesture recognition to switch a piece of text between different levels of abstractions: emoji \u2194 word \u2194 sentence \u2194 paragraph \u2194 article. Code: github.com/chuanenlin/semanticpinching",
+  "producthunt_url": "https://www.producthunt.com/products/semantic-pinching",
+  "crawl_timestamp": "2025-04-05T02:27:55.424279"
+}

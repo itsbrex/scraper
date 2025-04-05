@@ -1,0 +1,7 @@
+{
+  "title": "Product Fetcher",
+  "product_url": "https://product-fetcher.com/",
+  "description": "Say goodbye to messy selectors, DOM debugging, or browser extensions. Product Fetcher is an API that seamlessly extracts product information \u2014 like prices, descriptions, reviews, and ratings \u2014 from any web page, no setup required.",
+  "producthunt_url": "https://www.producthunt.com/products/product-fetcher",
+  "crawl_timestamp": "2025-04-05T03:42:15.506220"
+}

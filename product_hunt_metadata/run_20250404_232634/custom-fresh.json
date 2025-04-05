@@ -1,0 +1,7 @@
+{
+  "title": "Custom Fresh",
+  "product_url": "https://github.com/mahmoudmohamedramadan/custom-fresh",
+  "description": "A Laravel package to specify the tables that you do not want to drop while refreshing the database.",
+  "producthunt_url": "https://www.producthunt.com/products/custom-fresh",
+  "crawl_timestamp": "2025-04-04T23:30:38.006217"
+}

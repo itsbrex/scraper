@@ -1,0 +1,7 @@
+{
+  "title": "Medium Blog Summarizer",
+  "product_url": "https://chromewebstore.google.com/detail/medium-blog-summarizer/fdmoiaedfphholpeeoabkbhnpnbkomfo",
+  "description": "A Chrome extension that intelligently summarizes Medium blogs directly on the page using advanced LLMs and LangChain. It delivers concise, structured summaries in a readme-style format, enhancing content consumption and productivity with seamless integration.",
+  "producthunt_url": "https://www.producthunt.com/products/medium-blog-summarizer",
+  "crawl_timestamp": "2025-04-05T01:21:46.266372"
+}

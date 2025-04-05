@@ -1,0 +1,7 @@
+{
+  "title": "Bucketman",
+  "product_url": "https://www.osnadigit.de/en/bucketman/index.html",
+  "description": "Bucketman is an application designed to manage cloud object stores. It provides users with the ability to CRUD objects in storage buckets, such as those provided by AWS S3. The app aims to simplify the management of cloud storage by offering a user-friendly UI",
+  "producthunt_url": "https://www.producthunt.com/products/bucketman",
+  "crawl_timestamp": "2025-04-05T01:37:20.898970"
+}

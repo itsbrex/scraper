@@ -1,0 +1,7 @@
+{
+  "title": "GitHub Stars Semantic Search",
+  "product_url": "https://github.com/LuisReinoso/github-stars-semantic-search",
+  "description": "A powerful tool that transforms how you interact with your starred repositories on GitHub. Using OpenAI's embeddings and PGlite for local storage, it enables natural language search to easily find any project you've bookmarked",
+  "producthunt_url": "https://www.producthunt.com/products/github-stars-semantic-search",
+  "crawl_timestamp": "2025-04-05T04:17:19.097882"
+}
