@@ -1,0 +1,7 @@
+{
+  "title": "Xun",
+  "product_url": "https://github.com/yaitoo/xun",
+  "description": "Xun is a web framework built on Go's built-in html/template and net/http package\u2019s router. It is designed to be lightweight, fast, and easy to use. It provides advanced features such as middleware, routing, and template rendering for building web applications.",
+  "producthunt_url": "https://www.producthunt.com/products/xun",
+  "crawl_timestamp": "2025-04-06T09:46:46.623190"
+}

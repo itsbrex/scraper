@@ -1,0 +1,7 @@
+{
+  "title": "TMA Starter Kit",
+  "product_url": "https://github.com/devflex-pro/tma-starter-kit",
+  "description": "TMA Starter Kit is a ready-to-use template for developing Telegram Mini Apps, built with Quasar (Vue.js), TypeScript, Go, and MongoDB. It includes authentication, data storage, payments, API, Docker, CI/CD, and deployment tools. \ud83d\ude80",
+  "producthunt_url": "https://www.producthunt.com/products/tma-starter-kit",
+  "crawl_timestamp": "2025-04-06T10:27:28.212337"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "RAGBOT",
+  "product_url": "https://github.com/amajji/chat-interface-with-react-and-rag-from-scratch",
+  "description": "This project provides a real-time chat interface with a custom RAG pipeline, featuring a React frontend and FastAPI backend. It supports file uploads, document chunking, and semantic search, while storing data in an SQLite database.",
+  "producthunt_url": "https://www.producthunt.com/products/ragbot",
+  "crawl_timestamp": "2025-04-06T14:00:26.403528"
+}

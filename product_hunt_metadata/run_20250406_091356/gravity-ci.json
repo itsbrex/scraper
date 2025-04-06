@@ -1,0 +1,7 @@
+{
+  "title": "Gravity CI",
+  "product_url": "https://gravity.ci/",
+  "description": "Gravity monitors build artifact sizes to prevent accidental increases \u2013 right in your CI pipeline. Don't miss a new dependency growing your JS bundle disproportionately or an oversized, uncompressed image making it to your production website!",
+  "producthunt_url": "https://www.producthunt.com/products/gravity-ci",
+  "crawl_timestamp": "2025-04-06T12:23:58.997951"
+}

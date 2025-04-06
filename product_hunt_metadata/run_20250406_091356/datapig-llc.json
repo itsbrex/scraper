@@ -1,0 +1,7 @@
+{
+  "title": "DataPig LLC",
+  "product_url": "https://datapig.cloud/",
+  "description": "DataPig ingests Dataverse CDM changefeeds directly into SQL Server\u2014no Spark, no parquet. Cut costs by 90%, enable near real-time insights, scale to 10K+ tables, and enjoy self-healing, event-driven pipelines. Ingest smarter, not harder.",
+  "producthunt_url": "https://www.producthunt.com/products/datapig-llc",
+  "crawl_timestamp": "2025-04-06T13:43:32.603103"
+}

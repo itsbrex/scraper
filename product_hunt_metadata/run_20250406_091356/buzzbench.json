@@ -1,0 +1,7 @@
+{
+  "title": "BuzzBench",
+  "product_url": "https://buzzbench.io/",
+  "description": "BuzzBench is a flexible performance testing platform made to make API testing seamless and efficient. It uses an agent-based architecture where lightweight runners execute tests directly from your environment and report results back to a centralized dashboard.",
+  "producthunt_url": "https://www.producthunt.com/products/buzzbench",
+  "crawl_timestamp": "2025-04-06T12:30:59.597234"
+}

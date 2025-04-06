@@ -1,0 +1,7 @@
+{
+  "title": "Laravel Query Builder",
+  "product_url": "https://github.com/webbycrown/query-builder",
+  "description": "Laravel Dynamic Query Builder simple interface lets developers and non-tech users make SQL queries without deep database skills. Users pick tables, add filters, set conditions, and group data to craft custom reports easily.",
+  "producthunt_url": "https://www.producthunt.com/products/laravel-query-builder",
+  "crawl_timestamp": "2025-04-06T11:21:29.782368"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "SynthGen",
+  "product_url": "https://github.com/nasirus/synthgen",
+  "description": "SynthGen is a high-performance framework for LLM inference, leveraging parallel processing, Rust-powered efficiency, and advanced caching. Optimize costs, scale effortlessly, and gain full observability with real-time metrics and dashboards.",
+  "producthunt_url": "https://www.producthunt.com/products/synthgen",
+  "crawl_timestamp": "2025-04-06T11:25:17.119774"
+}

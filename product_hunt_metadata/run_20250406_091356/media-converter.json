@@ -1,0 +1,7 @@
+{
+  "title": "Media Converter",
+  "product_url": "https://ameersami.com/workshop/mediaConverter",
+  "description": "This is a client side app that utilizes ffmpeg WASM to convert media files. I made this because I have to convert screen recordings to gifs to post in my PR descriptions and found it tedious having to type out the FFMPEG command every time I needed to do this.",
+  "producthunt_url": "https://www.producthunt.com/products/media-converter",
+  "crawl_timestamp": "2025-04-06T13:21:22.037399"
+}

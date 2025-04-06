@@ -1,0 +1,7 @@
+{
+  "title": "Reranker by Contextual AI",
+  "product_url": "https://docs.contextual.ai/reference/rerank_rerank_post",
+  "description": "This is the first reranker that can follow custom instructions about how to rank retrievals (e.g. recency, source, metadata, etc.). Our reranker is the most accurate in the world, outperforming competitors by large margins on the industry-standard benchmarks.",
+  "producthunt_url": "https://www.producthunt.com/products/reranker-by-contextual-ai",
+  "crawl_timestamp": "2025-04-06T10:54:35.555271"
+}

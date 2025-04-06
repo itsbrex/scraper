@@ -1,0 +1,7 @@
+{
+  "title": "Model Smart Contract Protocol (MSCP)",
+  "product_url": "https://github.com/AmeNetwork/Model-Smart-Contract-Protocol",
+  "description": "MSCP is a standard protocol that enables LLM applications to interact with EVM-compatible networks. It consists of Onchain Component (EIP-7654), Connector, and Chat2Web3. AI Agents can use MSCP to add custom components and build onchain interaction workflows.",
+  "producthunt_url": "https://www.producthunt.com/products/model-smart-contract-protocol-mscp",
+  "crawl_timestamp": "2025-04-06T12:14:21.935753"
+}

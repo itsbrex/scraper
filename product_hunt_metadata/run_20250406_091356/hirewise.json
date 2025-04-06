@@ -1,0 +1,7 @@
+{
+  "title": "Hirewise",
+  "product_url": "https://hirewise.onrender.com/",
+  "description": "The AI-Based Resume Screening System is designed to enhance the resume evaluation process using advanced AI techniques. By leveraging TF-IDF, Word2Vec, BERT embeddings, and Q-learning, the system ranks resumes based on their relevance to job descriptions.",
+  "producthunt_url": "https://www.producthunt.com/products/hirewise-2",
+  "crawl_timestamp": "2025-04-06T12:56:20.386205"
+}

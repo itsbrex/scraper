@@ -1,0 +1,7 @@
+{
+  "title": "Agent Biscuit",
+  "product_url": "https://everdcf.streamlit.app/",
+  "description": "This application performs an automated DCF valuation of a company based on uploaded financial statements. You can also perform sensitivity analysis, adjust forecast scenarios, and analyze industry benchmarks.",
+  "producthunt_url": "https://www.producthunt.com/products/agent-biscuit",
+  "crawl_timestamp": "2025-04-06T12:13:09.794546"
+}

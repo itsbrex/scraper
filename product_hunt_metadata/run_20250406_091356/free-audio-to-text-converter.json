@@ -1,0 +1,7 @@
+{
+  "title": "Free Audio to Text Converter",
+  "product_url": "https://tools.rossbacher-f.de/",
+  "description": "I built this free, no-signup audio-to-text tool after getting frustrated with paywalls and registrations on other websites. It converts WAV, MP3 & MP4 into text using OpenAI Whisper & FFmpeg. Open-source, simple, and built for the community. Give it a try!",
+  "producthunt_url": "https://www.producthunt.com/products/free-audio-to-text-converter",
+  "crawl_timestamp": "2025-04-06T09:49:31.186428"
+}

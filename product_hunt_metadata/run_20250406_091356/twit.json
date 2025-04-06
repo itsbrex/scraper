@@ -1,0 +1,7 @@
+{
+  "title": "Twit",
+  "product_url": "https://github.com/R-D-BioTech-Alaska/Twit",
+  "description": "Twit is a Python GUI application that allows you to schedule tweets, generate tweets using AI and manage scheduled tweets. It integrates via Tweepy and supports multi-line tweets from a file, AI-generated tweets, and scheduling with an intuitive interface.",
+  "producthunt_url": "https://www.producthunt.com/products/twit",
+  "crawl_timestamp": "2025-04-06T12:50:07.932104"
+}

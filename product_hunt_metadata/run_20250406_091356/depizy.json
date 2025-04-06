@@ -1,0 +1,7 @@
+{
+  "title": "Depizy",
+  "product_url": "https://depizy.com/",
+  "description": "An AWS automation tool that simplifies managing dev/test environments. Schedule EC2 and RDS instances, handles domain routing when IPs change, and monitors resource usage\u2014all designed to save costs and streamline workflows for dev teams and freelancers.",
+  "producthunt_url": "https://www.producthunt.com/products/depizy",
+  "crawl_timestamp": "2025-04-06T12:39:37.001236"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Ease-Commit",
+  "product_url": "https://www.npmjs.com/package/ease-commit",
+  "description": "Ease Commit is a tool that transforms your Git commit messages into meaningful, context-aware statements. It leverages the power of AI to analyze your Git diffs and recent commits, crafting clear, concise, and relevant messages every time.",
+  "producthunt_url": "https://www.producthunt.com/products/ease-commit",
+  "crawl_timestamp": "2025-04-06T11:44:01.869376"
+}

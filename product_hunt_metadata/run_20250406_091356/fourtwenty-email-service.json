@@ -1,0 +1,7 @@
+{
+  "title": "FourTwenty Email Service",
+  "product_url": "https://mailservice.fourtwenty.dev/",
+  "description": "A specialized email API for contact forms with unique security features. Each API key is bound to a specific recipient, making it safer for client-side code. Includes custom rate limiting, geoblocking, and an official NPM package with advanced features.",
+  "producthunt_url": "https://www.producthunt.com/products/fourtwenty-email-service",
+  "crawl_timestamp": "2025-04-06T13:29:58.185967"
+}

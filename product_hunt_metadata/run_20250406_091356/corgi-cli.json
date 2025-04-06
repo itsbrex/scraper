@@ -1,0 +1,7 @@
+{
+  "title": "Corgi cli",
+  "product_url": "https://github.com/Andriiklymiuk/corgi",
+  "description": "Corgi is a Go CLI that simplifies microservices development. It runs databases in containers and services natively, auto-wires environments, seeds data, and clones repos. Supports 30+ databases including Postgres and MongoDB. One command for your entire stack.",
+  "producthunt_url": "https://www.producthunt.com/products/corgi-cli",
+  "crawl_timestamp": "2025-04-06T13:28:07.505489"
+}

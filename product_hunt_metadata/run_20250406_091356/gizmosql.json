@@ -1,0 +1,7 @@
+{
+  "title": "GizmoSQL",
+  "product_url": "https://gizmodata.com/gizmosql",
+  "description": "GizmoSQL is an Arrow Flight SQL server with DuckDB or SQLite as back-end SQL database engines. With GizmoSQL, you can run DuckDB remotely and securely, with TLS and authentication. Run terabyte-scale analytics, outperforming legacy engines for 80% less cost!",
+  "producthunt_url": "https://www.producthunt.com/products/gizmosql",
+  "crawl_timestamp": "2025-04-06T11:26:28.911128"
+}

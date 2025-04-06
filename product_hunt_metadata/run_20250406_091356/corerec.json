@@ -1,0 +1,7 @@
+{
+  "title": "Corerec",
+  "product_url": "https://corerec.tech/",
+  "description": "CoreRec is the TensorFlow of recommender models, a scalable framework for AI-driven recommendations. It supports collaborative filtering, sequence modeling, reinforcement learning, graph-based methods, ranking, embeddings, and cold-start solutions.",
+  "producthunt_url": "https://www.producthunt.com/products/corerec",
+  "crawl_timestamp": "2025-04-06T13:04:26.700928"
+}

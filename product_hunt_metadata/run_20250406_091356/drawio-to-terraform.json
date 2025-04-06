@@ -1,0 +1,7 @@
+{
+  "title": "DrawIO to Terraform",
+  "product_url": "https://drawiototerraform.com/",
+  "description": "This product takes input of your AWS DrawIO architecture diagrams and converts them into usable Terraform code. This allows you to launch your application infrastructure early and quickly.",
+  "producthunt_url": "https://www.producthunt.com/products/drawio-to-terraform",
+  "crawl_timestamp": "2025-04-06T12:30:59.282145"
+}

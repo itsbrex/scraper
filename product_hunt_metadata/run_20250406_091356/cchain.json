@@ -1,0 +1,7 @@
+{
+  "title": "cchain",
+  "product_url": "https://github.com/AspadaX/cchain",
+  "description": "`cchain` aims to provide an easy-to-use script approach to automate the command lines that you execute often. It also incorporates AI capabilities in generating an automation script. The project is built completely in Rust and with MIT license.",
+  "producthunt_url": "https://www.producthunt.com/products/cchain",
+  "crawl_timestamp": "2025-04-06T10:56:44.536968"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "docsforge.app",
+  "product_url": "https://docsforge.app/",
+  "description": "Turn React code into clear customer help documentation automatically.\n\nIn it's current form, docsforge.app allows you to generate a single customer help doc from 1-5 React files.\n\nIn future, it will connect to your git repo of choice, and re-generate your customer help docs, every time code is pushed to master.",
+  "producthunt_url": "https://www.producthunt.com/products/docsforge",
+  "crawl_timestamp": "2025-04-06T11:07:08.194355"
+}

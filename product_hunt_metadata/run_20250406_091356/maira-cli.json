@@ -1,0 +1,7 @@
+{
+  "title": "maira-cli",
+  "product_url": "https://www.npmjs.com/package/maira-cli",
+  "description": "Maira-CLI is a developer tool designed to automatically generate swagger documentation for endpoints by intercepting requests and responses while testing the API endpoints.",
+  "producthunt_url": "https://www.producthunt.com/products/maira-cli",
+  "crawl_timestamp": "2025-04-06T13:39:50.670253"
+}

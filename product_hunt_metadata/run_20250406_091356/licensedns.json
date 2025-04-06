@@ -1,0 +1,7 @@
+{
+  "title": "LicenseDNS",
+  "product_url": "https://www.licensedns.net/",
+  "description": "LicenseDNS enables software vendors to implement licensing using DNSSEC. To validate a license, send a DNS query to any DNS server and receive cryptographically verified license data. All platforms and langauges are supported.",
+  "producthunt_url": "https://www.producthunt.com/products/licensedns",
+  "crawl_timestamp": "2025-04-06T12:51:58.271900"
+}

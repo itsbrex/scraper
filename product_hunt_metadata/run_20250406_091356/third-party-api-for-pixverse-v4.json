@@ -1,0 +1,7 @@
+{
+  "title": "Third-party API for PixVerse V4",
+  "product_url": "https://useapi.net/docs/api-pixverse-v2",
+  "description": "This is an experimental API for PixVerse.ai. PixVerse.ai generates videos from text and image prompts, supports a large number of video effects, and can extend, upscale, and lipsync videos. The PixVerse models v3, v3.5 and v4 supported.",
+  "producthunt_url": "https://www.producthunt.com/products/third-party-api-for-pixverse-v4",
+  "crawl_timestamp": "2025-04-06T13:19:27.199319"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Robot Navigation Simulator",
+  "product_url": "https://navigation.fabrica.ai/",
+  "description": "Input your robot\u2019s specs\u2014drivetrain, dimensions, weight, mass distribution, max speed\u2014and watch it come to life in simulation! See how it navigates, track success metrics, and fine-tune performance. Powered by RL-generated control policies! \ud83e\udd16",
+  "producthunt_url": "https://www.producthunt.com/products/robot-navigation-simulator",
+  "crawl_timestamp": "2025-04-06T10:50:39.880967"
+}

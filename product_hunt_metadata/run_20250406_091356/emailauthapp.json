@@ -1,0 +1,7 @@
+{
+  "title": "EmailAuth.app",
+  "product_url": "https://emailauth.app/",
+  "description": "Free email authentication tool to analyze and verify your domain's SPF, DKIM, and DMARC records. Available as a web tool and ChatGPT plugin. Improve email deliverability, prevent spoofing, and secure your domain with actionable recommendations.",
+  "producthunt_url": "https://www.producthunt.com/products/emailauth-app",
+  "crawl_timestamp": "2025-04-06T10:15:29.831142"
+}

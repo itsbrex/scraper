@@ -1,0 +1,7 @@
+{
+  "title": "Quak Query",
+  "product_url": "https://www.quak.dev/",
+  "description": "A client-side data analysis tool that lets you run SQL queries on your Parquet files directly in your browser. Upload files, write queries, view results, and export data\u2014all without sending anything to a server. Fast, private, and simple.",
+  "producthunt_url": "https://www.producthunt.com/products/quak-query",
+  "crawl_timestamp": "2025-04-06T10:20:23.772462"
+}

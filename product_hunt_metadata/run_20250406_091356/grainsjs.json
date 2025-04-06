@@ -1,0 +1,7 @@
+{
+  "title": "Grains.js",
+  "product_url": "https://github.com/mk0y/grains.js",
+  "description": "Grains.js is a tiny, reactive state management library designed for HTML. It lets you create isolated state containers directly within your HTML using custom attributes, eliminating the need for a build step or complex setup.",
+  "producthunt_url": "https://www.producthunt.com/products/grains-js",
+  "crawl_timestamp": "2025-04-06T10:37:57.090320"
+}

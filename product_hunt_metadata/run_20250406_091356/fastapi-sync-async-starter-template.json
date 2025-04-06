@@ -1,0 +1,7 @@
+{
+  "title": "Fastapi Sync Async Starter Template",
+  "product_url": "https://github.com/ysskrishna/fastapi-sync-async-starter",
+  "description": "A production-ready FastAPI template showcasing both sync and async database operations with SQLAlchemy 2.0, psycopg2, and asyncpg. Includes a robust testing suite with pytest-asyncio and pytest-cov, Dockerized multi-stage builds, Poetry for dependency management, and Redis powered rate limiting.",
+  "producthunt_url": "https://www.producthunt.com/products/fastapi-sync-async-starter-template",
+  "crawl_timestamp": "2025-04-06T13:08:29.812917"
+}

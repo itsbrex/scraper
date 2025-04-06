@@ -1,0 +1,7 @@
+{
+  "title": "WoolyAI Acceleration Service",
+  "product_url": "https://www.woolyai.com/",
+  "description": "WoolyAI is a CUDA Abstraction layer. On top of this layer, we have built a GPU Cloud service(WoolyAI Acceleration Service) with \"Actual GPU Resources Used\" billing, NOT \"GPU Time Used\" billing for Data Scientist to run Pytorch applications from CPU environment",
+  "producthunt_url": "https://www.producthunt.com/products/woolyai-acceleration-service",
+  "crawl_timestamp": "2025-04-06T10:25:54.230993"
+}

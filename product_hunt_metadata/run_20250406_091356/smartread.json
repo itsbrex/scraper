@@ -1,0 +1,7 @@
+{
+  "title": "SmartRead",
+  "product_url": "https://smartread-beta.vercel.app/",
+  "description": "AI tool that automatically annotates technical PDFs, and shows related articles and videos for better understanding. Features: > Automatically annotates important parts > Shows related articles/videos > Download original annotated PDF > It's open source!",
+  "producthunt_url": "https://www.producthunt.com/products/smartread",
+  "crawl_timestamp": "2025-04-06T12:02:11.234343"
+}

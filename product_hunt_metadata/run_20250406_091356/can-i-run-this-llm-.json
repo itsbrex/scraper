@@ -1,0 +1,7 @@
+{
+  "title": "Can I Run This LLM ?",
+  "product_url": "https://can-i-run-this-llm-blue.vercel.app/",
+  "description": "If I have this hardware, Can I run that LLM model ? I have vibe coded a simple application to help you with just that. It lets you chose the important parameters like unified memory for Mac or GPU + RAM for PC and then select the LLM (from hugging-face)",
+  "producthunt_url": "https://www.producthunt.com/products/can-i-run-this-llm",
+  "crawl_timestamp": "2025-04-06T10:33:59.759175"
+}

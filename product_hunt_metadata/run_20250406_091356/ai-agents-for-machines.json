@@ -1,0 +1,7 @@
+{
+  "title": "Ai Agents for Machines",
+  "product_url": "https://aiagentformachines.streamlit.app/",
+  "description": "This platform enables you to build and test your own AI agents for seamless interaction between users and machines. By leveraging the OPC UA communication protocol, it reads sensor variables and controls actuators to perform actions based on user requirements.",
+  "producthunt_url": "https://www.producthunt.com/products/ai-agents-for-machines",
+  "crawl_timestamp": "2025-04-06T11:27:42.137092"
+}

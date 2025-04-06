@@ -1,0 +1,7 @@
+{
+  "title": "Subgraph Status",
+  "product_url": "https://crates.io/crates/subgraph-status",
+  "description": "A CLI tool to check the status of your subgraph. Install via Rust's cargo, and use with a deployment ID. Fetch status from local graph-node or specific indexers by setting environment variables.",
+  "producthunt_url": "https://www.producthunt.com/products/subgraph-status",
+  "crawl_timestamp": "2025-04-06T09:59:41.307671"
+}

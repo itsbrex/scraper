@@ -1,0 +1,7 @@
+{
+  "title": "Office365Mailer",
+  "product_url": "https://github.com/Socialsquared-gUG/laravel-office365mailer",
+  "description": "A custom mail driver for Laravel that uses the Microsoft Graph API to send emails without requiring SMTP or user authentication.",
+  "producthunt_url": "https://www.producthunt.com/products/office365mailer",
+  "crawl_timestamp": "2025-04-06T12:17:44.145793"
+}

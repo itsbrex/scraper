@@ -1,0 +1,7 @@
+{
+  "title": "R1-AQA",
+  "product_url": "https://github.com/xiaomi-research/r1-aqa",
+  "description": "R1-AQA, inspired by DeepSeek-R1, is the open-source audio question answering model from Xiaomi, Achieves SOTA performance on MMAU using reinforcement learning (GRPO).",
+  "producthunt_url": "https://www.producthunt.com/products/r1-aqa",
+  "crawl_timestamp": "2025-04-06T11:57:13.822973"
+}

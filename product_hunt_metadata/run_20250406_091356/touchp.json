@@ -1,0 +1,7 @@
+{
+  "title": "touchp",
+  "product_url": "https://binhua.org/touchp",
+  "description": "touchp recursively creates directories and files in a command. It combines the functionality of mkdir -p and touch, making it easy to create files along with their parent directories. It supports multiple file creation, custom permissions, and initial content.",
+  "producthunt_url": "https://www.producthunt.com/products/touchp",
+  "crawl_timestamp": "2025-04-06T11:20:13.524040"
+}
