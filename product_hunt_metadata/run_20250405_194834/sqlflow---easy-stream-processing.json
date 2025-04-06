@@ -1,0 +1,7 @@
+{
+  "title": "SQLFlow - Easy Stream Processing",
+  "product_url": "https://sql-flow.com/",
+  "description": "SQLFlow models stream-processing as SQL queries using the DuckDB SQL dialect. Express your entire stream processing pipeline\u2014ingestion, transformation, and enrichment\u2014as a single SQL statement and configuration file.",
+  "producthunt_url": "https://www.producthunt.com/products/sqlflow-easy-stream-processing",
+  "crawl_timestamp": "2025-04-05T20:39:27.612234"
+}

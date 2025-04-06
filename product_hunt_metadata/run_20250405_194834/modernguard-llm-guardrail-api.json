@@ -1,0 +1,7 @@
+{
+  "title": "ModernGuard LLM guardrail API",
+  "product_url": "https://guardion.ai/",
+  "description": "ModernGuard is an ultra-fast prompt attack detection API, a fine-tuned modernBERT model. It doesn\u2019t just recognize the most recent, common (and uncommon) prompt injection and jailbreaking patterns \u2014 it continuously learns from your data and feedback, mitigating security and reputational risks in every AI interaction.\n\nIt\u2019s part of GuardionAI, the GenAI security solution built to monitor, protect, and control AI agents.",
+  "producthunt_url": "https://www.producthunt.com/products/fast-llm-guardrails",
+  "crawl_timestamp": "2025-04-05T21:15:40.612531"
+}

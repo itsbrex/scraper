@@ -1,0 +1,7 @@
+{
+  "title": "CastlePass",
+  "product_url": "https://chromewebstore.google.com/detail/castlepass-chess-password/imedbekciejflfnbpeliamodjaldecod",
+  "description": "CastlePass is a free, open-source Chrome extension that creates strong passwords using chess moves. The extension works by turning the chess moves you play against a bot into a secure password using standard hashing (SHA-256).",
+  "producthunt_url": "https://www.producthunt.com/products/castlepass",
+  "crawl_timestamp": "2025-04-05T21:56:35.212184"
+}

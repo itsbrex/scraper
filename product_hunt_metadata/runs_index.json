@@ -22,5 +22,13 @@
     "urls_skipped": 24994,
     "total_urls": 40548,
     "timestamp": "2025-04-05T14:30:34.769107"
+  },
+  "20250405_194834": {
+    "run_id": "20250405_194834",
+    "directory": "/home/runner/work/scraper/scraper/product_hunt_metadata/run_20250405_194834",
+    "urls_processed": 5000,
+    "urls_skipped": 29995,
+    "total_urls": 40704,
+    "timestamp": "2025-04-06T01:12:23.276006"
   }
 }

@@ -1,0 +1,7 @@
+{
+  "title": "Page Transactions Pattern",
+  "product_url": "https://github.com/douglasdcm/guara",
+  "description": "Guar\u00e1 is the Python implementation of the design pattern Page Transactions. The intent of this is to simplify UI test automation. Page Transactions focus on the operations (transactions) a user can perform on a web page, such as Login, Logout, or Submit Forms.",
+  "producthunt_url": "https://www.producthunt.com/products/page-transactions-pattern",
+  "crawl_timestamp": "2025-04-05T23:07:09.537319"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "OctAPI",
+  "product_url": "https://marketplace.visualstudio.com/items",
+  "description": "OctAPI for VS Code simplifies API route exploration. Detects routes in Express, NestJS, Koa (Python soon), jumps to code, organizes by basepath/method, and integrates into the sidebar. Streamline API management!",
+  "producthunt_url": "https://www.producthunt.com/products/octapi",
+  "crawl_timestamp": "2025-04-05T23:02:12.302318"
+}

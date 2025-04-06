@@ -1,0 +1,7 @@
+{
+  "title": "Shell Sage",
+  "product_url": "https://shellsage.vercel.app/",
+  "description": "Open-source AI-powered terminal companion with Ollama integration. Generate shell commands, debug errors, and enhance CLI workflows with local AI models. It also supports multiple cloud API providers like OpenAI, Groq, and Anthropic.",
+  "producthunt_url": "https://www.producthunt.com/products/shell-sage",
+  "crawl_timestamp": "2025-04-05T21:11:29.305947"
+}

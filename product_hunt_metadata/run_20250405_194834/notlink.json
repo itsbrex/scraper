@@ -1,0 +1,7 @@
+{
+  "title": "notlink",
+  "product_url": "https://notl.ink/",
+  "description": "notlink - a blazingly fast, open-source URL shortener built with Rust. Simple, secure, and customizable, it can be self-hosted on your server. Powered by Rust, Actix, Diesel, Shuttle, Neon, NextJS, and TypeScript. Free to use and designed for speed.",
+  "producthunt_url": "https://www.producthunt.com/products/notlink",
+  "crawl_timestamp": "2025-04-05T23:12:09.237029"
+}

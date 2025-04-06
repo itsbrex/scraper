@@ -1,0 +1,7 @@
+{
+  "title": "Carthagine",
+  "product_url": "https://carthagine.ai/",
+  "description": "Carthagine is an AI that can convert a Figma design into a usable, pixel-perfect React component hierarchy that integrates into your codebase.\n\nIt allows developers to focus on the truly challenging parts of building an app and leave the boring, repetitive Figma matching behind.\n\nUnlike other tools, Carthagine is precise in matching every single padding and color, while having a high-level understanding of your design that allows it to create production-ready code.\n\nIt's a new era for frontend.",
+  "producthunt_url": "https://www.producthunt.com/products/carthagine",
+  "crawl_timestamp": "2025-04-05T23:18:18.147627"
+}

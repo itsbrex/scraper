@@ -1,0 +1,7 @@
+{
+  "title": "Spice",
+  "product_url": "https://spice.so/",
+  "description": "Spice is a DEX with one-sided liquidity pools. The pool balancer uses algorithms to maintain the initial liquidity in the pools, which ensures that there are no non-constant losses, unlike traditional AMM.",
+  "producthunt_url": "https://www.producthunt.com/products/spice-3",
+  "crawl_timestamp": "2025-04-05T20:20:51.768406"
+}

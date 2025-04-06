@@ -1,0 +1,7 @@
+{
+  "title": "Inboxify",
+  "product_url": "https://everemailvalidation.streamlit.app/",
+  "description": "Inboxify is an advanced email validation tool that leverages a multi-step validation process, combining syntax checks, blacklist screening, DNS lookup, and SMTP verification to provide real-time feedback on individual and bulk email addresses.",
+  "producthunt_url": "https://www.producthunt.com/products/inboxify",
+  "crawl_timestamp": "2025-04-06T00:58:20.980489"
+}

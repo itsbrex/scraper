@@ -1,0 +1,7 @@
+{
+  "title": "DeepHermes 3",
+  "product_url": "https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-8B-Preview",
+  "description": "DeepHermes 3 from Nous Research is a Llama-3.1 8B based LLM with a toggleable reasoning mode for complex tasks. Combines fast responses with deep, chain-of-thought reasoning.",
+  "producthunt_url": "https://www.producthunt.com/products/deephermes-3",
+  "crawl_timestamp": "2025-04-05T23:07:30.197135"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "OmniParser V2",
+  "product_url": "https://www.microsoft.com/en-us/research/articles/omniparser-v2-turning-any-llm-into-a-computer-use-agent",
+  "description": "OmniParser \u2018tokenizes\u2019 UI screenshots from pixel spaces into structured elements in the screenshot that are interpretable by LLMs. This enables the LLMs to do retrieval based next action prediction given a set of parsed interactable elements.",
+  "producthunt_url": "https://www.producthunt.com/products/omniparser-v2",
+  "crawl_timestamp": "2025-04-05T22:51:07.610301"
+}

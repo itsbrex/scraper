@@ -1,0 +1,7 @@
+{
+  "title": "Import Tariff Calculator",
+  "product_url": "https://tariff-ui.vercel.app/",
+  "description": "The live app scans through 4387 pages of United States Harmonized Tariff Schedule and identifies the Product code that most matches user's description of their own product. Hence, user gets to see the ballpark estimates of import tariffs and other overheads.",
+  "producthunt_url": "https://www.producthunt.com/products/import-tariff-calculator",
+  "crawl_timestamp": "2025-04-05T22:50:46.218471"
+}

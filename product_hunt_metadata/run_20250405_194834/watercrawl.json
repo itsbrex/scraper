@@ -1,0 +1,7 @@
+{
+  "title": "WaterCrawl",
+  "product_url": "https://www.watercrawl.dev/",
+  "description": "WaterCrawl \ud83d\udd77\ufe0f is a powerful, AI-friendly web crawling and content extraction platform that helps you turn websites into structured, usable knowledge. Whether you're building datasets for LLMs, researching competitors, or documenting online content, WaterCrawl makes it easy to discover, extract, and organize data in clean Markdown format. \n\n\ud83c\udf10 Smart Website Crawler\n\ud83e\udde0 LLM-Ready Export\n\u26a1 Fast & Scalable\n\ud83d\udd0c AI Tool Integration\n\ud83d\ude80 Self-hosted or Cloud\n\nPowered by Django, Scrapy, Celery, Playwright",
+  "producthunt_url": "https://www.producthunt.com/products/watercrawl",
+  "crawl_timestamp": "2025-04-05T20:42:58.796535"
+}

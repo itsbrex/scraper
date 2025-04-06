@@ -1,0 +1,7 @@
+{
+  "title": "turbo_tpl",
+  "product_url": "https://turbo-temp.vercel.app/",
+  "description": "Skip the setup, start building. This is a npm package that provides a cli for setting up turborepo projects with tailwind, shadcn and other tech. It reduces the head-ache of setting up. It directly scaffolds the complicated projects and then you can build.",
+  "producthunt_url": "https://www.producthunt.com/products/turbo_tpl",
+  "crawl_timestamp": "2025-04-05T20:29:48.483202"
+}

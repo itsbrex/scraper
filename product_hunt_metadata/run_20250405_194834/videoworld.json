@@ -1,0 +1,7 @@
+{
+  "title": "VideoWorld",
+  "product_url": "https://github.com/bytedance/VideoWorld",
+  "description": "VideoWorldis an autoregressive video generation model from ByteDance Seed team & universities, learning complex tasks (Go, robotics) from unlabeled videos. Uses a Latent Dynamics Model (LDM). Open-source.",
+  "producthunt_url": "https://www.producthunt.com/products/videoworld",
+  "crawl_timestamp": "2025-04-05T22:04:33.212897"
+}

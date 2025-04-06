@@ -1,0 +1,7 @@
+{
+  "title": "SolveSync Chrome Extension",
+  "product_url": "https://chrome.google.com/webstore/detail/feooahdkcaofafmebcopdkpahbabdele",
+  "description": "SolveSync is a Chrome extension that automates uploading your accepted LeetCode solutions directly to your GitHub repository. It uses secure OAuth authorization to handle your credentials and commits your solutions in a structured format.",
+  "producthunt_url": "https://www.producthunt.com/products/solvesync-chrome-extension",
+  "crawl_timestamp": "2025-04-05T22:06:08.673451"
+}

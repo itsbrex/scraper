@@ -1,0 +1,7 @@
+{
+  "title": "FlashMLA",
+  "product_url": "https://github.com/deepseek-ai/FlashMLA",
+  "description": "FlashMLA, from DeepSeek, is an efficient MLA decoding kernel for Hopper GPUs, optimized for variable-length sequences. Achieves up to 3000 GB/s memory bandwidth and 580 TFLOPS.",
+  "producthunt_url": "https://www.producthunt.com/products/flashmla",
+  "crawl_timestamp": "2025-04-06T00:20:36.338360"
+}

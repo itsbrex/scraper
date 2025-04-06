@@ -1,0 +1,7 @@
+{
+  "title": "IsThisSpam",
+  "product_url": "https://isthisspam.org/",
+  "description": "Instantly check if an email is spam or a scam! Forward suspicious emails to check@isthisspam.org, and our AI-powered system (powered by OpenAI/Gemini) will analyze and respond within a minute. Built using Azure Logic Apps for fast, accurate email screening. \ud83d\ude80",
+  "producthunt_url": "https://www.producthunt.com/products/isthisspam",
+  "crawl_timestamp": "2025-04-05T20:54:45.316514"
+}

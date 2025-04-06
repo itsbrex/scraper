@@ -1,0 +1,7 @@
+{
+  "title": "pgchat",
+  "product_url": "https://github.com/inferablehq/pgchat",
+  "description": "pgchat bridges the gap between natural conversation and database queries, letting developers explore and query Postgres databases through simple chat interactions while keeping sensitive credentials completely local.",
+  "producthunt_url": "https://www.producthunt.com/products/pgchat",
+  "crawl_timestamp": "2025-04-05T19:54:41.607907"
+}

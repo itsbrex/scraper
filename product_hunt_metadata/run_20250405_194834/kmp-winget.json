@@ -1,0 +1,7 @@
+{
+  "title": "kmp-winget",
+  "product_url": "https://github.com/StarkDroid/kmp-winget",
+  "description": "A package manager for windows crafted using Kotlin Multi-Platform & Jetpack compose, Material UI for a beautiful UI and powerful actions backed by winget. Now stay up-to-date with every app update ahead of time. Uninstall the apps, install new apps and upgrade all at one place!",
+  "producthunt_url": "https://www.producthunt.com/products/github-50",
+  "crawl_timestamp": "2025-04-05T21:44:17.423176"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Audio player for ChatGPT",
+  "product_url": "https://chromewebstore.google.com/detail/audio-player-for-chatgpt/pgogbhnjghehkajgclkpgplflfnjcgpm",
+  "description": "ChatGPT's \"Read aloud\" feature only has a Play/Stop button, so I made a chrome extension that shows an audio player while listening. \nIt's open source!\n\nYou can also copy/paste the code to your script manager of choice, like violentmonkey/tampermonkey.",
+  "producthunt_url": "https://www.producthunt.com/products/audio-player-for-chatgpt",
+  "crawl_timestamp": "2025-04-05T23:40:31.034622"
+}

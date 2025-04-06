@@ -1,0 +1,7 @@
+{
+  "title": "RagaAI Catalyst",
+  "product_url": "https://raga.ai/",
+  "description": "RagaAI's Catalyst helps you evaluate all stages of Agentic AI workflows and deploy with confidence. \n\nCatalyst is a Python SDK used to observe, test and evaluate Agentic AI and LLM models. It features tracing, multi-agent debugging, a user-friendly dashboard, and advanced analytics with execution timelines and graph views for deeper observability and optimization.",
+  "producthunt_url": "https://www.producthunt.com/products/ragaai-catalyst",
+  "crawl_timestamp": "2025-04-05T22:17:42.621287"
+}

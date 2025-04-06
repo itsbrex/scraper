@@ -1,0 +1,7 @@
+{
+  "title": "Tradingsandbox",
+  "product_url": "https://tradesandbox.vercel.app/",
+  "description": "A trading simulator that accurately mimics price movement based on certain specific settings. It supports perpetual/spot with leverage included. It currently also has multiple different technical indicators as well supported.",
+  "producthunt_url": "https://www.producthunt.com/products/tradingsandbox",
+  "crawl_timestamp": "2025-04-05T23:17:20.864864"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Pulses",
+  "product_url": "https://pulses.cloud/",
+  "description": "Pulses is a WebSocket provider designed to be fully compatible with the Pusher SDK and Laravel Echo. Our service ensures real-time communication and data synchronization for your applications, making it easier to build interactive and dynamic user experiences.",
+  "producthunt_url": "https://www.producthunt.com/products/pulses",
+  "crawl_timestamp": "2025-04-05T22:49:51.000275"
+}

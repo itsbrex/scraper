@@ -1,0 +1,7 @@
+{
+  "title": "Syntix",
+  "product_url": "https://syntix.pro/",
+  "description": "Syntix allows you to ask an AI programming questions, and have it answer back in one of 8 languages: JavaScript, TypeScript, Python, C#, Java, Go, Rust, pgSQL. The AI will execute the generated code in its own environment - with full internet access. \n\nThis gives the AI instant feedback on its code, circumventing hallucinations. \n\nYou can also upload files and folders to the execution environment for processing. The current size limit is about 7GB.",
+  "producthunt_url": "https://www.producthunt.com/products/syntix",
+  "crawl_timestamp": "2025-04-06T00:07:21.409327"
+}

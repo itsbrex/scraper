@@ -1,0 +1,7 @@
+{
+  "title": "Neosync",
+  "product_url": "https://neosync.dev/",
+  "description": "Neosync is an open source ETL platform with built-in data anonymization and synthetic data tools that developers use to: - anonymize production data so they can safely use it locally - detect & redact sensitive data in LLM prompts - generate synthetic data",
+  "producthunt_url": "https://www.producthunt.com/products/neosync",
+  "crawl_timestamp": "2025-04-05T19:54:20.860831"
+}

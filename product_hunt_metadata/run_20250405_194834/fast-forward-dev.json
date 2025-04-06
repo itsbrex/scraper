@@ -1,0 +1,7 @@
+{
+  "title": "Fast Forward Dev",
+  "product_url": "https://fast-forward-dev.com/",
+  "description": "This is a boilerplate project made from scratch with the approach of separating a NextJS frontend and Node.js + Express backend into two separate projects for better scalability.",
+  "producthunt_url": "https://www.producthunt.com/products/fast-forward-dev",
+  "crawl_timestamp": "2025-04-05T20:21:48.084670"
+}

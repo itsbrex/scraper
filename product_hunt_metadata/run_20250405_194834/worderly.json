@@ -1,0 +1,7 @@
+{
+  "title": "Worderly",
+  "product_url": "https://worderly.app/",
+  "description": "Worderly.app is a fun and challenging game like wordle. The objective: Given a dictionary word. Find the 10 closest words in the dictionary that are above and below it. Score is determined by how close your guess words are to the given word. Closer is better!",
+  "producthunt_url": "https://www.producthunt.com/products/worderly",
+  "crawl_timestamp": "2025-04-05T20:10:02.445267"
+}

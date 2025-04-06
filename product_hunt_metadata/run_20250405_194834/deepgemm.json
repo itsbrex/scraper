@@ -1,0 +1,7 @@
+{
+  "title": "DeepGEMM",
+  "product_url": "https://github.com/deepseek-ai/DeepGEMM",
+  "description": "DeepGEMM, from DeepSeek, is an open-source library for highly optimized FP8 GEMM kernels on Hopper GPUs. Clean codebase (~300 LOC), JIT-compiled, no heavy dependencies.",
+  "producthunt_url": "https://www.producthunt.com/products/deepgemm",
+  "crawl_timestamp": "2025-04-06T00:44:34.084196"
+}

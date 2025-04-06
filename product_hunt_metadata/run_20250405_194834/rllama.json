@@ -1,0 +1,7 @@
+{
+  "title": "RLLama",
+  "product_url": "https://github.com/ch33nchan/RLlama",
+  "description": "A memory-augmented reinforcement learning framework that teaches LLMs to learn and remember like humans. Featuring episodic memory, working memory, and six RL algorithms, it's your Swiss Army knife for training smarter language models.",
+  "producthunt_url": "https://www.producthunt.com/products/rllama",
+  "crawl_timestamp": "2025-04-06T00:31:48.012299"
+}

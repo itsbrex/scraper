@@ -1,0 +1,7 @@
+{
+  "title": "s1",
+  "product_url": "https://github.com/simplescaling/s1",
+  "description": "s1 is a simple recipe for test-time scaling of LLMs, achieving strong reasoning performance comparable to o1-preview using only 1,000 examples & budget forcing. Open-source model, data, and code available.",
+  "producthunt_url": "https://www.producthunt.com/products/s1",
+  "crawl_timestamp": "2025-04-05T21:26:09.937089"
+}

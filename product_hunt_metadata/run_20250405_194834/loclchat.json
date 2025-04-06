@@ -1,0 +1,7 @@
+{
+  "title": "Locl.chat",
+  "product_url": "https://locl.chat/",
+  "description": "Local-first LLM chat using Groq\u2019s Deepseek distill LLaMa 70B for instant UI and super snappy responses. Built on top of Basic\u2019s user-owned data store technology, so that all your data lives in your data store in US servers and is permanently in your control!",
+  "producthunt_url": "https://www.producthunt.com/products/locl-chat",
+  "crawl_timestamp": "2025-04-05T20:24:39.046509"
+}

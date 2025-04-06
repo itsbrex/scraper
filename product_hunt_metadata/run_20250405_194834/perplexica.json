@@ -1,0 +1,7 @@
+{
+  "title": "Perplexica",
+  "product_url": "https://perplexica.io/",
+  "description": "Perplexica is an open-source AI search engine inspired by Perplexity AI. Use local LLMs (Ollama), OpenAI, or others. Features multiple search modes, web browsing, RAG, and an API. Docker ready!",
+  "producthunt_url": "https://www.producthunt.com/products/perplexica",
+  "crawl_timestamp": "2025-04-05T21:36:20.007076"
+}

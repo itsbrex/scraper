@@ -1,0 +1,7 @@
+{
+  "title": "ytotxt",
+  "product_url": "https://github.com/morriswong/ytotxt",
+  "description": "A Flask web application that automatically transcribes YouTube videos to text using OpenAI's Whisper model. Turn any youtube video into transcripts, with timestamps in transcriptions, and a clean interface for managing transcripts.",
+  "producthunt_url": "https://www.producthunt.com/products/ytotxt",
+  "crawl_timestamp": "2025-04-05T21:58:29.127178"
+}

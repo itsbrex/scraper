@@ -1,0 +1,7 @@
+{
+  "title": "Open Source AI Gateway",
+  "product_url": "https://ai-gateway.dev/",
+  "description": "A configurable API gateway for multiple LLM providers (OpenAI, Anthropic, Gemini, Ollama, Mistral and Cohere) with built-in analytics, guardrails, rate limiting, caching and administrative controls. HTTP and gRPC interfaces",
+  "producthunt_url": "https://www.producthunt.com/products/open-source-ai-gateway",
+  "crawl_timestamp": "2025-04-06T00:32:07.027058"
+}

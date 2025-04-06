@@ -1,0 +1,7 @@
+{
+  "title": "Gitlab AI Changelog Bot",
+  "product_url": "https://github.com/Schickli/gitlab-ai-changelog-bot",
+  "description": "This bot remindes and helps you create changelog entries. It checks if you hav forgotten your changelog entry and then reminds you. After that you have to option to let AI take over and create the changelog entry for you based on your changes.",
+  "producthunt_url": "https://www.producthunt.com/products/gitlab-ai-changelog-bot",
+  "crawl_timestamp": "2025-04-05T23:05:33.048464"
+}

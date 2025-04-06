@@ -1,0 +1,7 @@
+{
+  "title": "Readble Regex",
+  "product_url": "https://readable-regex-8d81b79167bf.herokuapp.com/",
+  "description": "An open-source REST API called Readable Regex that lets you do common string manipulation tasks (like validating emails or extracting numbers) with simple API calls. Reduces regex maintenance in codebases and improves code readability.",
+  "producthunt_url": "https://www.producthunt.com/products/readble-regex",
+  "crawl_timestamp": "2025-04-05T20:48:22.990495"
+}

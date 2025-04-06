@@ -1,0 +1,7 @@
+{
+  "title": "Quantum Circuit Game Engine",
+  "product_url": "https://qcge.ashmit.dev/",
+  "description": "This is a Quantum Circuit Game Engine for integrating Quantum Circuits into your Pygame-based quantum game. You can use it simply by creating an object of the `QuantumCircuitGrid` class stored in the `quantum_circuit.py` file.",
+  "producthunt_url": "https://www.producthunt.com/products/quantum-circuit-game-engine",
+  "crawl_timestamp": "2025-04-05T22:58:23.508512"
+}

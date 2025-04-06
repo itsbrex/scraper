@@ -1,0 +1,7 @@
+{
+  "title": "Cantrips.ai",
+  "product_url": "https://cantrips.ai/",
+  "description": "1) Auto generate meaningful filenames for downloads.\n2) Consistent formats for major file types. E.g. papers are formatted as date of download - title - author's last name. \n3) Add your preferences like using underscores or your own format for a specific file type. For example, you download invoices a lot, you can add invoices = vendor name -\n$ amount - receipt date - item (in development tbh :)",
+  "producthunt_url": "https://www.producthunt.com/products/cantrips-ai",
+  "crawl_timestamp": "2025-04-05T21:35:39.118178"
+}

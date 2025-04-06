@@ -1,0 +1,7 @@
+{
+  "title": "Pippo",
+  "product_url": "https://github.com/facebookresearch/pippo",
+  "description": "Pippo, from Meta Reality Labs: Generate high-res (1K) multi-view human videos from a single photo! Uses a Diffusion Transformer, ControlMLP, and Attention Biasing. Code available.",
+  "producthunt_url": "https://www.producthunt.com/products/pippo-2",
+  "crawl_timestamp": "2025-04-05T22:57:20.849580"
+}

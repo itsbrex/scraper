@@ -1,0 +1,7 @@
+{
+  "title": "Timer for BMX, Bike, Sprint and athletic",
+  "product_url": "https://protimer.club/",
+  "description": "Open Source Training Timer. The perfect solution for timing sprints, track running, BMX, speed training, skiing, skating. Ideal for workouts where precision and convenience are essential.\n\n \ud83d\udce1 Technical Specifications:\n\u2022 Controller: NodeMCU ESP8266 or Wemos.\n\u2022 Range: up to 250 m (line of sight).\n\u2022 Sensors: IR (2\u20133 m \"gate\") or Laser (7\u20138 m \"gate\").\n\u2022 Power Supply: 5V via Power Bank.",
+  "producthunt_url": "https://www.producthunt.com/products/timer-for-bmx-bike-sprint-and-athletic",
+  "crawl_timestamp": "2025-04-05T20:34:59.522355"
+}

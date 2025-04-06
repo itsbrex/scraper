@@ -1,0 +1,7 @@
+{
+  "title": "JaySoft-DevBox",
+  "product_url": "https://github.com/iamjpsonkar/JaySoft-DevBox",
+  "description": "JaySoft-DevBox is an all-in-one local development toolkit powered by Docker. It has pre-configured databases, Kafka, Redis, monitoring (Prometheus & Grafana), and automated setup scripts. Easily start, manage, and scale your dev environment in seconds!",
+  "producthunt_url": "https://www.producthunt.com/products/jaysoft-devbox",
+  "crawl_timestamp": "2025-04-05T22:54:18.317681"
+}

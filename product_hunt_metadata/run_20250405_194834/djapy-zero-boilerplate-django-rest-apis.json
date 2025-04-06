@@ -1,0 +1,7 @@
+{
+  "title": "Djapy: Zero Boilerplate Django REST APIs",
+  "product_url": "https://djapy.io/",
+  "description": "A modern Python framework for building REST APIs in Django with zero boilerplate. Write pure Python, get type safety, Swagger docs, and async support out of the box. Perfect for MVPs and production apps.",
+  "producthunt_url": "https://www.producthunt.com/products/djapy-zero-boilerplate-django-rest-apis",
+  "crawl_timestamp": "2025-04-05T21:04:21.890586"
+}

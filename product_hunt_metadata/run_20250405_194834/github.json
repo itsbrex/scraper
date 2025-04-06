@@ -1,0 +1,7 @@
+{
+  "title": "GitHub",
+  "product_url": "https://github.com/apiiro/PRevent",
+  "description": "A GitHub app that detects malicious code in pull requests and prevents it from getting merged. Alongside it, also released a Semgrep ruleset for detection at any stage of the CI/CD.",
+  "producthunt_url": "https://www.producthunt.com/products/github-59",
+  "crawl_timestamp": "2025-04-06T00:53:34.455061"
+}

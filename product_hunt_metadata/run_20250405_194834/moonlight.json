@@ -1,0 +1,7 @@
+{
+  "title": "Moonlight",
+  "product_url": "https://github.com/MoonshotAI/Moonlight",
+  "description": "Moonlight is the open-source 3B/16B MoE LLMs from Moonshot AI, trained with the Muon optimizer for ~2x compute efficiency compared to AdamW. Pretrained, instruct-tuned, and intermediate checkpoints available.",
+  "producthunt_url": "https://www.producthunt.com/products/moonlight-6",
+  "crawl_timestamp": "2025-04-06T00:22:51.203473"
+}

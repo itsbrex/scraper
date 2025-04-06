@@ -1,0 +1,7 @@
+{
+  "title": "Aider",
+  "product_url": "https://aider.chat/",
+  "description": "Aider is the AI pair programmer that edits code in your local git repo via the terminal. Works with your editor, any LLM (Claude 3.5 Sonnet, DeepSeek R1, GPT-4o, local models), and many languages.",
+  "producthunt_url": "https://www.producthunt.com/products/aider",
+  "crawl_timestamp": "2025-04-05T23:47:50.033085"
+}

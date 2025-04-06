@@ -1,0 +1,7 @@
+{
+  "title": "GPT Router",
+  "product_url": "https://github.com/Writesonic/GPTRouter",
+  "description": "GPTRouter is an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming. Stay operational even when OpenAI is down.",
+  "producthunt_url": "https://www.producthunt.com/products/gpt-router",
+  "crawl_timestamp": "2025-04-05T20:02:35.831468"
+}

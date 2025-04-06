@@ -1,0 +1,7 @@
+{
+  "title": "Simple-OpenAI",
+  "product_url": "https://github.com/sashirestela/simple-openai",
+  "description": "Services: Audio, Batch, Chat Completion, Embedding, Files, Fine Tuning, Image, Models, Moderation, Realtime, Upload, Assistants. Technical Features: Asynchronous, Work with HttpClient or OkHttp, Run in Android, Support for: Gemini, DeepSeek, Mistral, Azure.",
+  "producthunt_url": "https://www.producthunt.com/products/simple-openai",
+  "crawl_timestamp": "2025-04-05T22:02:20.664340"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Apache CLI",
+  "product_url": "https://github.com/Debo-et/apache",
+  "description": "When Cloudera acquired Apache Ambari, it left a gap in the open-source cluster management space. Existing solutions are either enterprise-locked or too heavy for developers who prefer a simple, scriptable approach.",
+  "producthunt_url": "https://www.producthunt.com/products/apache-cli",
+  "crawl_timestamp": "2025-04-05T22:45:18.884045"
+}

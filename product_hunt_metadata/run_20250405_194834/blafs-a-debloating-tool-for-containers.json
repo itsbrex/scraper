@@ -1,0 +1,7 @@
+{
+  "title": "BLAFS: A debloating tool for containers",
+  "product_url": "https://github.com/negativa-ai/BLAFS",
+  "description": "Docker containers are bloated reaching 10s of GBs. We got fedup with the current state of debloating tool (there are multiple academic papers on why they suck), so we built an open-source debloating tool. Please try it and give us feedback!",
+  "producthunt_url": "https://www.producthunt.com/products/blafs-a-debloating-tool-for-containers",
+  "crawl_timestamp": "2025-04-06T00:02:30.812240"
+}

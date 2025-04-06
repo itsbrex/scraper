@@ -1,0 +1,7 @@
+{
+  "title": "Personalized Daily ArXiv",
+  "product_url": "https://arxiv.ianhsiao.xyz/",
+  "description": "Daily ArXiv, but Personalized with LLM. The users create descriptions about their taste, like \"Is the paper more about practical implementations rather than theoretical advancements?\", and have LLM's determine if the paper passes!",
+  "producthunt_url": "https://www.producthunt.com/products/personalized-daily-arxiv",
+  "crawl_timestamp": "2025-04-05T23:30:33.204351"
+}

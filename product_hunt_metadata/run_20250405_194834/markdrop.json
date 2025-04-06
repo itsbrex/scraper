@@ -1,0 +1,7 @@
+{
+  "title": "Markdrop",
+  "product_url": "https://github.com/shoryasethia/markdrop",
+  "description": "A Python package for converting PDFs to markdown while extracting images and tables, generate descriptive text descriptions for extracted tables/images using several LLM clients. And many more functionalities. Markdrop is available on PyPI.",
+  "producthunt_url": "https://www.producthunt.com/products/markdrop",
+  "crawl_timestamp": "2025-04-06T00:55:10.480319"
+}

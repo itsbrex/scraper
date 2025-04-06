@@ -1,0 +1,7 @@
+{
+  "title": "Invoicify",
+  "product_url": "https://invoicify-five.vercel.app/",
+  "description": "Developed a backend service to convert JSX-based invoice templates into PDFs, Optimized Frontend-Backend Communication \u2013 Designed a RESTful API to securely transfer invoice data from the frontend to the backend, Developed Analytics System to Grow Businesses.",
+  "producthunt_url": "https://www.producthunt.com/products/invoicify",
+  "crawl_timestamp": "2025-04-05T20:40:04.162674"
+}

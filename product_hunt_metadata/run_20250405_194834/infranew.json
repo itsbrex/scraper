@@ -1,0 +1,7 @@
+{
+  "title": "infra.new",
+  "product_url": "https://infra.new/",
+  "description": "infra.new is an AI Copliot optimized for configuring cloud infrastructure on AWS, GCP, and Azure.\n\n- Generate a complete Terraform + CI/CD setup for any cloud\n- Customize prebuilt infrastructure templates with a chat interface\n- Import from GitHub to update or optimize your existing configuration\n- Connect your team's Terraform Registry to customize code generation",
+  "producthunt_url": "https://www.producthunt.com/products/infra-new",
+  "crawl_timestamp": "2025-04-05T23:26:40.964043"
+}

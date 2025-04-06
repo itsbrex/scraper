@@ -1,0 +1,7 @@
+{
+  "title": "DocSpring",
+  "product_url": "https://docspring.com/",
+  "description": "DocSpring streamlines PDF generation. Upload a fillable or scanned PDF, configure fields in our template editor (auto-importing existing ones), and post JSON to our API to generate your completed document.\n\nGenerate PDFs from HTML/CSS using Liquid templates. Collect data via shareable or embeddable forms featuring legally binding e-signatures with full audit trails. Build white-labelled workflows and integrate with Python, Ruby, Java, Node, and more.",
+  "producthunt_url": "https://www.producthunt.com/products/docspring",
+  "crawl_timestamp": "2025-04-06T00:55:11.128460"
+}
