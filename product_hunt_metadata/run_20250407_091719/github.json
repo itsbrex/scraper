@@ -1,0 +1,7 @@
+{
+  "title": "GitHub",
+  "product_url": "https://github.com/NLPOptimize/flash-tokenizer",
+  "description": "\ud83d\ude80 **FlashTokenizer: World's Fastest CPU Tokenizer!** \u26a1 8~15x faster than `BertTokenizerFast` \ud83d\udee0\ufe0f High-performance C++ \ud83d\udd04 Parallel with OpenMP \ud83d\udce6 Easy pip install \ud83d\udcbb Cross-platform (Win/Mac/Linux) \u25b6\ufe0f Demo: youtu.be/a_sTiAXeSE0",
+  "producthunt_url": "https://www.producthunt.com/products/github-77",
+  "crawl_timestamp": "2025-04-07T09:45:44.751396"
+}

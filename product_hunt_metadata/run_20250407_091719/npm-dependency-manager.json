@@ -1,0 +1,7 @@
+{
+  "title": "NPM Dependency Manager",
+  "product_url": "https://github.com/d4rylp/npm-dep",
+  "description": "NPM Dependency Manager is an intuitive Electron app for quickly scanning multiple projects, identifying outdated global or local NPM dependencies, and updating production and development packages via easy-to-use interface.",
+  "producthunt_url": "https://www.producthunt.com/products/npm-dependency-manager",
+  "crawl_timestamp": "2025-04-07T09:47:50.862427"
+}

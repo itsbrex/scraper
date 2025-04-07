@@ -1,0 +1,7 @@
+{
+  "title": "dotme",
+  "product_url": "https://github.com/rsvinicius/dotme",
+  "description": "dotme is a lightweight open source CLI that applies dotfiles from any Git repo to your current directory. Only dot-prefixed files/folders at the repo root are copied. Works on Linux, macOS, and Windows. Built in Go. Perfect for dev setups!",
+  "producthunt_url": "https://www.producthunt.com/products/dotme-2",
+  "crawl_timestamp": "2025-04-07T10:15:07.933572"
+}

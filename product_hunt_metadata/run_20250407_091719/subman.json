@@ -1,0 +1,7 @@
+{
+  "title": "SubMan",
+  "product_url": "https://subman.onrender.com/",
+  "description": "SubMan is a Laravel 10+ web app to track and manage your recurring subscriptions (Netflix, SaaS, domains, etc.). Features include email reminders, dashboard charts, and PDF export. Built with Tailwind CSS, Laravel Breeze and Chart.js",
+  "producthunt_url": "https://www.producthunt.com/products/subman-2",
+  "crawl_timestamp": "2025-04-07T10:14:47.403161"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Vite + React + TS",
+  "product_url": "https://ai.doi.bio/",
+  "description": "ai.doi.bio is an AI chatbot that can control an integrated Molstar macromolecular viewer. ai.doi.bio allows you to look up any PDB id and find information about it, from PDB metadata in the header to paper abstracts and even full text of papers.",
+  "producthunt_url": "https://www.producthunt.com/products/vite-react-ts-4",
+  "crawl_timestamp": "2025-04-07T10:08:32.917660"
+}

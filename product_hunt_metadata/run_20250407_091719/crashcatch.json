@@ -1,0 +1,7 @@
+{
+  "title": "CrashCatch",
+  "product_url": "https://keithpotz.github.io/CrashCatch",
+  "description": "CrashCatch is a lightweight, header-only crash reporting library for C++. It generates detailed crash logs and stack traces across platforms (Windows, Linux, macOS) with minimal setup. Easy integration and no dependencies required.",
+  "producthunt_url": "https://www.producthunt.com/products/crashcatch",
+  "crawl_timestamp": "2025-04-07T09:34:37.930198"
+}

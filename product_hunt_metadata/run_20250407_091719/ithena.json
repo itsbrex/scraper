@@ -1,0 +1,7 @@
+{
+  "title": "Ithena",
+  "product_url": "https://ithena.one/",
+  "description": "Open-Source SDK (@ithena-one/mcp-governance) A TypeScript library providing a robust governance pipeline and pluggable interfaces (Identity, Roles, Permissions, Credentials, Audit, Logging) to wrap your base MCP server.",
+  "producthunt_url": "https://www.producthunt.com/products/ithena",
+  "crawl_timestamp": "2025-04-07T09:45:25.564778"
+}
